@@ -20,13 +20,13 @@
 * [Teacher Escalation Protocol](teacher_escalation_protocol.md)
 * [Responding to Suicidal Students](part3/suicidal-students.md)
 * [Crisis Resource Appendix](crisis_resource_appendix.md)
-* [The 90-Day Visionary Pause Policy](90_day_visionary_pause_policy.md)
+* [The Grounded Visionary Path (90-Day)](90_day_grounded_visionary_path.md)
 * [Documentation Best Practices](part3/documentation.md)
 * [De-escalation Scripts & Language](part3/de-escalation-scripts.md)
 
 ## Part IV: Programs & Policies
 
-* [So You Want to Build a School: 90-Day Incubation Track](so_you_want_to_build_a_school.md)
+* [The Grounded Visionary Path: Building Your School](so_you_want_to_build_a_school.md)
 * [Student Removal & Re-entry Guidelines](part4/removal-reentry.md)
 * [Code of Conduct Enforcement](part4/code-of-conduct.md)
 * [The Multiverse School Code of Conduct](part4/multiverse-code-of-conduct.md)
@@ -56,6 +56,7 @@
 * [Understanding Dependent Personality Disorder (DPD)](part7/dependent-personality-disorder.md)
 
 ### Additional Resources
+* [Nonviolent Communication (NVC) Guide](part7/nonviolent-communication-guide.md)
 * [Research Sources & Evidence Base](part7/research-sources.md)
 * [Legal & Liability Considerations](part7/legal-considerations.md)
 * [Recommended Reading & Resources](part7/resources.md)

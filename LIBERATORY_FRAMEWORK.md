@@ -391,9 +391,66 @@ This framework is not dogma. It's a living practice we refine together through:
 
 ---
 
-**Sources:**
-- Freire, P. (1970). *Pedagogy of the Oppressed*
-- hooks, b. (1994). *Teaching to Transgress: Education as the Practice of Freedom*
-- Goldman, E. "The Child and Its Enemies"
-- Indigenous healing and decolonizing mental health frameworks
-- Transformative justice and disability justice movements
+**Sources & Further Reading:**
+
+### Paulo Freire
+- **Freire, P.** (1970). *Pedagogy of the Oppressed*. Continuum.
+  - Core text on banking model vs. problem-posing education
+- **Freire Institute:** https://www.freire.org/
+  - Resources and contemporary applications
+
+### bell hooks
+- **hooks, b.** (1994). *Teaching to Transgress: Education as the Practice of Freedom*. Routledge.
+  - On engaged pedagogy and love as political practice
+- **hooks, b.** (2000). *All About Love: New Visions*. William Morrow.
+  - On love as action, not feeling
+- **The bell hooks Center:** https://bellhookscenter.org/
+  - Preserving and extending her work
+
+### Emma Goldman
+- **Goldman, E.** "The Child and Its Enemies" in *Anarchism and Other Essays* (1910).
+  - Available free: https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays
+- **Goldman, E.** "Francisco Ferrer and the Modern School" (1911).
+  - On anarchist education
+- **Emma Goldman Papers Project:** https://www.lib.berkeley.edu/goldman
+  - Comprehensive archive
+
+### Marshall Rosenberg & Nonviolent Communication
+- **Rosenberg, M.** (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
+  - Foundational NVC text
+- **Center for Nonviolent Communication:** https://www.cnvc.org/
+  - Training, certified trainers, resources
+- **For deeper NVC guidance:** See [Nonviolent Communication Guide](part7/nonviolent-communication-guide.md) in this handbook
+
+### Indigenous Healing & Decolonizing Mental Health
+- **Gone, J.P., et al.** (2019). "The impact of historical trauma on health outcomes for indigenous populations in the USA and Canada." *Journal of Trauma & Dissociation*, 20(2), 1-18.
+- **Kirmayer, L.J., et al.** (2011). "Rethinking resilience from indigenous perspectives." *Canadian Journal of Psychiatry*, 56(2), 84-91.
+- **First Nations Health Authority (Canada):** https://www.fnha.ca/wellness/wellness-for-first-nations/mental-wellness-and-substance-use
+  - Resources on healing-centered practice
+- **Native American Rights Fund:** https://www.narf.org/
+  - Indigenous sovereignty and health
+
+### Healing-Centered vs. Trauma-Informed Practice
+- **Ginwright, S.** (2018). "The Future of Healing: Shifting From Trauma Informed Care to Healing Centered Engagement." *Medium*.
+  - Available: https://medium.com/@ginwright/the-future-of-healing-shifting-from-trauma-informed-care-to-healing-centered-engagement-634f557ce69c
+- Distinguishes "What's wrong with you?" from "What healing do you need?"
+
+### Transformative Justice & Disability Justice
+- **Mingus, M.** "Transformative Justice: A Brief Description" (2019).
+  - Available: https://transformharm.org/tj-principles/
+- **Piepzna-Samarasinha, L.L.** (2018). *Care Work: Dreaming Disability Justice*. Arsenal Pulp Press.
+- **Project NIA:** https://project-nia.org/
+  - Transformative justice resources
+
+### Mutual Aid & Collective Care
+- **Kropotkin, P.** (1902). *Mutual Aid: A Factor of Evolution*.
+  - Available free: https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution
+- **Spade, D.** (2020). *Mutual Aid: Building Solidarity During This Crisis (and the Next)*. Verso.
+- **Big Door Brigade:** https://bigdoorbrigade.com/
+  - Mutual aid network organizing resources
+
+### Additional Frameworks Aligned with This Work
+- **adrienne maree brown.** (2017). *Emergent Strategy: Shaping Change, Changing Worlds*. AK Press.
+  - On moving at the speed of trust, small is good, less is more
+- **Menakem, R.** (2017). *My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies*. Central Recovery Press.
+  - Somatic approach to healing collective trauma
