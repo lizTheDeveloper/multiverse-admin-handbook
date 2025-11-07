@@ -56,6 +56,51 @@ This handbook covers:
 
 ---
 
+## Quick Navigation
+
+### 🚨 In a Crisis Right Now?
+- [Responding to Suicidal Students](part3/suicidal-students.md)
+- [Crisis Resource Appendix](crisis_resource_appendix.md)
+- [Emergency Response Flowchart](quick-reference/emergency-flowchart.md)
+- [De-escalation Scripts](part3/de-escalation-scripts.md)
+
+### 📚 Start Here (New Teachers)
+- [Who We Serve: Student Profile](part1/student-profile.md)
+- [Understanding Neurodivergence](part1/neurodivergence.md)
+- [Teacher Escalation Protocol](teacher_escalation_protocol.md)
+- [Boundaries for Educators](part5/teacher-boundaries.md)
+
+### 📋 Policies & Guidelines
+- [The Multiverse School Code of Conduct](part4/multiverse-code-of-conduct.md)
+- [Mentoring Guidelines](part4/mentoring-guidelines.md)
+- [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md)
+- [Cohabitation Policy](part4/cohabitation-policy.md)
+- [Student Removal & Re-entry](part4/removal-reentry.md)
+
+### 🧠 Mental Health Resources
+- [Borderline Personality Disorder (BPD)](part7/borderline-personality-disorder.md)
+- [Schizophrenia & Psychosis](part7/schizophrenia-psychosis.md)
+- [Dependent Personality Disorder](part7/dependent-personality-disorder.md)
+- [When Students Trauma-Bond](part5/trauma-bonding.md)
+
+### 📖 Learn from Examples
+- [Case Study: The Crisis-Dependent Student](part6/case-crisis-dependent.md)
+- [Case Study: The Aspiring Guru](part6/case-aspiring-guru.md)
+- [Case Study: The Rapid Community Builder](part6/case-community-builder.md)
+- [Scenario Library: Practice Responses](part6/scenario-library.md)
+
+### 🔬 Evidence Base
+- [Research Sources & Citations](part7/research-sources.md)
+- [Citation Verification Report](CITATION_VERIFICATION.md)
+
+---
+
+## Full Table of Contents
+
+See [SUMMARY.md](SUMMARY.md) for complete handbook structure with all sections.
+
+---
+
 ## About The Multiverse School
 
 Founded by Ann Howard, The Multiverse School is an experimental adult education community dedicated to supporting unconventional learners. We believe in radical accessibility, peer learning, and the transformative power of education—held within strong ethical containers.
