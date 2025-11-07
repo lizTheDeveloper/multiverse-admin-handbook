@@ -194,20 +194,20 @@ NVC helps us communicate with compassion. Relational accountability helps us mai
   - Applying NVC in difficult situations
 
 ### Online Resources
-- **Center for Nonviolent Communication (CNVC):** https://www.cnvc.org/
+- **Center for Nonviolent Communication (CNVC):** [www.cnvc.org](https://www.cnvc.org/)
   - Training, certified trainers, resources
 
-- **NVC Academy:** https://nvctraining.com/
+- **NVC Academy:** [nvctraining.com](https://nvctraining.com/)
   - Free and paid courses
 
-- **Street Giraffe:** https://streetgiraffe.com/
+- **Street Giraffe:** [streetgiraffe.com](https://streetgiraffe.com/)
   - NVC from social justice perspective
 
 ### Practice Tools
-- **Feelings Inventory:** https://www.cnvc.org/training/resource/feelings-inventory
+- **Feelings Inventory:** [CNVC Feelings List](https://www.cnvc.org/training/resource/feelings-inventory)
   - List of feelings to help identify emotions
 
-- **Needs Inventory:** https://www.cnvc.org/training/resource/needs-inventory
+- **Needs Inventory:** [CNVC Needs List](https://www.cnvc.org/training/resource/needs-inventory)
   - List of universal human needs
 
 ---

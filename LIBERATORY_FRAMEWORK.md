@@ -396,7 +396,7 @@ This framework is not dogma. It's a living practice we refine together through:
 ### Paulo Freire
 - **Freire, P.** (1970). *Pedagogy of the Oppressed*. Continuum.
   - Core text on banking model vs. problem-posing education
-- **Freire Institute:** https://www.freire.org/
+- **Freire Institute:** [www.freire.org](https://www.freire.org/)
   - Resources and contemporary applications
 
 ### bell hooks
@@ -404,49 +404,49 @@ This framework is not dogma. It's a living practice we refine together through:
   - On engaged pedagogy and love as political practice
 - **hooks, b.** (2000). *All About Love: New Visions*. William Morrow.
   - On love as action, not feeling
-- **The bell hooks Center:** https://bellhookscenter.org/
+- **The bell hooks Center:** [bellhookscenter.org](https://bellhookscenter.org/)
   - Preserving and extending her work
 
 ### Emma Goldman
 - **Goldman, E.** "The Child and Its Enemies" in *Anarchism and Other Essays* (1910).
-  - Available free: https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays
+  - [Available free at The Anarchist Library](https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays)
 - **Goldman, E.** "Francisco Ferrer and the Modern School" (1911).
   - On anarchist education
-- **Emma Goldman Papers Project:** https://www.lib.berkeley.edu/goldman
+- **Emma Goldman Papers Project:** [www.lib.berkeley.edu/goldman](https://www.lib.berkeley.edu/goldman)
   - Comprehensive archive
 
 ### Marshall Rosenberg & Nonviolent Communication
 - **Rosenberg, M.** (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
   - Foundational NVC text
-- **Center for Nonviolent Communication:** https://www.cnvc.org/
+- **Center for Nonviolent Communication:** [www.cnvc.org](https://www.cnvc.org/)
   - Training, certified trainers, resources
 - **For deeper NVC guidance:** See [Nonviolent Communication Guide](part7/nonviolent-communication-guide.md) in this handbook
 
 ### Indigenous Healing & Decolonizing Mental Health
 - **Gone, J.P., et al.** (2019). "The impact of historical trauma on health outcomes for indigenous populations in the USA and Canada." *Journal of Trauma & Dissociation*, 20(2), 1-18.
 - **Kirmayer, L.J., et al.** (2011). "Rethinking resilience from indigenous perspectives." *Canadian Journal of Psychiatry*, 56(2), 84-91.
-- **First Nations Health Authority (Canada):** https://www.fnha.ca/wellness/wellness-for-first-nations/mental-wellness-and-substance-use
+- **First Nations Health Authority (Canada):** [Mental Wellness Resources](https://www.fnha.ca/wellness/wellness-for-first-nations/mental-wellness-and-substance-use)
   - Resources on healing-centered practice
-- **Native American Rights Fund:** https://www.narf.org/
+- **Native American Rights Fund:** [www.narf.org](https://www.narf.org/)
   - Indigenous sovereignty and health
 
 ### Healing-Centered vs. Trauma-Informed Practice
 - **Ginwright, S.** (2018). "The Future of Healing: Shifting From Trauma Informed Care to Healing Centered Engagement." *Medium*.
-  - Available: https://medium.com/@ginwright/the-future-of-healing-shifting-from-trauma-informed-care-to-healing-centered-engagement-634f557ce69c
+  - [Read on Medium](https://medium.com/@ginwright/the-future-of-healing-shifting-from-trauma-informed-care-to-healing-centered-engagement-634f557ce69c)
 - Distinguishes "What's wrong with you?" from "What healing do you need?"
 
 ### Transformative Justice & Disability Justice
 - **Mingus, M.** "Transformative Justice: A Brief Description" (2019).
-  - Available: https://transformharm.org/tj-principles/
+  - [Read at Transform Harm](https://transformharm.org/tj-principles/)
 - **Piepzna-Samarasinha, L.L.** (2018). *Care Work: Dreaming Disability Justice*. Arsenal Pulp Press.
-- **Project NIA:** https://project-nia.org/
+- **Project NIA:** [project-nia.org](https://project-nia.org/)
   - Transformative justice resources
 
 ### Mutual Aid & Collective Care
 - **Kropotkin, P.** (1902). *Mutual Aid: A Factor of Evolution*.
-  - Available free: https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution
+  - [Available free at The Anarchist Library](https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution)
 - **Spade, D.** (2020). *Mutual Aid: Building Solidarity During This Crisis (and the Next)*. Verso.
-- **Big Door Brigade:** https://bigdoorbrigade.com/
+- **Big Door Brigade:** [bigdoorbrigade.com](https://bigdoorbrigade.com/)
   - Mutual aid network organizing resources
 
 ### Additional Frameworks Aligned with This Work

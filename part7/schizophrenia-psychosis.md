@@ -217,9 +217,9 @@ Students may show subtle changes weeks or months before obvious psychosis:
 
 **For first episode psychosis:**
 - **Coordinated Specialty Care (CSC) programs** — Evidence-based early intervention
-- **Strong 365** — Online support for first episode psychosis (strong365.org)
-- **NAMI** (nami.org) — Education and support
-- **ISPS-US** (isps-us.org) — Non-medical approaches to psychosis
+- **Strong 365** — Online support for first episode psychosis [strong365.org](https://strong365.org)
+- **NAMI** — Education and support [nami.org](https://nami.org)
+- **ISPS-US** — Non-medical approaches to psychosis [isps-us.org](https://isps-us.org)
 
 **Script:**
 > "I'm noticing some things that concern me about your wellbeing. I think it would be really helpful for you to talk to a mental health professional. Here are some resources: [list]. Have you been in touch with a therapist or doctor?"
@@ -285,7 +285,7 @@ Some spiritual experiences can look like psychosis but occur within a cultural/s
 
 **When in doubt, refer to mental health professional who can assess.**
 
-**Resource:** Spiritual Emergence Network (spiritualemergence.org)
+**Resource:** [Spiritual Emergence Network](https://spiritualemergence.org)
 
 ---
 
@@ -415,10 +415,10 @@ Witnessing someone in psychosis can be **deeply unsettling**.
 - Listen to how the person frames their own experience—don't impose medical language if they reject it
 
 **Resources:**
-- **Mad in America:** madinamerica.com — Critical psychiatry perspectives
-- **The Icarus Project (now Fireweed Collective):** fireweedcollective.org — Peer support, mutual aid approach to extreme states
-- **Will Hall's Harm Reduction Guide to Coming Off Psychiatric Drugs:** theicarusproject.net/resources
-- **Hearing Voices Network:** hearing-voices.org — Peer support without requiring medical framework
+- **Mad in America:** [madinamerica.com](https://madinamerica.com) — Critical psychiatry perspectives
+- **The Icarus Project (now Fireweed Collective):** [fireweedcollective.org](https://fireweedcollective.org) — Peer support, mutual aid approach to extreme states
+- **Will Hall's Harm Reduction Guide to Coming Off Psychiatric Drugs:** [theicarusproject.net/resources](https://theicarusproject.net/resources)
+- **Hearing Voices Network:** [hearing-voices.org](https://hearing-voices.org) — Peer support without requiring medical framework
 
 ### When Voluntary Support Isn't Enough
 
@@ -472,11 +472,11 @@ Then involuntary intervention may become necessary—but this should be a last r
 
 ### For Students
 - **988 Suicide & Crisis Lifeline:** Call or text 988
-- **Strong 365:** First episode psychosis support (strong365.org)
-- **Students With Psychosis (SWP):** sws.ngo
-- **NAMI:** nami.org (education, support groups)
-- **ISPS-US:** isps-us.org (non-medical approaches)
-- **Hearing Voices Network:** hearing-voices.org
+- **Strong 365:** First episode psychosis support [strong365.org](https://strong365.org)
+- **Students With Psychosis (SWP):** [sws.ngo](https://sws.ngo)
+- **NAMI:** Education and support groups [nami.org](https://nami.org)
+- **ISPS-US:** Non-medical approaches [isps-us.org](https://isps-us.org)
+- **Hearing Voices Network:** [hearing-voices.org](https://hearing-voices.org)
 
 ### For Teachers
 - **Yale Medicine:** "Supporting Young People with Psychosis in School"
