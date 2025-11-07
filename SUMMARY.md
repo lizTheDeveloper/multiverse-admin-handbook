@@ -53,6 +53,11 @@
 ### Liberatory Pedagogy Framework
 * [Framework Overview](LIBERATORY_FRAMEWORK.md)
 * [Foundational Thinkers](part7/liberatory-thinkers.md)
+  * [Paulo Freire: Education as Freedom](part7/thinker-freire.md)
+  * [bell hooks: Love as Political Practice](part7/thinker-hooks.md)
+  * [Emma Goldman: Mutual Aid](part7/thinker-goldman.md)
+  * [Marshall Rosenberg: NVC](part7/thinker-rosenberg-nvc.md)
+  * [Indigenous Perspectives: Relational Accountability](part7/thinker-indigenous.md)
 * [Liberatory Practice: Applications](part7/liberatory-practice.md)
 * [Sources & Further Reading](part7/liberatory-resources.md)
 

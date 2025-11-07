@@ -4,198 +4,196 @@ This document introduces the thinkers and traditions that ground The Multiverse 
 
 ---
 
-## Paulo Freire: Education as the Practice of Freedom
+## The Five Pillars of Our Framework
 
-**From *Pedagogy of the Oppressed*:**
+Our liberatory pedagogy framework draws from five interconnected traditions:
 
-> "The banking concept of education regards [people] as adaptable, manageable beings. The more students work at storing the deposits entrusted to them, the less they develop critical consciousness."
+### 1. [Paulo Freire: Education as the Practice of Freedom](thinker-freire.md)
 
-### We reject the banking model, where:
-- Teachers deposit knowledge into passive students
-- Students are containers to be filled
-- Education domesticates rather than liberates
-- Hierarchy is naturalized
+**Core contribution:** Banking model vs. problem-posing education; liberation through critical consciousness
 
-### We practice problem-posing education, where:
-- Facilitators and learners co-create knowledge
-- Education is dialogue, not monologue
-- Everyone teaches and everyone learns
-- Critical consciousness develops through praxis (reflection + action)
+**Key concepts:**
+- Banking model (teacher deposits knowledge) vs. problem-posing (co-creating knowledge through dialogue)
+- Praxis: reflection + action
+- Conscientização (critical consciousness)
+- "No one liberates themselves alone; we liberate ourselves together or not at all"
 
-### Freire's gift to us:
-> "No one is liberated alone; we liberate ourselves together or not at all."
-
-### Applied to The Multiverse:
-- We don't "manage" students—we co-create learning conditions
+**Applied to The Multiverse:**
+- We don't "manage" students — we co-create learning conditions
 - Authority comes from relational accountability, not hierarchy
-- Boundaries are consensual agreements, not top-down rules
 - When someone struggles, we ask: what oppressive conditions create this suffering?
 
+**[Read full guide →](thinker-freire.md)**
+
 ---
 
-## bell hooks: Love as Political Practice, Education as Freedom
+### 2. [bell hooks: Love as Political Practice](thinker-hooks.md)
 
-**From *Teaching to Transgress*:**
+**Core contribution:** Engaged pedagogy; love as action (not sentiment); teacher wholeness
 
-> "To teach in a manner that respects and cares for the souls of our students is essential if we are to provide the necessary conditions where learning can most deeply and intimately begin."
-
-### Engaged pedagogy requires:
-- The teacher's wellbeing and self-actualization (you can't give what you don't have)
-- Recognition of everyone's presence in the classroom
-- Integration of mind, body, and spirit
-- Passionate learning, not banking-model drudgery
-- Love as the foundation of learning
-
-### On love and boundaries:
-> "When we love we are able to be courageous enough to confront harsh truths. We can speak from the heart and share words that are confrontational and even critical. Love allows us to speak with care and to not be punitive, to be compassionate and empathetic."
-
-### Applied to The Multiverse:
+**Key concepts:**
+- Engaged pedagogy requires teacher's wellbeing and self-actualization
+- Love = care + commitment + knowledge + responsibility + respect + trust
 - Boundaries are acts of love, not control
+- "When we love we are able to be courageous enough to confront harsh truths"
+- Eros (aliveness, passion) in teaching
+
+**Applied to The Multiverse:**
+- Boundaries protect collective wellbeing
 - We care enough to confront when harm occurs
 - Facilitators must tend their own spirits to teach well
-- Learning communities succeed when everyone's humanity is honored
-- We dare to love deeply—which includes saying "this behavior harms community"
+- We dare to love deeply — which includes saying "this behavior harms community"
+
+**[Read full guide →](thinker-hooks.md)**
 
 ---
 
-## Emma Goldman: Mutual Aid as Anarchist Practice
+### 3. [Emma Goldman: Mutual Aid as Anarchist Practice](thinker-goldman.md)
 
-**From "The Child and Its Enemies":**
+**Core contribution:** Anarchist pedagogy; voluntary cooperation over coercion; free development
 
-> "If education should really mean anything at all, it must insist upon the free growth and development of the innate forces and tendencies of the child."
+**Key concepts:**
+- Free growth and development of innate forces (not molding or managing)
+- Mutual aid: voluntary cooperation for mutual benefit (not charity)
+- Authority must justify itself through accountability (not assumed)
+- Prefigurative politics: live your values now
+- "If education should really mean anything at all, it must insist upon the free growth and development of the innate forces and tendencies of the child"
 
-### Goldman's anarchist pedagogy centers:
-- Non-hierarchical, cooperative learning
-- Free growth and development (not molding or managing)
-- Education through living one's values, not abstract instruction
-- Mutual aid as the basis of society
-- Voluntary cooperation over coercion
-
-### On authority:
-> "I want freedom, the right to self-expression, everybody's right to beautiful, radiant things. Anarchism meant that to me, and I would live it in spite of the whole world."
-
-### Applied to The Multiverse:
+**Applied to The Multiverse:**
 - We practice mutual aid, not charity (no saviors)
 - Cooperation is voluntary; we don't compel compliance
-- Authority is questioned and justified through accountability, not assumed
-- "The school is not mine to run—we create it together"
+- "The school is not mine to run — we create it together"
 - Living our values is more powerful than rules
 
+**[Read full guide →](thinker-goldman.md)**
+
 ---
 
-## Marshall Rosenberg: Nonviolent Communication (NVC)
+### 4. [Marshall Rosenberg: Nonviolent Communication (NVC)](thinker-rosenberg-nvc.md)
 
-**From *Nonviolent Communication: A Language of Life*:**
+**Core contribution:** Framework for compassionate connection; observations, feelings, needs, requests
 
-> "NVC helps us connect with each other and ourselves in a way that allows our natural compassion to flourish."
+**Key concepts:**
+- The four components: Observations (not evaluations), Feelings (not thoughts), Needs (universal), Requests (not demands)
+- Empathy before education
+- Self-empathy as foundation
+- "NVC helps us connect with each other and ourselves in a way that allows our natural compassion to flourish"
 
-### The Four Components of NVC:
-1. **Observations** — What we see/hear without judgment or evaluation
-2. **Feelings** — Emotions arising from those observations
-3. **Needs** — Universal human needs behind our feelings
-4. **Requests** — Clear, specific, actionable requests (not demands)
-
-### NVC distinguishes:
-- Observations from evaluations ("You interrupt often" vs. "You're rude")
-- Feelings from thoughts ("I feel scared" vs. "I feel like you don't care")
-- Needs from strategies ("I need respect" vs. "You need to stop talking")
-- Requests from demands (can say no without consequences)
-
-### Applied to The Multiverse:
+**Applied to The Multiverse:**
 - When someone's behavior concerns us, we observe rather than diagnose
-- "When I see [observation], I feel [feeling] because I need [need]. Would you be willing to [request]?"
-- We name impact without pathologizing: "When interruptions happen frequently, the learning space feels less accessible to others"
-- We connect to universal needs: safety, understanding, autonomy, contribution
+- We name impact without pathologizing
+- We connect to universal needs (safety, autonomy, belonging, contribution)
 - Boundaries are clear requests, not punishments
 
-**For deeper NVC guidance:** See [Nonviolent Communication Guide](nonviolent-communication-guide.md)
+**[Read full guide →](thinker-rosenberg-nvc.md)**
+**[Comprehensive NVC Guide for Facilitators →](nonviolent-communication-guide.md)**
 
 ---
 
-## Indigenous Perspectives: Relational Accountability & Healing-Centered Practice
+### 5. [Indigenous Perspectives: Relational Accountability & Healing-Centered Practice](thinker-indigenous.md)
 
-**From indigenous healing and decolonizing mental health frameworks:**
+**Core contribution:** Relational accountability ("All my relations"); healing-centered (not trauma-informed); decolonizing mental health
 
-> "Healing incorporates physical, emotional, mental, and spiritual dimensions through relationships which occur alongside the healing journey."
+**Key concepts:**
+- Relational accountability: we are interconnected; responsibility to nurture relationships
+- Healing-centered asks "What healing do you need?" (not "What's wrong with you?")
+- Decolonizing mental health: DSM-5 pathologizes what oppression creates
+- Traditional Indigenous pedagogy: observation, hands-on learning, Elders, place-based
+- The Four Rs: Respect, Relevance, Reciprocity, Responsibility
+- Not everything needs a diagnosis
 
-### Relational accountability means:
-- "All my relations" — we are interconnected, not separate individuals
-- Responsibility to nurture relationships, not just achieve outcomes
-- Spiritual, emotional, mental, physical wellness are inseparable
-- Community healing, not just individual "treatment"
-- Honoring ancestral knowledge and lived experience
-
-### Healing-centered vs. Trauma-informed:
-- **Trauma-informed asks:** "What's wrong with you?"
-- **Healing-centered asks:** "What happened to you? What is right with you? What healing do you need?"
-
-### Decolonizing mental health:
-- DSM-5 pathologizes what settler-colonialism creates
-- "Mental illness" is often rational response to oppression
-- Diagnosis can be tool of social control
-- Indigenous, Black, queer, neurodivergent ways of being are not inherently pathological
-- Healing happens in community and through reconnection
-
-### Applied to The Multiverse:
-- We don't diagnose—we witness and support
-- "Crisis" may be spiritual emergence, ancestral calling, or breaking free from oppression
+**Applied to The Multiverse:**
+- We don't diagnose — we witness and support
 - Healing is relational: you heal in connection, not isolation
-- We ask "what conditions would support your flourishing?" not "what's your diagnosis?"
+- "Crisis" may be spiritual emergence, ancestral calling, or breaking free
+- We ask "What conditions would support your flourishing?" not "What's your diagnosis?"
 - Neurodivergence, madness, difference are not deficits
 
----
+**Includes:** Research on Montessori and Indigenous pedagogy connections
 
-## Key Concepts to Integrate
-
-### Banking Model vs. Problem-Posing Education (Freire)
-- **Banking:** Teacher knows all, students receive deposits
-- **Problem-posing:** Co-investigation of reality, mutual learning
-
-### Engaged Pedagogy (hooks)
-- Teachers must be whole to teach
-- Passion, care, and self-actualization are essential
-- Love is political practice
-
-### Mutual Aid (Goldman, Kropotkin)
-- Voluntary cooperation, not coercion
-- Horizontal relationships, not hierarchy
-- Living our values together
-
-### Nonviolent Communication (Rosenberg)
-- Observations, not evaluations
-- Feelings and needs, not judgments
-- Requests, not demands
-- Connect to universal human needs
-
-### Relational Accountability (Indigenous frameworks)
-- "All my relations"—interconnection, not individualism
-- Responsibility to nurture relationships
-- Healing through reconnection
-
-### Healing-Centered Practice (Decolonizing mental health)
-- "What healing do you need?" not "What's wrong with you?"
-- Community care, not individual pathology
-- Honoring different ways of being
+**[Read full guide →](thinker-indigenous.md)**
 
 ---
 
-## Quotes to Ground Us
+## How These Frameworks Integrate
 
-**Paulo Freire:**
-> "Washing one's hands of the conflict between the powerful and the powerless means to side with the powerful, not to be neutral."
+These five traditions are not separate — they build on and inform each other:
 
-**bell hooks:**
-> "Knowing how to be solitary is central to the art of loving. When we can be alone, we can be with others without using them as a means of escape."
+**Freire + hooks:**
+- Freire established problem-posing education and collective liberation
+- hooks added love, teacher wholeness, eros, and intersectional analysis (race, gender, class)
 
-**Emma Goldman:**
-> "Someone has said that it requires less mental effort to condemn than to think."
+**Freire + Goldman:**
+- Freire's critical consciousness + Goldman's anarchist mutual aid
+- Both reject hierarchy; Freire focuses on pedagogy, Goldman on voluntary cooperation
 
-**Relational Accountability (Indigenous):**
-> "We are responsible to all our relations—past, present, and future."
+**NVC + All:**
+- NVC provides the language tools to practice the principles of the other frameworks
+- Observations (not evaluations) = not pathologizing
+- Needs = recognizing our shared humanity
+- Requests (not demands) = voluntary cooperation
+
+**Indigenous frameworks + All:**
+- Relational accountability deepens Freire's collective liberation
+- Healing-centered practice challenges pathology in all frameworks
+- Four Rs (Respect, Relevance, Reciprocity, Responsibility) integrate across all traditions
+
+**All together:**
+- Education as dialogue and mutual learning (Freire, hooks, Goldman, Indigenous)
+- Love, boundaries, and accountability (hooks)
+- Voluntary cooperation and mutual aid (Goldman, Indigenous)
+- Compassionate language and connection (NVC)
+- Healing through community, not isolation (hooks, Indigenous)
+- Decolonizing and depathologizing (Freire, Indigenous)
+
+---
+
+## Quick Reference: Key Principles
+
+| Thinker | Key Question | Core Practice |
+|---------|-------------|---------------|
+| **Freire** | "Are we depositing knowledge or co-creating it?" | Problem-posing dialogue |
+| **hooks** | "Are we practicing love (care + accountability)?" | Engaged pedagogy with boundaries |
+| **Goldman** | "Is this voluntary or coerced?" | Mutual aid and free development |
+| **Rosenberg/NVC** | "What needs are present (mine, theirs, community)?" | Observations, feelings, needs, requests |
+| **Indigenous** | "How does this affect all my relations?" | Relational accountability and healing |
+
+---
+
+## How to Use These Resources
+
+**If you're new to liberatory pedagogy:**
+1. Start with [Liberatory Framework Overview](../LIBERATORY_FRAMEWORK.md)
+2. Read [Liberatory Practice: Applications](liberatory-practice.md) for concrete examples
+3. Explore individual thinkers as you're drawn to them
+
+**If you want to go deep on one thinker:**
+- Each thinker page includes essential readings, key quotes, reflection questions, and how to go deeper
+
+**If you're facing a specific situation:**
+1. See [Liberatory Practice](liberatory-practice.md) for practical applications
+2. Use the reflection questions from relevant thinker pages
+3. See [Nonviolent Communication Guide](nonviolent-communication-guide.md) for NVC scripts
+
+**For sources and further reading:**
+- See [Sources & Further Reading](liberatory-resources.md)
+
+---
+
+## Reflection Questions Across All Frameworks
+
+When facing a difficult situation, ask:
+
+1. **Freire:** Am I depositing knowledge or co-creating it? Are we naming reality together?
+2. **hooks:** Am I practicing love (care + accountability)? Am I whole enough to teach this?
+3. **Goldman:** Is this voluntary cooperation or coercion? Am I rescuing or facilitating autonomy?
+4. **NVC:** What am I observing (without evaluation)? What needs are present?
+5. **Indigenous:** How does this affect all my relations? Am I asking "What healing do you need?"
 
 ---
 
 **See also:**
 - [Liberatory Framework Overview](../LIBERATORY_FRAMEWORK.md)
 - [Liberatory Practice: Applications](liberatory-practice.md)
-- [Liberatory Resources & Further Reading](liberatory-resources.md)
+- [Sources & Further Reading](liberatory-resources.md)
+- [Nonviolent Communication Guide](nonviolent-communication-guide.md)
