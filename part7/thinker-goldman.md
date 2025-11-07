@@ -1,460 +1,296 @@
 # Emma Goldman: Mutual Aid as Anarchist Practice
 
-## Who Was Emma Goldman?
+Emma Goldman (1869-1940) was an anarchist who lived her politics. Deported from the U.S. for her activism, she spent her life organizing workers, challenging authority, and advocating for education rooted in freedom rather than obedience. Her framework gives us tools for voluntary cooperation and mutual aid.
 
-Emma Goldman (1869-1940) was a Lithuanian-born anarchist political activist, writer, and educator who championed free speech, workers' rights, birth control, and libertarian education. Known as "Red Emma," she was one of the most influential anarchist thinkers of the 20th century.
-
-**Key works:**
-- *Anarchism and Other Essays* (1910) — includes "The Child and Its Enemies"
-- "Francisco Ferrer and the Modern School" (1911)
-- *My Disillusionment in Russia* (1923)
-- *Living My Life* (1931) — her autobiography
-
-Goldman lived her anarchism: she organized workers, faced imprisonment, was deported from the U.S., and spent her life fighting for human freedom. Her vision of education was inseparable from her vision of a free society.
+**Essential reading:** "The Child and Its Enemies" in *Anarchism and Other Essays* (1910)
 
 ---
 
-## Anarchist Pedagogy: Free Growth and Development
+## The Core Framework: Voluntary Cooperation vs. Coercion
 
-Goldman's approach to education rejects all forms of domination.
+Goldman's central question: Is this happening through voluntary cooperation or coercion?
 
-### The Child and Its Enemies
+### Coercion in Education
 
-From her essay "The Child and Its Enemies":
+Traditional education prepares people to obey. Children are compelled to attend school, forced to study subjects chosen by authorities, punished for noncompliance, and rewarded for obedience. The goal is to create docile workers and citizens who accept their place in hierarchies.
 
-> "If education should really mean anything at all, it must insist upon the free growth and development of the innate forces and tendencies of the child."
+This coercion appears in many forms: grades (coercion through evaluation), mandatory attendance (coercion through requirement), standardized curriculum (coercion through limitation), punishment and detention (coercion through pain).
 
-**Goldman's enemies of the child:**
-1. **The home** (authoritarian parenting)
-2. **The school** (compulsory education, rote learning)
-3. **The church** (indoctrination, fear-based morality)
-4. **The state** (nationalism, obedience training)
+The problem isn't just that coercion feels bad. It's that coercion kills the very thing education claims to cultivate: curiosity, creativity, autonomous thinking. When you learn because you're forced to, you learn that learning is something imposed on you, not something you choose.
 
-**All of these institutions:**
-- Mold children to fit existing systems
-- Suppress individuality and creativity
-- Teach obedience over autonomy
-- Prepare people to be managed
+### Voluntary Cooperation
 
-### Education for Freedom, Not Obedience
+Goldman's alternative: education based on free growth and development. The child (or adult learner) pursues genuine interests through voluntary participation. No one compels, punishes, or rewards. Learning emerges from natural curiosity and the desire to contribute to community.
 
-**Traditional education:**
-- Prepares children to obey authority
-- Teaches conformity
-- Suppresses natural curiosity
-- Creates docile workers and citizens
+This doesn't mean no structure or guidance. It means the structure serves learning rather than control, and guidance is offered rather than imposed.
 
-**Anarchist education:**
-- Cultivates autonomy and critical thinking
-- Honors individuality
-- Encourages questioning authority
-- Prepares people to live freely
+**The Voluntary Cooperation Test:**
+Ask: Can they say no without punishment? If no equals consequences (shame, removal, harm), it's coercion. If no equals we find another path, it's voluntary.
+
+---
+
+## Mutual Aid: The Alternative to Charity
+
+Goldman built on Peter Kropotkin's *Mutual Aid*, which argued that cooperation (not competition) is the primary factor in evolution and human society.
+
+### The Mutual Aid Framework
+
+**Mutual aid is:** Voluntary cooperation for mutual benefit. Everyone gives what they can, receives what they need. Help flows in all directions. No one is above or below.
+
+**Mutual aid is not:**
+- Charity (which creates hierarchy: giver and receiver, savior and saved)
+- Equal exchange (I give X, you give X back)
+- Self-sacrifice (depleting yourself to help others)
+- Coerced cooperation (you must help or face consequences)
+
+### The Three Principles of Mutual Aid
+
+**1. From each according to capacity, to each according to need**
+People contribute what they can (which varies) and receive what they need (which also varies). Sometimes you give more, sometimes you receive more. The flow isn't equal at any moment, but it balances over time and across the community.
+
+**2. Reciprocity without transaction**
+You help because it serves the collective, not because you're owed something back. When you need help, it's available—not because you "earned" it, but because mutual aid is how the community functions.
+
+**3. No saviors**
+Mutual aid rejects the savior mentality. You're not rescuing helpless people. Everyone has capacity. You're supporting each other's autonomy, not creating dependence.
+
+**In practice:** When someone needs support, ask "What do you need?" not "Let me fix this for you." Facilitate their capacity rather than doing it for them. Remember that you may be on the receiving end tomorrow.
+
+See: [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md)
+
+---
+
+## Authority Must Justify Itself
+
+In anarchist thought, authority is not inherently legitimate. It must justify itself through accountability.
+
+### The Accountable Authority Framework
+
+You may have expertise that students lack. You may have institutional responsibility for certain decisions. You may have access to resources. This gives you authority—but that authority must be accountable and transparent.
+
+**Accountable authority means:**
+
+**1. You name your power openly**
+"I have power here: I can remove someone from the program, I make decisions about X, I have expertise in Y. Let me be transparent about what power I hold and what I don't."
+
+**2. You justify how you use it**
+You don't say "Because I said so." You explain: "I'm making this decision because [reason related to collective wellbeing/learning goals]."
+
+**3. You make yourself accountable**
+Students can question you, challenge your decisions, point out when you've caused harm. You respond to accountability rather than shutting it down.
+
+**4. You work to redistribute power where possible**
+You share decision-making, create space for collective governance, teach skills that transfer power.
+
+**What this is NOT:**
+- Pretending power doesn't exist ("we're all equal here")
+- Hiding your power to seem friendly
+- Refusing to make decisions that are your responsibility
+- Abandoning facilitation/leadership
+
+**What this IS:**
+- Transparent about power
+- Accountable for how you use it
+- Working to redistribute it where possible
+- Honest about the limits of equality in institutional contexts
+
+---
+
+## Free Growth and Development
+
+Goldman insisted education must honor "the free growth and development of the innate forces and tendencies of the child" rather than molding people to fit systems.
+
+### The Free Development Framework
+
+Every person has innate capacities, interests, questions. Your role is to create conditions where these can emerge and develop—not to impose what you think they should become.
+
+**In practice:**
+
+**1. Start with their questions, not your curriculum**
+What are they curious about? What problems are they trying to solve? Let content emerge from genuine interests.
+
+**2. Offer resources, don't require them**
+"Here's something I think might be useful" rather than "You must read this."
+
+**3. Trust their timing and path**
+They may not learn in the sequence you'd choose. They may take longer on some things, skip others. Trust the process.
+
+**4. Don't mistake support for molding**
+Providing structure, guidance, resources = support. Trying to make them into who you think they should be = molding.
+
+**The distinction:** Support enhances their autonomy. Molding supplants their autonomy with your vision.
+
+---
+
+## Prefigurative Politics: Live Your Values Now
+
+Anarchism is prefigurative: the means must align with the ends. You can't build a free society through authoritarian methods. You must embody your values now, not wait for "after the revolution."
+
+### The Prefigurative Framework
+
+If you want a learning community based on mutual aid, voluntary cooperation, and horizontal relationships, you must practice these now. You can't coerce people into learning about freedom. You can't use hierarchical methods to teach anarchist principles.
+
+**How to practice prefigurative politics:**
+
+**1. Model what you teach**
+If you teach critical thinking, welcome being questioned. If you teach cooperation, practice it. If you teach autonomy, respect theirs.
+
+**2. Create the conditions you want to see**
+Don't wait for permission to practice mutual aid. Start doing it. Build the community you envision.
+
+**3. Acknowledge when you fall short**
+You'll mess up. You'll reproduce hierarchies you're trying to dismantle. Name it, learn from it, adjust.
+
+**4. Ask: Do my means align with my ends?**
+If your goal is liberation but your method is control, there's a contradiction. The method becomes the outcome.
 
 ---
 
 ## The Modern School Movement
 
-Goldman championed the **Modern School** (Escuela Moderna) founded by Francisco Ferrer in Spain.
+Goldman championed Francisco Ferrer's Modern School (Escuela Moderna) in Spain, which embodied anarchist education principles.
 
-### Ferrer's Principles (Embraced by Goldman)
+### Key Practices from the Modern School
 
-**1. No rewards or punishments**
-- Learning is its own reward
-- Punishment teaches fear, not understanding
-- Grades create competition, not cooperation
+**No rewards or punishments:** Learning is its own reward. Grades create competition; punishments teach fear. Neither develops genuine understanding or love of learning.
 
-**2. No compulsory attendance or curriculum**
-- Learning is voluntary
-- Students pursue their interests
-- Coercion kills curiosity
+**No compulsory curriculum:** Students pursue their interests. You might offer structure, but you don't mandate what they must study.
 
-**3. Co-education of all classes**
-- Rich and poor learn together
-- Breaking down class barriers
-- Mutual understanding across difference
+**Co-education of all classes:** Rich and poor learn together. Breaking down class barriers through shared education.
 
-**4. Rationalism and science**
-- Free inquiry, not dogma
-- Evidence-based learning
-- Questioning everything
+**Rational inquiry:** Question everything. No dogma, no imposed beliefs. Evidence-based learning.
 
-**5. Direct connection to life**
-- Learning integrated with living
-- Not abstract or disconnected
-- Education serves life, not systems
+**Connection to life:** Learning serves life, not credentials. Education is integrated with living, not separate from it.
 
-### Why Ferrer Mattered to Goldman
-
-Ferrer was executed by the Spanish government in 1909 for his educational work — the state recognized that free education threatens state power.
-
-Goldman wrote:
-> "Francisco Ferrer was shot to death... because he dared to proclaim: 'Away with the ignorance and darkness of the Church! Away with the economic slavery and social oppression! Free the child!'"
+**In The Multiverse:** Project-based learning (students choose projects based on real interests), no grades (feedback instead), voluntary participation, learning connected to actual problems students want to solve.
 
 ---
 
-## Mutual Aid: The Foundation of Anarchist Society
+## Applying Goldman's Framework in The Multiverse
 
-Goldman built on **Peter Kropotkin's** *Mutual Aid: A Factor of Evolution* (1902).
+### Shift 1: From Coercion to Voluntary Cooperation
 
-### What Is Mutual Aid?
+Old model: "You must attend class. You must complete assignments. You must comply with rules."
 
-**Mutual aid is:**
-- Voluntary cooperation for mutual benefit
-- Collective care, not charity
-- Reciprocity without exchange (I give what I can, I receive what I need)
-- The basis of human society (not competition)
+Goldman's model: "We've agreed to this learning structure. Can you participate in it? If not, let's find what works for you."
 
-**Mutual aid is NOT:**
-- Charity (which reinforces hierarchy: giver and receiver)
-- Equal exchange (I give X, you give X back)
-- Coerced cooperation
-- Self-sacrifice
+You still have agreements and structure, but participation is chosen. If someone can't participate in the agreement, you find another path—not punish them into compliance.
 
-### Kropotkin's Insight
+### Shift 2: From Charity/Rescue to Mutual Aid
 
-Kropotkin challenged social Darwinism ("survival of the fittest" means individual competition).
+Old model: "This student is struggling. I must save them."
 
-**His argument:**
-- Species that cooperate survive better than those that compete
-- Mutual aid is an evolutionary advantage
-- Humans naturally cooperate (it's systems that pit us against each other)
-- Anarchism aligns with human nature; capitalism distorts it
+Goldman's model: "Someone needs support. What do they need? Who has capacity to offer it? Tomorrow I might be the one needing support."
 
-**Goldman applied this to education:**
-- Children naturally cooperate when not forced to compete
-- Learning communities thrive on mutual aid
-- Grades and competition are imposed, not natural
+You're building community care, not positioning yourself as savior. See: [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md)
+
+### Shift 3: From Assumed Authority to Accountable Authority
+
+Old model: "I'm the teacher, so you must obey."
+
+Goldman's model: "I hold expertise in X and responsibility for Y. Let me be transparent about my power and accountable for how I use it."
+
+### Shift 4: From Imposed Curriculum to Emergent Learning
+
+Old model: "Here's what you need to know. Learn it."
+
+Goldman's model: "Here's the domain. What questions do you have? What do you want to build? Let's investigate together."
 
 ---
 
-## Voluntary Cooperation Over Coercion
+## The "No Saviors" Principle
 
-Central to Goldman's anarchism: **voluntary cooperation**.
+Goldman rejected the savior complex that plagues do-gooders and educators.
 
-### What Is Voluntary Cooperation?
+### Why Saviorism Is Harmful
 
-**In education:**
-- Students choose to participate (not compelled)
-- Learning emerges from genuine interest (not grades/punishment)
-- Cooperation happens because it serves everyone (not because of rules)
-- Authority is questioned and must justify itself
+When you position yourself as savior, you:
+- Deny the person's agency and capacity
+- Create dependence rather than autonomy
+- Center yourself (your goodness, your help) rather than their needs
+- Reproduce hierarchy (savior above, saved below)
+- Often serve your own ego more than their actual wellbeing
 
-**Goldman wrote:**
-> "I want freedom, the right to self-expression, everybody's right to beautiful, radiant things. Anarchism meant that to me, and I would live it in spite of the whole world."
+### The Alternative: Facilitation, Not Rescue
 
-### Authority Must Justify Itself
+**Savior approach:** "I see you can't do this. Let me do it for you / tell you how / manage you."
 
-**In anarchist pedagogy:**
-- Authority is not assumed
-- Teachers have expertise, not inherent power over students
-- Authority must be accountable
-- We question all hierarchy
+**Mutual aid approach:** "What do you need? What have you tried? How can I support your capacity?"
 
-**In The Multiverse:**
-- "The school is not mine to run — we create it together"
-- Facilitators hold expertise, but students are autonomous
-- Our authority comes from what we know and how we facilitate, not our titles
-- Power is transparent and accountable (see [Liberatory Practice](liberatory-practice.md))
-
----
-
-## Living Your Values, Not Abstract Instruction
-
-Goldman insisted on **living anarchism**, not just teaching it.
-
-### Prefigurative Politics
-
-**Prefigurative politics means:**
-- The means must align with the ends
-- You can't build a free society through authoritarian methods
-- How we organize now must reflect the world we want
-- We embody our values, not just talk about them
-
-**Applied to education:**
-- We can't teach freedom through coercion
-- We can't teach cooperation through competition
-- We can't teach critical thinking through rote memorization
-- We model what we teach
-
-**In The Multiverse:**
-- We practice mutual aid, not charity (no saviors)
-- We co-create agreements, not impose rules
-- We model non-hierarchical relationships
-- Living our values is more powerful than rules
-
----
-
-## No Saviors: Mutual Aid, Not Rescue
-
-Goldman rejected the savior mentality.
-
-### Why "Saving" Is Problematic
-
-**The savior mentality:**
-- Assumes some people are helpless
-- Reinforces hierarchy (savior and saved)
-- Denies agency and autonomy
-- Often serves the savior's ego
-
-**Mutual aid instead:**
-- Everyone has capacity
-- We support each other's autonomy
-- Help flows in all directions
-- No one is above or below
-
-**In The Multiverse:**
-- We don't "rescue" students
-- We facilitate conditions for their self-liberation
-- Students are subjects of their own lives, not objects of our intervention
-- When we "save," we disempower
-
----
-
-## Education Through Living, Not Abstraction
-
-Goldman critiqued education disconnected from life.
-
-### Learning by Doing
-
-**Anarchist education emphasizes:**
-- Direct experience over textbooks
-- Integration of intellectual, physical, emotional learning
-- Learning connected to real problems
-- Education as preparation for life, not for tests
-
-**Goldman wrote about the Modern School:**
-> "The Modern School aims to teach the child to think, not what to think; to question, not to accept; to create, not to copy."
-
-**In The Multiverse:**
-- Project-based learning (building real things)
-- Learning emerges from genuine problems
-- We integrate theory and practice
-- Education serves liberation, not credentials
-
----
-
-## Critique of Nationalism and Patriotism
-
-Goldman saw education as a tool of state indoctrination.
-
-### Schools as Indoctrination Centers
-
-**Traditional schools:**
-- Teach nationalism ("our country is the best")
-- Require patriotic rituals (pledges, anthems)
-- Prepare children for war and obedience
-- Suppress critical thinking about the state
-
-**Anarchist education:**
-- No nationalism or patriotism
-- International solidarity
-- Critical examination of state power
-- Allegiance to humanity, not nations
-
-**In The Multiverse:**
-- We question all forms of domination
-- We practice international/global solidarity
-- We don't pledge allegiance to systems that harm
-- Critical thinking includes critiquing the state
+You facilitate their autonomy rather than replacing it with your intervention. Sometimes this means letting them struggle, fail, learn. Sometimes it means offering resources or guidance. It never means doing it for them or deciding for them.
 
 ---
 
 ## Anarcha-Feminism: Goldman's Contributions
 
-Goldman was a pioneering anarcha-feminist.
+Goldman was a pioneering anarcha-feminist who connected women's liberation to all liberation.
 
-### Reproductive Freedom
+### Key Insights for Education
 
-Goldman championed:
-- Birth control access
-- Women's autonomy over their bodies
-- Critique of marriage as ownership
-- Sexual freedom
+**Bodily autonomy is foundational:** You don't control students' bodies. No forced sitting still, forced eye contact, forced attendance. Respect for bodily autonomy is respect for personhood.
 
-**Why this matters in education:**
-- Bodily autonomy is fundamental
-- We don't control students' bodies
-- We honor consent in all forms
-- Reproductive justice is part of liberation
+**Reproductive freedom connects to all freedom:** Goldman championed birth control and abortion rights when both were criminal. Control over one's body is inseparable from all other freedoms.
 
-### Free Love and Autonomy
+**Free love = autonomous relationships:** Relationships (including teacher-student) based on freedom, not obligation. Connection is genuine, not compelled.
 
-Goldman advocated **free love** — not promiscuity, but:
-- Relationships based on freedom, not obligation
-- Rejecting marriage as property relation
-- Autonomy in intimate relationships
-- Love as choice, not duty
-
-**Applied to education:**
-- Relationships are voluntary
-- We don't own students' time or attention
-- Connection is genuine, not compelled
-- Consent is central
+**In practice:** Honor consent in all interactions. Don't force physical presence or particular ways of being present. Recognize that control over bodies is control over lives.
 
 ---
 
-## Applied to The Multiverse School
+## Practical Tools
 
-### We Practice Mutual Aid, Not Charity (No Saviors)
+**The Voluntary Cooperation Audit:**
+Before any requirement, ask: Can they decline without punishment? If not, it's coercion. Is coercion necessary here, or can I make this voluntary?
 
-**Charity model:**
-- "I have; you lack"
-- Helper and helped (hierarchy)
-- One-directional flow
+**The Savior Check:**
+When you want to help someone, ask: Am I facilitating their autonomy, or am I trying to rescue them? Whose need is being met—theirs or mine?
 
-**Mutual aid model:**
-- Everyone has capacity
-- Help flows in multiple directions
-- Reciprocity (but not transactional)
-- We build together
+**The Mutual Aid Structure:**
+Create systems where help flows in multiple directions:
+- Peer support networks
+- Rotating facilitation
+- Shared resources without gatekeeping
+- Collective decision-making where possible
 
-See: [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md)
-
-### Cooperation Is Voluntary; We Don't Compel Compliance
-
-**Authoritarian approach:**
-- "You must do this"
-- Coercion and punishment
-
-**Anarchist approach:**
-- "Can you participate in this agreement?"
-- Voluntary cooperation
-- If someone can't participate consensually, we find another path
-
-### Authority Is Questioned and Justified Through Accountability, Not Assumed
-
-**Assumed authority:**
-- "I'm the teacher, so you must obey"
-
-**Accountable authority:**
-- "I hold expertise in X, which I offer in service of our collective learning"
-- "My authority must be justified and accountable"
-- "You can question me — that's part of learning"
-
-### "The School Is Not Mine to Run — We Create It Together"
-
-**Hierarchical:**
-- "My school, my rules"
-- Top-down decision-making
-
-**Anarchist:**
-- Co-created agreements
-- Shared governance where possible
-- Transparent decision-making
-- Students have voice in shaping community
-
-### Living Our Values Is More Powerful Than Rules
-
-**Rules-based:**
-- Long list of "don't do this"
-- Enforcement and punishment
-
-**Values-based:**
-- We model what we believe
-- We embody our principles
-- When we fail, we acknowledge and repair
-- Prefigurative politics: we create the world we want, now
+**The Prefigurative Audit:**
+Do my methods align with my values? If I value freedom, am I using coercion? If I value cooperation, am I competing? Where's the contradiction?
 
 ---
 
-## Key Quotes to Ground Us
+## Key Quotes
 
-> "If education should really mean anything at all, it must insist upon the free growth and development of the innate forces and tendencies of the child."
+"If education should really mean anything at all, it must insist upon the free growth and development of the innate forces and tendencies of the child."
 
-> "I want freedom, the right to self-expression, everybody's right to beautiful, radiant things."
+"I want freedom, the right to self-expression, everybody's right to beautiful, radiant things."
 
-> "Someone has said that it requires less mental effort to condemn than to think."
+"Someone has said that it requires less mental effort to condemn than to think."
 
-> "The most violent element in society is ignorance."
+"The most violent element in society is ignorance."
 
-> "If I can't dance, I don't want to be part of your revolution."
-
-> "Anarchism stands for the liberation of the human mind from the dominion of religion and liberation of the human body from the coercion of property; liberation from the shackles and restraint of government."
+"If I can't dance, I don't want to be part of your revolution."
 
 ---
 
-## Critiques and Limitations
+## Limitations
 
-**Some critiques:**
-- Goldman's anarchism was individualist (less focus on collective organizing)
-- Limited engagement with race (though she opposed racism)
-- Sometimes dismissive of democratic reform efforts
-- Can feel utopian or impractical
-
-**Our response:**
-- We integrate Goldman with Freire (collective liberation) and hooks (intersectionality)
-- We ground anarchist principles in practical application
-- We acknowledge the tensions between autonomy and collective needs
-- We honor what she gave us while building on it
+Goldman's anarchism was individualist, with less focus on collective organizing structures. She engaged less with race than contemporary work requires. Her vision can feel utopian without practical transition strategies. We integrate Goldman with Freire (collective liberation and critical consciousness), hooks (intersectionality), and Indigenous frameworks (relational accountability) to address these gaps.
 
 ---
 
-## Anarchism and Mutual Aid Today
+## Going Deeper
 
-### Contemporary Mutual Aid Networks
+**Goldman's work:** *Anarchism and Other Essays* (1910)—[Free online](https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays)
 
-Goldman's vision lives on in:
-- **Mutual aid networks** during COVID-19 and disasters
-- **Food Not Bombs** — free food sharing, no hierarchy
-- **Really Really Free Markets** — gift economy, no money
-- **Anarchist black cross** — prisoner support networks
-- **Community fridges and pantries**
+**On mutual aid:** Kropotkin's *Mutual Aid* (1902)—[Free online](https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution)
 
-### Anarchist Educators Today
+**Contemporary:** Spade, *Mutual Aid: Building Solidarity* (2020)
 
-- **Unschooling and deschooling movements** (Ivan Illich)
-- **Free schools** (Sudbury, democratic schools)
-- **Radical pedagogy networks**
-- **Anarchist studies programs** (some universities)
-
----
-
-## How to Go Deeper
-
-### Essential Reading
-
-**Goldman's own work:**
-- **Goldman, E.** *Anarchism and Other Essays* (1910).
-  - [Free at The Anarchist Library](https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays)
-  - Read "The Child and Its Enemies" and "Francisco Ferrer and the Modern School"
-- **Goldman, E.** *Living My Life* (1931).
-  - Her autobiography — passionate, inspiring, lived anarchism
-
-**On mutual aid:**
-- **Kropotkin, P.** *Mutual Aid: A Factor of Evolution* (1902).
-  - [Free at The Anarchist Library](https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution)
-  - Foundational text
-- **Spade, D.** (2020). *Mutual Aid: Building Solidarity During This Crisis (and the Next)*. Verso.
-  - Contemporary applications
-
-**On anarchist education:**
-- **Suissa, J.** (2010). *Anarchism and Education: A Philosophical Perspective*. PM Press.
-- **Spring, J.** (1998). *A Primer of Libertarian Education*. Black Rose Books.
-
-### Resources
-- **Emma Goldman Papers Project:** [www.lib.berkeley.edu/goldman](https://www.lib.berkeley.edu/goldman)
-- **The Anarchist Library:** [theanarchistlibrary.org](https://theanarchistlibrary.org/)
-- **Big Door Brigade:** [bigdoorbrigade.com](https://bigdoorbrigade.com/) — Mutual aid organizing
-
----
-
-## Reflection Questions
-
-When applying Goldman's framework, ask:
-
-1. **Voluntary or coerced?** — Are people choosing to participate, or are they compelled?
-2. **Mutual aid or charity?** — Am I practicing reciprocity or reinforcing hierarchy?
-3. **Living values?** — Do my actions align with my stated principles?
-4. **Authority justified?** — Is my authority accountable and transparent, or assumed?
-5. **Free growth?** — Am I honoring students' innate development, or molding them?
-6. **Savior mentality?** — Am I rescuing, or facilitating autonomy?
-7. **Prefigurative?** — Does how we organize now reflect the world we want?
+**Emma Goldman Papers:** [www.lib.berkeley.edu/goldman](https://www.lib.berkeley.edu/goldman)
 
 ---
 
 **See also:**
-- [Paulo Freire: Education as the Practice of Freedom](thinker-freire.md)
-- [bell hooks: Love as Political Practice](thinker-hooks.md)
-- [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md)
-- [Liberatory Practice: Applications](liberatory-practice.md)
-- [Liberatory Framework Overview](../LIBERATORY_FRAMEWORK.md)
+- [Paulo Freire: Education as Freedom](thinker-freire.md) — Problem-posing education, dialogue
+- [bell hooks: Love as Political Practice](thinker-hooks.md) — Boundaries, wholeness, love
+- [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md) — Practical mutual aid in The Multiverse
+- [Liberatory Practice: Applications](liberatory-practice.md) — Concrete scenarios

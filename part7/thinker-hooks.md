@@ -1,470 +1,285 @@
-# bell hooks: Love as Political Practice, Education as Freedom
+# bell hooks: Love as Political Practice
 
-## Who Was bell hooks?
+bell hooks (1952-2021) transformed how we understand teaching, love, and liberation. She extended Paulo Freire's work while bringing feminist, Black, and working-class Southern perspectives. Her framework centers love as political action and insists that teachers must be whole to teach.
 
-bell hooks (1952-2021), born Gloria Jean Watkins, was a Black feminist writer, cultural critic, and educator whose work transformed how we understand love, teaching, and liberation. She intentionally used lowercase letters for her name to center her ideas over her identity.
-
-**Key works:**
-- *Teaching to Transgress: Education as the Practice of Freedom* (1994)
-- *All About Love: New Visions* (2000)
-- *Feminism is for Everybody* (2000)
-- *The Will to Change: Men, Masculinity, and Love* (2004)
-- *Belonging: A Culture of Place* (2009)
-
-hooks built on Paulo Freire's work while bringing feminist, Black, and Southern working-class perspectives. She challenged Freire's limitations (gendered language, male-centered examples) while expanding liberatory pedagogy to address race, gender, class, and the soul.
+**Essential reading:** *Teaching to Transgress* (1994), *All About Love* (2000)
 
 ---
 
-## Engaged Pedagogy: Teaching as Liberatory Practice
+## The Core Framework: Engaged Pedagogy
 
-hooks calls her approach **engaged pedagogy** — teaching that respects and cares for the souls of students.
+hooks calls her approach "engaged pedagogy"—teaching that respects and cares for the souls of students. This isn't sentiment. It's a rigorous practice that requires the teacher's own wellbeing and wholeness.
 
-### What Is Engaged Pedagogy?
+### The Teacher's Wholeness Comes First
 
-> "To teach in a manner that respects and cares for the souls of our students is essential if we are to provide the necessary conditions where learning can most deeply and intimately begin."
+You cannot teach from an empty well. hooks is explicit: "Engaged pedagogy does not seek simply to empower students. Any classroom that employs a holistic model of learning will also be a place where teachers grow, and are empowered by the process."
 
-**Engaged pedagogy requires:**
+If you're burned out, depleted, or running on fumes, you can't create conditions where learning deeply occurs. Teaching requires passion, aliveness, presence—and you can't access these while ignoring your own needs.
 
-**1. The teacher's wellbeing and self-actualization**
-- You can't give what you don't have
-- Teachers must tend their own spirits to teach well
-- Burnout prevents engaged teaching
-- Self-care is not optional — it's essential to the work
+**In practice:** Your boundaries, rest, therapy, spiritual practice, and self-care are not optional luxuries. They're essential infrastructure for sustainable teaching. When you set a boundary to protect your capacity, you're not being selfish—you're maintaining your ability to show up well.
 
-**2. Recognition of everyone's presence in the classroom**
-- Every person's full humanity is honored
-- Bodies, emotions, spirits are welcomed (not just minds)
-- We bring our whole selves to learning
-
-**3. Integration of mind, body, and spirit**
-- Learning is not just intellectual
-- We learn through emotion, intuition, embodiment
-- Anti-Cartesian: we are not minds piloting meat suits
-
-**4. Passionate learning, not drudgery**
-- Education should excite, not bore
-- Excitement about ideas is contagious
-- Learning is a practice of freedom, not compliance
-
-**5. Love as the foundation of learning**
-- Love is not sentiment — it's practice
-- Caring for students' growth and wholeness
-- Creating conditions where souls can flourish
+See: [Burnout Prevention](../part5/burnout-prevention.md), [Boundaries for Educators](../part5/teacher-boundaries.md)
 
 ---
 
-## Love as Political Practice
+## Love as Action, Not Feeling
 
-hooks' most revolutionary contribution: **love is political practice, not just personal feeling**.
+hooks defines love precisely: "Love is as love does. Love is an act of will—namely, both an intention and an action."
 
-### Love as Action, Not Feeling
+Love is not warm feelings or being nice. Love is the combination of care, commitment, knowledge, responsibility, respect, and trust. It's the will to extend yourself for someone's growth—including confronting them when they cause harm.
 
-From *All About Love*:
+### The Love Framework
 
-> "Love is as love does. Love is an act of will — namely, both an intention and an action."
+**Love requires all six elements:**
 
-**What love is NOT:**
-- Sentiment or warm feelings
-- Enabling or rescuing
-- Avoiding conflict
-- Being nice all the time
-- Accepting harmful behavior
+**Care:** Active concern for wellbeing. You pay attention to what's happening with students.
 
-**What love IS:**
-- Intention + action for someone's growth
-- Commitment to truth-telling
-- Care enough to confront harm
-- Creating conditions for flourishing
-- Combination of care, commitment, knowledge, responsibility, respect, and trust
+**Commitment:** Sustained engagement, not abandonment when things get hard. You don't disappear when someone struggles.
 
-### The Will to Nurture Spiritual Growth
+**Knowledge:** Understanding the person and situation. You don't make assumptions—you investigate and listen.
 
-hooks defines love as:
+**Responsibility:** Accountability for your actions and their impact. When you harm someone, you acknowledge and repair.
 
-> "The will to extend one's self for the purpose of nurturing one's own or another's spiritual growth."
+**Respect:** Honoring autonomy and capacity. You don't try to control or manage—you support self-determination.
 
-**Applied to teaching:**
-- We care about students' growth, not just their performance
-- We confront behaviors that limit their freedom
-- We create conditions for transformation
-- We hold students accountable because we love them
+**Trust:** Faith in capacity for growth. You believe people can change and transform.
+
+**Missing any element, it's not love.** If you have care and commitment but no respect (you try to control them "for their own good"), that's not love. If you have respect and care but no responsibility (you won't acknowledge your impact), that's not love.
 
 ---
 
-## Love and Boundaries: The Fierce Work
+## Boundaries as Acts of Love
 
-One of hooks' most important teachings for educators:
+One of hooks' most crucial teachings for educators: love includes confrontation and boundaries.
 
 > "When we love we are able to be courageous enough to confront harsh truths. We can speak from the heart and share words that are confrontational and even critical. Love allows us to speak with care and to not be punitive, to be compassionate and empathetic."
 
-**This means:**
+### The Boundary-Love Integration
 
-### Boundaries Are Acts of Love
+When you set a boundary—"I can't respond to messages after 8pm" or "This behavior harms community and can't continue"—you're practicing love. You're protecting collective wellbeing (care, responsibility) while respecting everyone's autonomy (respect, trust that the person can choose different behavior).
 
-**NOT love:**
-- Tolerating harm to avoid conflict
-- Sacrificing community safety for one person
-- Avoiding difficult conversations
-- Enabling harmful behavior
+Avoiding confrontation isn't loving. It's avoiding discomfort at the expense of truth-telling. When someone harms others and you say nothing, you're not loving them—you're enabling harm and abandoning the people they hurt.
 
-**IS love:**
-- Saying "this behavior harms community"
-- Setting clear boundaries
-- Holding people accountable
-- Protecting collective wellbeing
+**The framework for loving confrontation:**
+1. Connect to care: You're doing this because you value the person and community
+2. Speak from the heart, not to punish: Your intention is growth, not shame
+3. Be specific about impact: Describe what you observe and how it affects others
+4. Honor autonomy: They choose how to respond
+5. Hold the boundary with compassion: If they can't participate in the agreement, a different path is needed
 
-### Confronting Harm Is Caring
-
-- We care enough to tell the truth
-- We speak from the heart, not to punish
-- We can be compassionate AND confrontational
-- Avoiding confrontation is avoiding love
-
-**In The Multiverse:**
-- When we say "you can't participate in community this way," that's love
-- When we set boundaries, we're protecting the collective (including the person causing harm)
-- Daring to love deeply means daring to be accountable
+**Example:**
+"I care about you and this community. I'm noticing [specific pattern]. This impacts others by [specific harm]. I believe you can participate differently. Can you work with me on this? If not, we need to find a different path that keeps everyone safe."
 
 ---
 
-## Education as the Practice of Freedom
+## Eros in Teaching: Aliveness and Passion
 
-hooks built on Freire's framework while addressing its gaps.
+hooks reclaims eros—not sexual energy, but life force, passion, aliveness—in teaching.
 
-### What She Kept from Freire
+### The Aliveness Framework
 
-- Education as dialogue, not monologue
-- Banking model critique
-- Liberation through critical consciousness
-- Co-creation of knowledge
+Teaching that lacks eros is deadening. When you go through the motions, when learning feels rote and disconnected, when there's no excitement or passion, students learn that education is something to endure, not something that enlarges life.
 
-### What She Added
-
-**1. Feminism and intersectionality**
-- Race, class, gender, sexuality intersect
-- White supremacist capitalist patriarchy as system
-- Black feminist thought as liberatory
-
-**2. Eros and passion in learning**
-- Excitement is part of learning
-- Bodies and emotions matter
-- Learning should feel alive, not deadening
-
-**3. The teacher's wholeness**
-- Freire didn't adequately address teacher self-care
-- Teachers must be whole to teach
-- Engaged pedagogy requires self-actualization
-
-**4. Love as explicit practice**
-- Freire implied love but didn't center it
-- hooks makes love the foundation
-
----
-
-## The Teacher's Wholeness: You Can't Pour from an Empty Cup
-
-hooks insists that teachers must tend their own spirits.
-
-### Why Teacher Wholeness Matters
-
-> "Engaged pedagogy does not seek simply to empower students. Any classroom that employs a holistic model of learning will also be a place where teachers grow, and are empowered by the process."
-
-**This means:**
-- Teaching is not self-sacrifice
-- Your wellbeing enables your teaching
-- Burnout serves no one
-- Self-actualization is part of the work
-
-### What Teachers Need
-
-**From *Teaching to Transgress*:**
-- Passion for the subject matter
-- Commitment to self-actualization
-- Spiritual practice or groundedness
-- Community and support
-- Permission to bring whole self to teaching
-- Time for reflection and renewal
-
-**In The Multiverse:**
-- See [Burnout Prevention & Recognition](../part5/burnout-prevention.md)
-- See [Boundaries for Educators](../part5/teacher-boundaries.md)
-- Teacher self-care is not optional
-
----
-
-## Eros in the Classroom: Passion and Aliveness
-
-hooks reclaims **eros** (life force, passion, aliveness) in teaching.
-
-### What Is Eros in Learning?
-
-Not sexual — but the **aliveness, excitement, and passion** that makes learning transformative.
-
-**hooks writes:**
-> "Professors who embrace the challenge of self-actualization will be better able to create pedagogical practices that engage students, providing them with ways of knowing that enhance their capacity to live fully and deeply."
-
-**This means:**
-- Learning should feel exciting, not deadening
-- Passion for ideas is contagious
-- We bring energy and aliveness to learning spaces
-- Education engages the whole person (mind, body, spirit)
-
-**What kills eros:**
-- Treating education as information transfer
-- Boring, rote learning
-- Disconnection from real life
-- Pretending to be neutral or objective
-- Teachers going through the motions
+Eros means bringing your full self—enthusiasm, curiosity, vulnerability, passion—to teaching. When you're genuinely excited about what you're teaching, that excitement is contagious. When you're curious and learning alongside students, that models that learning is a lifelong practice of freedom.
 
 **What cultivates eros:**
-- Genuine curiosity and excitement
-- Vulnerable, authentic teaching
-- Connecting learning to students' lives
-- Bringing your passion to the classroom
-- Making space for surprise and emergence
+- Teaching what you actually care about (not just what you "should" teach)
+- Vulnerability and authenticity (sharing your own learning journey)
+- Connecting subject matter to real life and real questions
+- Creating space for surprise and emergence
+- Integrating body, emotion, and spirit (not just intellect)
+
+**What kills eros:**
+- Treating teaching as mere information transfer
+- Hiding your personality and passion
+- Boring yourself (if you're bored, they're bored)
+- Disconnection from why this matters
+- Pretending to be neutral or "objective"
 
 ---
 
 ## Talking Back: Voice and Agency
 
-From *Talking Back: Thinking Feminist, Thinking Black*:
+From *Talking Back: Thinking Feminist, Thinking Black*, hooks teaches that "talking back" means speaking as an equal, refusing to be silenced, claiming voice and agency.
 
-**"Talking back" means:**
-- Speaking as an equal
-- Refusing to be silenced
-- Claiming voice and agency
-- Resisting domination
+### The Voice Framework
 
-**In education:**
-- Students "talk back" to dominant narratives
-- Students question what they're taught
-- Voice is central to liberation
-- We create conditions where marginalized voices are centered
+In oppressive contexts, talking back is resistance. Children are taught not to question authority. Marginalized people are told to be grateful and compliant. Students are trained to receive knowledge, not challenge it.
 
-**In The Multiverse:**
-- We want students to question us
-- Critical thinking includes questioning facilitators
-- "Talking back" is growth, not disrespect
-- Disagreement is welcomed (see [Liberatory Practice](liberatory-practice.md))
+Liberatory education encourages talking back. You want students to question you, to challenge assumptions, to speak their truth. This isn't disrespect—it's critical thinking.
+
+**In practice:**
+- Welcome disagreement: "I appreciate you pushing back on that"
+- Make space for questioning: "What doesn't sit right with you about this?"
+- Model talking back: Share when you've questioned authority or challenged conventional wisdom
+- Don't conflate respect with compliance: Respect means engagement, not agreement
+
+When a student "talks back," ask yourself: Are they being disrespectful, or are they thinking critically and expressing it directly? Often what we label "disrespect" is actually someone refusing to be passive.
+
+---
+
+## The Wholeness Requirement
+
+Engaged pedagogy requires that you bring your whole self and honor students' whole selves.
+
+### Integration: Mind, Body, Spirit
+
+Western education treats people as disembodied minds. You're supposed to sit still, suppress emotions, ignore your body, and think rationally. This is violence.
+
+hooks insists on integration: mind, body, spirit are inseparable. Learning happens through all of you—intellectual understanding, emotional resonance, embodied experience, spiritual meaning-making.
+
+**In practice:**
+- Notice when you're suppressing emotions or bodily experience
+- Create space for movement, emotional expression, spiritual connection
+- Don't treat crying or anger as problems to manage
+- Honor different ways of processing (some people need to move, some need silence, some need to talk)
+- Connect learning to students' actual lives (not just abstract concepts)
+
+---
+
+## Solitude and Love: The Foundation
+
+From *All About Love*: "Knowing how to be solitary is central to the art of loving. When we can be alone, we can be with others without using them as a means of escape."
+
+### The Solitude-Love Framework
+
+If you can't tolerate being alone with yourself, you'll use relationships to escape yourself. You'll need students to validate you, like you, see you as a good teacher. This creates codependence, not community.
+
+When you can be alone—when your worth doesn't depend on students' responses—you can love them freely. You can set boundaries without fear of abandonment. You can confront harm without fear of losing approval. You're present because you choose to be, not because you need them.
+
+**Self-check questions:**
+- Do I need students to like me?
+- Do I get defensive when challenged?
+- Am I devastated when someone leaves the community?
+- Do I sacrifice my wellbeing to avoid disappointing students?
+- Do I need to be needed?
+
+If yes to these, you may be using teaching to escape solitude. The work is to develop your capacity to be alone, to find your worth independent of student outcomes.
 
 ---
 
 ## Building Community in the Classroom
 
-hooks emphasizes that learning happens in community.
+hooks emphasizes that learning happens in community, and community requires commitment.
 
-### Community as Classroom
+### The Community-Building Framework
 
-**Principles:**
-- Everyone contributes
-- Everyone's presence matters
-- We build together, not in isolation
-- Learning is relational
-- Community requires commitment
+Community isn't automatic. It's built through:
 
-**What this looks like:**
-- Circle practices, not lecture halls
-- Dialogue, not monologue
-- Shared authority
-- Collective knowledge-building
-- Care for each other's growth
+**Shared commitment to the work:** Everyone agrees to show up, engage, grow together.
 
-### Differences and Conflict
+**Recognition of everyone's presence:** Each person matters. No one is invisible or disposable.
 
-hooks doesn't romanticize community — she acknowledges conflict.
+**Willingness to be transformed:** You don't come to community to stay the same.
 
-**From her work:**
-- Differences will emerge
-- Conflict is part of community
-- We learn to be in conflict together
-- Avoiding conflict prevents growth
-- Truth-telling can be uncomfortable AND necessary
+**Conflict as part of growth:** Differences will emerge. We learn to be in conflict together.
+
+**Collective accountability:** We hold each other and ourselves accountable for our agreements.
+
+**In practice:**
+- Start courses/cohorts by building community agreements together
+- Notice who speaks and who doesn't; create space for all voices
+- Name when conflict arises; don't avoid it
+- Celebrate growth and transformation when it happens
+- Return to agreements when someone violates them
 
 ---
 
-## Addressing Race, Class, Gender in the Classroom
+## White Supremacist Capitalist Patriarchy: Naming the System
 
-hooks insists that education cannot be neutral about oppression.
+hooks uses this phrase to name the interlocking system of domination. You can't pretend education is neutral about oppression.
 
-### Naming White Supremacist Capitalist Patriarchy
+### The Political Clarity Framework
 
-She uses the phrase **"white supremacist capitalist patriarchy"** to name the interlocking system.
+Education either reproduces domination or challenges it. When you avoid talking about racism, sexism, ableism, capitalism, you're reproducing them through silence.
 
-**Why this matters:**
-- We can't pretend education is apolitical
-- Silence about oppression serves oppression
-- We name systems, not just individual prejudices
-- Education either reproduces or challenges domination
+**In practice:**
+- Name oppression when it shows up in the learning space
+- Don't expect marginalized students to educate others about their oppression
+- Center voices from the margins
+- Challenge assumptions rooted in domination
+- Make the political stakes of your work explicit
 
-### Creating Liberatory Spaces for Marginalized Students
-
-**hooks' guidance:**
-- Center marginalized voices
-- Don't expect Black/queer/disabled students to educate others
-- Address racism, sexism, ableism when they show up
-- Create spaces where everyone can bring their full selves
-- Recognize that safety looks different for different people
-
-**In The Multiverse:**
-- We name power and oppression
-- We center neurodivergent, queer, Black, Indigenous, disabled voices
-- We don't ask marginalized students to perform their identities
-- We challenge ableism, racism, transphobia when they emerge
+hooks is clear: you can't teach freedom while pretending white supremacy, capitalism, and patriarchy don't exist.
 
 ---
 
-## Solitude and Love
+## Applying hooks' Framework in The Multiverse
 
-From *All About Love*:
+### Shift 1: Your Wholeness Enables Your Teaching
 
-> "Knowing how to be solitary is central to the art of loving. When we can be alone, we can be with others without using them as a means of escape."
+Old model: Sacrifice yourself for students. Ignore your needs. Pour from an empty cup.
 
-**Why this matters for educators:**
-- We must be okay alone to be present with students
-- If we need students to validate us, we use them
-- Solitude prevents codependence
-- We come to teaching from wholeness, not neediness
+hooks' model: Tend your spirit. Set boundaries. Seek therapy, rest, community. Your wholeness is essential infrastructure.
 
-**Applied to boundaries:**
-- We don't need students to like us
-- We can hold boundaries without fear of abandonment
-- We don't rescue students to feel needed
-- Our worth isn't dependent on student outcomes
+### Shift 2: Boundaries Protect Love
 
----
+Old model: "If I set a boundary, I'm not being loving."
 
-## Applied to The Multiverse School
+hooks' model: "Boundaries are acts of love. They protect collective wellbeing. I can say 'this behavior harms community' because I care."
 
-### Boundaries Are Acts of Love, Not Control
+### Shift 3: Confrontation Is Care
 
-**Banking/hierarchical approach:**
-- "I'm setting this boundary to control you"
-- Boundaries as punishment
+Old model: Avoid conflict. Be nice. Don't upset people.
 
-**hooks-inspired approach:**
-- "This boundary protects our collective wellbeing"
-- "I care about you AND I care about community safety"
-- "Love includes saying 'this behavior harms others'"
+hooks' model: "When I love, I'm courageous enough to confront harsh truths. I speak with care, not to punish. Truth-telling is love."
 
-### We Care Enough to Confront When Harm Occurs
+### Shift 4: Passion and Aliveness Matter
 
-**Avoiding confrontation:**
-- "I don't want to hurt their feelings"
-- "Maybe it'll get better on its own"
-- "I don't want conflict"
+Old model: Teaching is professional, neutral, detached.
 
-**Loving confrontation:**
-- "I notice [observation]. This impacts community by [impact]. Can we talk about this?"
-- "I care about you, which is why I'm bringing this up"
-- "This behavior doesn't align with who I know you want to be"
-
-### Facilitators Must Tend Their Own Spirits to Teach Well
-
-**From hooks:**
-- Teacher burnout prevents engaged pedagogy
-- You can't give what you don't have
-- Self-actualization is part of the work
-
-**In The Multiverse:**
-- [Burnout Prevention](../part5/burnout-prevention.md) is not optional
-- Take breaks, set boundaries, tend your spirit
-- Your wholeness enables your teaching
-
-### Learning Communities Succeed When Everyone's Humanity Is Honored
-
-**What this means:**
-- We recognize neurodivergent ways of being
-- We welcome bodies, emotions, spirits (not just minds)
-- We honor different learning styles
-- We create conditions where everyone can show up fully
-
-### We Dare to Love Deeply — Which Includes Saying "This Behavior Harms Community"
-
-**The paradox:**
-- Love includes boundaries
-- Care includes confrontation
-- Holding someone accountable is an act of love
+hooks' model: Bring eros. Be excited. Be vulnerable. Show up fully. Learning should feel alive.
 
 ---
 
-## Key Quotes to Ground Us
+## Practical Tools
 
-> "The classroom remains the most radical space of possibility in the academy."
+**The Six Elements of Love Audit:**
+Before a difficult conversation, check: Am I bringing care, commitment, knowledge, responsibility, respect, and trust? If any is missing, that's what needs attention first.
 
-> "What we do is more important than what we say or what we say we believe."
+**The Loving Confrontation Script:**
+"I care about you and this community [care]. I'm committed to working through this [commitment]. Here's what I'm observing [knowledge]. I'm accountable for my part [responsibility]. I trust you can hear this [trust and respect]. Can we talk about [specific behavior/impact]?"
 
-> "Knowing how to be solitary is central to the art of loving."
+**The Eros Check:**
+Before teaching anything, ask: Do I actually care about this? If not, why am I teaching it? Can I find what matters to me in this material? If you can't find your passion, you're doing banking education.
 
-> "Love is a combination of care, commitment, knowledge, responsibility, respect, and trust."
-
-> "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion."
-
-> "The function of art is to do more than tell it like it is — it's to imagine what is possible."
-
-> "When we drop fear, we can draw nearer to people, we can draw nearer to the earth, we can draw nearer to all the heavenly creatures that surround us."
+**The Wholeness Inventory:**
+Weekly: How am I tending mind, body, spirit? What needs attention? What boundaries do I need? Am I teaching from fullness or depletion?
 
 ---
 
-## Critiques and Limitations
+## Key Quotes
 
-**Some critiques:**
-- Later work became more spiritual/abstract
-- Less focus on concrete organizing strategies
-- Can feel individualistic at times (though rooted in collective)
-- Not as much focus on disability as on race/gender/class
+"The classroom remains the most radical space of possibility in the academy."
 
-**Our response:**
-- We integrate her work with others (Freire, Goldman, Indigenous frameworks)
-- We ground her principles in concrete practice
-- We extend her work to include neurodivergence and disability justice
-- We honor what she gave us while continuing to build
+"What we do is more important than what we say or what we say we believe."
+
+"Love is a combination of care, commitment, knowledge, responsibility, respect, and trust."
+
+"When we love we are able to be courageous enough to confront harsh truths."
+
+"Knowing how to be solitary is central to the art of loving."
 
 ---
 
-## How to Go Deeper
+## Limitations
 
-### Essential Reading
-
-**Start here:**
-- **hooks, b.** (1994). *Teaching to Transgress: Education as the Practice of Freedom*. Routledge.
-  - Essential for educators
-  - Accessible, personal, profound
-
-**On love:**
-- **hooks, b.** (2000). *All About Love: New Visions*. William Morrow.
-  - Love as practice, not feeling
-  - Love as political act
-
-**Memoirs and cultural criticism:**
-- **hooks, b.** (1996). *Bone Black: Memories of Girlhood*.
-- **hooks, b.** (2009). *Belonging: A Culture of Place*.
-
-### Resources
-- **The bell hooks Center:** [bellhookscenter.org](https://bellhookscenter.org/)
-  - Preserving and extending her work
-- **bell hooks Institute (Berea College)**
-  - Educational resources and programs
+hooks' later work became more spiritual and abstract. She focused less on concrete organizing strategies than on individual transformation. We integrate her insights with Freire (collective liberation), Goldman (mutual aid), and Indigenous frameworks (decolonization) to address these gaps.
 
 ---
 
-## Reflection Questions
+## Going Deeper
 
-When applying hooks' framework, ask:
+**Start here:** *Teaching to Transgress* (1994)—Essential for educators
 
-1. **Wholeness** — Am I bringing my whole self to this? Am I tending my own spirit?
-2. **Love as practice** — Am I practicing love (care + accountability) or just being nice?
-3. **Boundaries** — Are my boundaries protecting collective wellbeing?
-4. **Confrontation** — Am I avoiding necessary confrontation? Can I confront with compassion?
-5. **Eros** — Is there aliveness in this learning space?
-6. **Community** — Are we building together or am I depositing knowledge?
-7. **Voice** — Whose voices are centered? Who gets to "talk back"?
-8. **Solitude** — Can I be alone, or do I need students to validate me?
+**On love:** *All About Love* (2000)—Love as practice, not feeling
+
+**The bell hooks Center:** [bellhookscenter.org](https://bellhookscenter.org/)
 
 ---
 
 **See also:**
-- [Paulo Freire: Education as the Practice of Freedom](thinker-freire.md)
-- [Emma Goldman: Mutual Aid as Anarchist Practice](thinker-goldman.md)
-- [Liberatory Practice: Applications](liberatory-practice.md)
-- [Boundaries for Educators](../part5/teacher-boundaries.md)
-- [Liberatory Framework Overview](../LIBERATORY_FRAMEWORK.md)
+- [Paulo Freire: Education as Freedom](thinker-freire.md) — Banking vs problem-posing, dialogue
+- [Boundaries for Educators](../part5/teacher-boundaries.md) — Practical boundary-setting
+- [Burnout Prevention](../part5/burnout-prevention.md) — Tending your wholeness
+- [Liberatory Practice: Applications](liberatory-practice.md) — Concrete scenarios
