@@ -8,44 +8,52 @@
 
 Welcome to The Multiverse School's comprehensive guide for teachers, moderators, and administrators. This handbook exists to help you navigate the complex, rewarding work of supporting adult learners—many of whom are neurodivergent, healing from trauma, or experiencing mental health challenges.
 
-As an adult education space, we attract brilliant, unconventional students. We also attract people who are struggling, ungrounded, or not yet ready for the responsibility they seek. This handbook will teach you to recognize the difference and respond ethically.
+As an adult education space, we attract brilliant, unconventional students. We also attract people who are struggling, seeking grounding, or still developing the skills they need for the responsibilities they seek. This handbook will help you honor different ways of being while maintaining the collective wellbeing of our learning community.
+
+**Our approach is rooted in liberatory pedagogy**—drawing from Paulo Freire, bell hooks, Emma Goldman, and indigenous healing traditions. We practice problem-posing education, not the banking model. We build mutual aid, not hierarchy. We dare to love deeply—which includes setting fierce boundaries when needed. See our [Liberatory Pedagogy Framework](LIBERATORY_FRAMEWORK.md) for the theoretical grounding of this work.
 
 ## Who This Is For
 
-- **New Teachers** who need practical guidance on boundaries and crisis response
-- **Moderators** managing community spaces and student behavior
-- **Administrators** making safety and policy decisions
+- **New Facilitators** who need practical guidance on relational accountability and crisis response
+- **Moderators** facilitating community spaces and navigating community challenges
+- **Administrators** coordinating safety and co-creating policy with the community
 - **The CEO/Founder** establishing institutional memory and ethical standards
 
 ## Core Principles
 
-1. **Compassion First, Containment Second, Community Always**
-   - We care deeply about each person's wellbeing
-   - We refuse to let individual crises destabilize the learning environment
-   - We protect the collective good while treating individuals with dignity
+1. **Love as Political Practice (bell hooks)**
+   - We dare to love deeply—which means caring enough to confront harm
+   - Boundaries are acts of love that protect collective wellbeing
+   - We honor each person's humanity while refusing to sacrifice community safety
+   - "Love allows us to speak with care and to not be punitive, to be compassionate and empathetic"
 
-2. **Boundaries Over Bravery**
-   - You are educators, not therapists or crisis workers
-   - Knowing your limits is not abandonment—it's professional integrity
+2. **Relational Accountability Over Authority**
+   - You are co-learners and facilitators, not managers or therapists
+   - Power exists—we make it transparent and accountable, not invisible
+   - Knowing your limits is not abandonment—it's honoring the relationships we can sustain
+   - Everyone teaches and everyone learns (Paulo Freire)
 
-3. **Early Intervention Prevents Harm**
-   - Small warning signs become patterns
-   - Patterns become crises
-   - Document, communicate, and act early
+3. **Early Recognition Supports Healing**
+   - We pay attention to patterns that signal someone needs different support
+   - Recognition is not pathologizing—it's asking "what healing do you need?"
+   - Document with care, communicate with transparency, offer resources early
+   - "All my relations"—one person's struggle affects the collective (Indigenous wisdom)
 
-4. **Vision Without Grounding Is Fantasy**
-   - We honor big ideas by insisting on preparation
-   - Leadership must be earned through skill-building and accountability
+4. **Mutual Aid, Not Saviorism (Emma Goldman)**
+   - We practice voluntary cooperation, not coercion or rescue
+   - Vision paired with grounded preparation honors everyone's capacity
+   - Leadership emerges through skill-building and relational accountability
+   - We liberate ourselves together, or not at all (Paulo Freire)
 
 ## What You'll Learn
 
 This handbook covers:
-- Recognizing mental health warning signs and personality patterns
-- De-escalation and crisis response protocols
-- Managing students with grandiose visions or unstable behavior
-- When and how to escalate to professional help
-- Ethical boundaries for adult education
-- Self-care and burnout prevention for teachers
+- Recognizing when someone may need different kinds of support
+- De-escalation and healing-centered crisis response
+- Supporting people with big visions while insisting on grounded preparation
+- When and how to connect learners to professional resources
+- Relational accountability and ethical boundaries in adult education
+- Preventing burnout and sustaining yourself in this work
 
 ## How to Use This Handbook
 
@@ -64,11 +72,12 @@ This handbook covers:
 - [Emergency Response Flowchart](quick-reference/emergency-flowchart.md)
 - [De-escalation Scripts](part3/de-escalation-scripts.md)
 
-### 📚 Start Here (New Teachers)
+### 📚 Start Here (New Facilitators)
+- [**Liberatory Pedagogy Framework**](LIBERATORY_FRAMEWORK.md) ⭐ Read this first
 - [Who We Serve: Student Profile](part1/student-profile.md)
 - [Understanding Neurodivergence](part1/neurodivergence.md)
 - [Teacher Escalation Protocol](teacher_escalation_protocol.md)
-- [Boundaries for Educators](part5/teacher-boundaries.md)
+- [Relational Accountability & Boundaries](part5/teacher-boundaries.md)
 
 ### 📋 Policies & Guidelines
 - [The Multiverse School Code of Conduct](part4/multiverse-code-of-conduct.md)

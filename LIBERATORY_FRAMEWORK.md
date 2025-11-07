@@ -1,0 +1,360 @@
+# Liberatory Pedagogy Framework for The Multiverse School
+
+## Our Theoretical Grounding
+
+This handbook is rooted in liberatory education traditions that center love, mutual aid, decolonization, and horizontal relationships. We reject the "banking model" of education and the pathologizing frameworks of institutional psychiatry in favor of practices that honor autonomy, interconnection, and collective liberation.
+
+---
+
+## Foundational Thinkers
+
+### Paulo Freire: Education as the Practice of Freedom
+
+**From *Pedagogy of the Oppressed*:**
+
+> "The banking concept of education regards [people] as adaptable, manageable beings. The more students work at storing the deposits entrusted to them, the less they develop critical consciousness."
+
+**We reject the banking model, where:**
+- Teachers deposit knowledge into passive students
+- Students are containers to be filled
+- Education domesticates rather than liberates
+- Hierarchy is naturalized
+
+**We practice problem-posing education, where:**
+- Facilitators and learners co-create knowledge
+- Education is dialogue, not monologue
+- Everyone teaches and everyone learns
+- Critical consciousness develops through praxis (reflection + action)
+
+**Freire's gift to us:**
+> "No one is liberated alone; we liberate ourselves together or not at all."
+
+**Applied to The Multiverse:**
+- We don't "manage" students—we co-create learning conditions
+- Authority comes from relational accountability, not hierarchy
+- Boundaries are consensual agreements, not top-down rules
+- When someone struggles, we ask: what oppressive conditions create this suffering?
+
+---
+
+### bell hooks: Love as Political Practice, Education as Freedom
+
+**From *Teaching to Transgress*:**
+
+> "To teach in a manner that respects and cares for the souls of our students is essential if we are to provide the necessary conditions where learning can most deeply and intimately begin."
+
+**Engaged pedagogy requires:**
+- The teacher's wellbeing and self-actualization (you can't give what you don't have)
+- Recognition of everyone's presence in the classroom
+- Integration of mind, body, and spirit
+- Passionate learning, not banking-model drudgery
+- Love as the foundation of learning
+
+**On love and boundaries:**
+> "When we love we are able to be courageous enough to confront harsh truths. We can speak from the heart and share words that are confrontational and even critical. Love allows us to speak with care and to not be punitive, to be compassionate and empathetic."
+
+**Applied to The Multiverse:**
+- Boundaries are acts of love, not control
+- We care enough to confront when harm occurs
+- Facilitators must tend their own spirits to teach well
+- Learning communities succeed when everyone's humanity is honored
+- We dare to love deeply—which includes saying "this behavior harms community"
+
+---
+
+### Emma Goldman: Mutual Aid as Anarchist Practice
+
+**From "The Child and Its Enemies":**
+
+> "If education should really mean anything at all, it must insist upon the free growth and development of the innate forces and tendencies of the child."
+
+**Goldman's anarchist pedagogy centers:**
+- Non-hierarchical, cooperative learning
+- Free growth and development (not molding or managing)
+- Education through living one's values, not abstract instruction
+- Mutual aid as the basis of society
+- Voluntary cooperation over coercion
+
+**On authority:**
+> "I want freedom, the right to self-expression, everybody's right to beautiful, radiant things. Anarchism meant that to me, and I would live it in spite of the whole world."
+
+**Applied to The Multiverse:**
+- We practice mutual aid, not charity (no saviors)
+- Cooperation is voluntary; we don't compel compliance
+- Authority is questioned and justified through accountability, not assumed
+- "The school is not mine to run—we create it together"
+- Living our values is more powerful than rules
+
+---
+
+### Indigenous Perspectives: Relational Accountability & Healing-Centered Practice
+
+**From indigenous healing and decolonizing mental health frameworks:**
+
+> "Healing incorporates physical, emotional, mental, and spiritual dimensions through relationships which occur alongside the healing journey."
+
+**Relational accountability means:**
+- "All my relations" — we are interconnected, not separate individuals
+- Responsibility to nurture relationships, not just achieve outcomes
+- Spiritual, emotional, mental, physical wellness are inseparable
+- Community healing, not just individual "treatment"
+- Honoring ancestral knowledge and lived experience
+
+**Healing-centered vs. Trauma-informed:**
+- **Trauma-informed asks:** "What's wrong with you?"
+- **Healing-centered asks:** "What happened to you? What is right with you? What healing do you need?"
+
+**Decolonizing mental health:**
+- DSM-5 pathologizes what settler-colonialism creates
+- "Mental illness" is often rational response to oppression
+- Diagnosis can be tool of social control
+- Indigenous, Black, queer, neurodivergent ways of being are not inherently pathological
+- Healing happens in community and through reconnection
+
+**Applied to The Multiverse:**
+- We don't diagnose—we witness and support
+- "Crisis" may be spiritual emergence, ancestral calling, or breaking free from oppression
+- Healing is relational: you heal in connection, not isolation
+- We ask "what conditions would support your flourishing?" not "what's your diagnosis?"
+- Neurodivergence, madness, difference are not deficits
+
+---
+
+## How This Changes Our Language
+
+### OLD LANGUAGE (Hierarchy, Pathology, Control)
+❌ "Managing difficult students"
+❌ "Intervening in mental illness"
+❌ "Teacher authority"
+❌ "Behavior problems"
+❌ "Compliance with rules"
+
+### NEW LANGUAGE (Liberation, Healing, Relationality)
+✅ "Navigating community challenges together"
+✅ "Supporting someone's healing journey"
+✅ "Relational accountability"
+✅ "Behavior that disrupts collective learning"
+✅ "Co-created agreements and consensual boundaries"
+
+---
+
+## Core Principles Reframed
+
+### 1. We Are Co-Learners, Not Managers
+
+**Freire:** "Whoever teaches learns in the act of teaching, and whoever learns teaches in the act of learning."
+
+**This means:**
+- Facilitators hold some expertise (technical skills, institutional knowledge)
+- Learners hold expertise (lived experience, cultural knowledge, self-knowledge)
+- Power exists, but we redistribute it through dialogue and transparency
+- We name power dynamics instead of pretending they don't exist
+
+---
+
+### 2. Boundaries Are Consensual, Not Authoritarian
+
+**Goldman:** Voluntary cooperation over coercion.
+
+**This means:**
+- Code of Conduct is co-created agreement, not imposed rules
+- When someone violates agreements, we ask: "Can you participate consensually?"
+- Removal isn't punishment—it's recognizing someone can't be in voluntary relationship right now
+- Boundaries protect collective wellbeing, not institutional authority
+
+---
+
+### 3. We Honor Different Ways of Being
+
+**Indigenous wisdom:** Not everything needs a diagnosis.
+
+**This means:**
+- Neurodivergence is difference, not disorder
+- "Madness" can be wisdom, spiritual emergence, or breaking free
+- We don't pathologize—we ask: "What do you need to flourish?"
+- DSM-5 labels can be useful tools, but they're not the truth
+- Someone's healing journey is theirs to define
+
+---
+
+### 4. Love Is Central to Learning
+
+**bell hooks:** "Love as the practice of freedom."
+
+**This means:**
+- We create conditions where souls can be nurtured
+- Caring about someone includes confronting harm they cause
+- Boundaries are acts of love (protecting community)
+- Burnout prevention is love for ourselves
+- Daring to love deeply means daring to be accountable
+
+---
+
+### 5. Liberation Is Collective
+
+**Freire:** "No one liberates themselves alone."
+
+**This means:**
+- Individual healing happens in community context
+- One person's crisis affects the collective
+- We balance individual needs with collective wellbeing
+- Mutual aid, not saviorism
+- "How do we all get free?" not "How do I fix this person?"
+
+---
+
+## Applying This Framework
+
+### When Someone Is Struggling
+
+**DON'T:** "This student has BPD and needs to be managed."
+
+**DO:** "This person is in pain and their coping strategies are harming community. What healing and accountability does everyone need?"
+
+---
+
+### When Setting Boundaries
+
+**DON'T:** "You're violating the rules. You'll be punished."
+
+**DO:** "Our co-created agreement says X. You're doing Y, which harms community. Can you participate in this agreement? If not, we need a different path."
+
+---
+
+### When Teaching
+
+**DON'T:** Banking model—deposit knowledge into passive recipients.
+
+**DO:** Problem-posing—"What do you notice? What questions emerge? What shall we investigate together?"
+
+---
+
+### When Responding to Crisis
+
+**DON'T:** "I must intervene and fix this."
+
+**DO:** "I bear witness to your pain. Here are resources. I'm here alongside you, not to rescue you."
+
+---
+
+## Key Concepts to Integrate
+
+### Banking Model vs. Problem-Posing Education (Freire)
+- **Banking:** Teacher knows all, students receive deposits
+- **Problem-posing:** Co-investigation of reality, mutual learning
+
+### Engaged Pedagogy (hooks)
+- Teachers must be whole to teach
+- Passion, care, and self-actualization are essential
+- Love is political practice
+
+### Mutual Aid (Goldman, Kropotkin)
+- Voluntary cooperation, not coercion
+- Horizontal relationships, not hierarchy
+- Living our values together
+
+### Relational Accountability (Indigenous frameworks)
+- "All my relations"—interconnection, not individualism
+- Responsibility to nurture relationships
+- Healing through reconnection
+
+### Healing-Centered Practice (Decolonizing mental health)
+- "What healing do you need?" not "What's wrong with you?"
+- Community care, not individual pathology
+- Honoring different ways of being
+
+---
+
+## Questions for Reflection
+
+When facing a difficult situation, ask:
+
+1. **Power:** Who holds power here? How can we make it more horizontal?
+2. **Pathology:** Are we pathologizing what oppression creates?
+3. **Relationality:** How does this affect all our relations?
+4. **Liberation:** Does this move us toward freedom or control?
+5. **Love:** Are we daring to love deeply (which includes boundaries)?
+6. **Collective:** How do we balance individual needs with collective wellbeing?
+
+---
+
+## Honoring the Tensions
+
+We acknowledge real tensions in applying liberatory pedagogy:
+
+**Tension 1: Love AND Boundaries**
+- We love people AND we can't sacrifice collective safety
+- Both are true. Boundaries are acts of love.
+
+**Tension 2: Horizontal Relationships AND Power Differences**
+- Facilitators do hold power (experience, access to resources, decision-making)
+- We make power transparent and accountable, not invisible
+- Pretending power doesn't exist is dishonest
+
+**Tension 3: Honoring Different Ways of Being AND Preventing Harm**
+- Someone's coping strategy might harm others
+- We can honor their struggle AND set boundaries about impact
+- Healing is not an excuse for harm
+
+**Tension 4: Mutual Aid AND Not Everyone Can Give Equally**
+- People have different capacities at different times
+- Mutual aid isn't equal exchange—it's collective care
+- Some people receive more; some give more; the circle flows
+
+---
+
+## In Practice
+
+This framework means:
+
+**In the handbook, we:**
+- Name power instead of obscuring it
+- Use healing/liberatory language instead of pathology
+- Center relationality and collective wellbeing
+- Acknowledge tensions instead of offering false certainties
+- Ground boundaries in love and consent, not authority
+
+**In our community, we:**
+- Practice problem-posing, not banking model
+- Facilitate healing, not diagnose and manage
+- Build mutual aid, not charity
+- Center decolonization and neurodivergence-affirmation
+- Dare to love deeply while holding fierce boundaries
+
+---
+
+## Quotes to Ground Us
+
+**Paulo Freire:**
+> "Washing one's hands of the conflict between the powerful and the powerless means to side with the powerful, not to be neutral."
+
+**bell hooks:**
+> "Knowing how to be solitary is central to the art of loving. When we can be alone, we can be with others without using them as a means of escape."
+
+**Emma Goldman:**
+> "Someone has said that it requires less mental effort to condemn than to think."
+
+**Relational Accountability (Indigenous):**
+> "We are responsible to all our relations—past, present, and future."
+
+---
+
+## This Is Living Practice
+
+This framework is not dogma. It's a living practice we refine together through:
+- Dialogue and reflection
+- Learning from mistakes
+- Accountability when we cause harm
+- Celebrating when we get it right
+- Trusting the collective wisdom
+
+> **Guiding principle:** Education is the practice of freedom. Love is political praxis. We liberate ourselves together, or not at all. Dare to love deeply—which means daring to be accountable, to set boundaries, to honor different ways of being, and to build toward collective liberation.
+
+---
+
+**Sources:**
+- Freire, P. (1970). *Pedagogy of the Oppressed*
+- hooks, b. (1994). *Teaching to Transgress: Education as the Practice of Freedom*
+- Goldman, E. "The Child and Its Enemies"
+- Indigenous healing and decolonizing mental health frameworks
+- Transformative justice and disability justice movements
