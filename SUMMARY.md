@@ -50,6 +50,12 @@
 
 ## Part VII: Appendices
 
+### Liberatory Pedagogy Framework
+* [Framework Overview](LIBERATORY_FRAMEWORK.md)
+* [Foundational Thinkers](part7/liberatory-thinkers.md)
+* [Liberatory Practice: Applications](part7/liberatory-practice.md)
+* [Sources & Further Reading](part7/liberatory-resources.md)
+
 ### Mental Health Conditions in Educational Settings
 * [Understanding Borderline Personality Disorder (BPD)](part7/borderline-personality-disorder.md)
 * [Understanding Schizophrenia & Psychosis](part7/schizophrenia-psychosis.md)
