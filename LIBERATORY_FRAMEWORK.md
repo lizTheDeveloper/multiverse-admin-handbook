@@ -87,6 +87,33 @@ This handbook is rooted in liberatory education traditions that center love, mut
 
 ---
 
+### Marshall Rosenberg: Nonviolent Communication (NVC)
+
+**From *Nonviolent Communication: A Language of Life*:**
+
+> "NVC helps us connect with each other and ourselves in a way that allows our natural compassion to flourish."
+
+**The Four Components of NVC:**
+1. **Observations** — What we see/hear without judgment or evaluation
+2. **Feelings** — Emotions arising from those observations
+3. **Needs** — Universal human needs behind our feelings
+4. **Requests** — Clear, specific, actionable requests (not demands)
+
+**NVC distinguishes:**
+- Observations from evaluations ("You interrupt often" vs. "You're rude")
+- Feelings from thoughts ("I feel scared" vs. "I feel like you don't care")
+- Needs from strategies ("I need respect" vs. "You need to stop talking")
+- Requests from demands (can say no without consequences)
+
+**Applied to The Multiverse:**
+- When someone's behavior concerns us, we observe rather than diagnose
+- "When I see [observation], I feel [feeling] because I need [need]. Would you be willing to [request]?"
+- We name impact without pathologizing: "When interruptions happen frequently, the learning space feels less accessible to others"
+- We connect to universal needs: safety, understanding, autonomy, contribution
+- Boundaries are clear requests, not punishments
+
+---
+
 ### Indigenous Perspectives: Relational Accountability & Healing-Centered Practice
 
 **From indigenous healing and decolonizing mental health frameworks:**
@@ -122,19 +149,23 @@ This handbook is rooted in liberatory education traditions that center love, mut
 
 ## How This Changes Our Language
 
-### OLD LANGUAGE (Hierarchy, Pathology, Control)
+### OLD LANGUAGE (Hierarchy, Pathology, Control, Judgment)
 ❌ "Managing difficult students"
 ❌ "Intervening in mental illness"
 ❌ "Teacher authority"
 ❌ "Behavior problems"
 ❌ "Compliance with rules"
+❌ "This student is manipulative" (evaluation/diagnosis)
+❌ "You're being disrespectful" (moral judgment)
 
-### NEW LANGUAGE (Liberation, Healing, Relationality)
+### NEW LANGUAGE (Liberation, Healing, Relationality, Observation)
 ✅ "Navigating community challenges together"
 ✅ "Supporting someone's healing journey"
 ✅ "Relational accountability"
 ✅ "Behavior that disrupts collective learning"
 ✅ "Co-created agreements and consensual boundaries"
+✅ "When I notice [behavior], I feel concerned because our community needs [safety/trust/accessibility]" (NVC observation)
+✅ "The impact I'm observing is..." (describing impact, not judging character)
 
 ---
 
@@ -253,6 +284,12 @@ This handbook is rooted in liberatory education traditions that center love, mut
 - Horizontal relationships, not hierarchy
 - Living our values together
 
+### Nonviolent Communication (Rosenberg)
+- Observations, not evaluations
+- Feelings and needs, not judgments
+- Requests, not demands
+- Connect to universal human needs
+
 ### Relational Accountability (Indigenous frameworks)
 - "All my relations"—interconnection, not individualism
 - Responsibility to nurture relationships
@@ -269,12 +306,14 @@ This handbook is rooted in liberatory education traditions that center love, mut
 
 When facing a difficult situation, ask:
 
-1. **Power:** Who holds power here? How can we make it more horizontal?
-2. **Pathology:** Are we pathologizing what oppression creates?
-3. **Relationality:** How does this affect all our relations?
-4. **Liberation:** Does this move us toward freedom or control?
-5. **Love:** Are we daring to love deeply (which includes boundaries)?
-6. **Collective:** How do we balance individual needs with collective wellbeing?
+1. **Observation (NVC):** What am I actually observing, without judgment or evaluation?
+2. **Needs (NVC):** What needs are not being met—for this person, for me, for the community?
+3. **Power:** Who holds power here? How can we make it more horizontal?
+4. **Pathology:** Are we pathologizing what oppression creates?
+5. **Relationality:** How does this affect all our relations?
+6. **Liberation:** Does this move us toward freedom or control?
+7. **Love:** Are we daring to love deeply (which includes boundaries)?
+8. **Collective:** How do we balance individual needs with collective wellbeing?
 
 ---
 
