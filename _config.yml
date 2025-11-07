@@ -1,0 +1,26 @@
+title: The Multiverse School Teacher & Moderator Handbook
+description: A comprehensive guide for teaching neurodivergent adults with mental health challenges
+theme: jekyll-theme-slate
+markdown: kramdown
+
+# Navigation structure
+navigation:
+  - title: Home
+    url: /
+  - title: Getting Started
+    url: GETTING_STARTED.html
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Exclude from processing
+exclude:
+  - .gitbook.yaml
+  - book.json
+  - PROJECT_STATUS.md
+  - MENTAL_HEALTH_ADDITIONS.md
