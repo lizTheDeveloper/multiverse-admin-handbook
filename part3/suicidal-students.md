@@ -292,21 +292,78 @@
 
 ---
 
-## Mandatory Reporting Considerations
+## Are You Required to Report? (Probably Not, But...)
 
-### When You MUST Report
+### Legal Reporting Requirements
 
-**Varies by location, but generally required to report:**
-- Imminent threat to self (active suicidal plan)
-- Imminent threat to others (homicidal ideation)
-- Abuse of minors or vulnerable adults (if disclosed)
+**Important clarification for online adult education:**
 
-**Check your local laws.** Consult with admin or legal counsel if unsure.
+You are **probably NOT a mandatory reporter** if:
+- You teach adult students (not minors)
+- You're not a licensed professional (therapist, doctor, social worker)
+- You're not employed by a K-12 school or government agency
+- You work for a private online education program
 
-### Transparency About Limits of Confidentiality
+**Mandatory reporting typically applies to:**
+- Teachers working with minors (K-12)
+- Licensed mental health professionals
+- Healthcare workers
+- Social workers
+- People working with vulnerable adults (elderly, disabled)
+
+**The Multiverse School teaches adults.** Unless you're also a licensed professional in a different context, you likely have **no legal obligation** to report a student's suicidal ideation.
+
+### Why You Should Still Respond Appropriately
+
+**Even without legal mandates, you have ethical and practical reasons:**
+
+1. **Duty of care** — You have a relationship with this person
+2. **Liability protection** — If you knew and did nothing, that could be a problem
+3. **Documentation** — Protects you if something happens
+4. **Referral to resources** — You can help without overstepping
+
+**Best practice:** Treat suicidal ideation seriously, refer to 988, document, and notify admin—not because you're legally required, but because it's the right thing to do and it protects everyone.
+
+### What "No Mandatory Reporting" Means
+
+**You don't have to:**
+- Call police or 911 (unless the person explicitly requests it or you believe they're in immediate danger)
+- Break confidentiality by telling family members
+- Report to authorities
+
+**You still should:**
+- Take it seriously
+- Provide crisis resources (988)
+- Document what was said
+- Notify admin
+- Assess level of risk
+
+### Transparency About What You Will Do
 
 **At the start of working with students, communicate:**
-> "I want you to feel comfortable talking to me. I also need you to know: if you tell me you're planning to harm yourself or someone else, I have to get you connected to professional help. That's to keep you safe, not to punish you."
+> "I want you to feel comfortable talking to me. I also need you to know: if you tell me you're planning to harm yourself, I'm going to connect you to crisis support resources like 988. That's to help you, not to punish you. I'll also let [admin] know so we can support you as a team. I won't call police or your family without your consent unless I genuinely believe you're in immediate danger."
+
+**This is clearer and more accurate for your context.**
+
+### When You Might Call 911
+
+**Only in true emergencies:**
+- Person has means and plan and says they're doing it right now
+- Person is in active danger (overdose in progress, etc.)
+- Person explicitly asks you to call for help
+
+**Otherwise:** Refer to 988 and let crisis professionals handle it.
+
+### Check Your Specific State Laws
+
+**This varies by state.** Some states may have broader definitions of who must report.
+
+**To verify:**
+- Google "[your state] mandatory reporter adult education"
+- Consult with a lawyer if you're unsure
+- Ask admin to clarify policy
+
+**When in doubt:** Document and refer to 988. That's always appropriate.
 
 ---
 

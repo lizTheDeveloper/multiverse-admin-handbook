@@ -97,9 +97,9 @@ When facing an ethical dilemma, ask:
    - Did they understand who would have access?
 
 2. **What are your obligations once you know?**
-   - Mandatory reporting (threat to self/others)?
-   - Documentation requirements?
-   - Need to inform other staff?
+   - Do you need to refer to crisis support (if threat to self/others)?
+   - Do you need to document for safety reasons?
+   - Should you inform other staff for support coordination?
 
 **Best practice template:**
 > "Thank you for sharing that with me. I want to make sure you know: I document concerning patterns for safety reasons, and I share information with [admin/team] when necessary to support you or protect the community. Is there anything you shared that you'd prefer I not document?"
@@ -333,19 +333,33 @@ Ask yourself:
 
 ---
 
-### Mandatory Reporting
+### Reporting Requirements for Online Adult Education
 
-**Legal requirements vary by location, but generally you must report:**
-- Imminent threat to self (active suicidal plan)
-- Imminent threat to others (credible threats of violence)
-- Abuse of vulnerable adults (if student discloses current abuse)
+**Important: You're probably NOT a mandatory reporter.**
 
-**Check your local laws. When in doubt, consult admin or legal counsel.**
+**As an online adult education program working with adult students:**
+- You likely have **no legal obligation** to report suicidal ideation or threats
+- Mandatory reporting typically applies to K-12 teachers, licensed professionals, and those working with minors or vulnerable adults
+- The Multiverse School teaches autonomous adults
 
-**Ethical template when you must report:**
-> "I need you to know: when someone tells me they're planning to harm themselves or others, I'm required to get them connected to crisis support. That might mean calling 988 or, in immediate danger, 911. I'm telling you this so you can make an informed choice about what you share with me."
+**This means:**
+- You don't have to call police or authorities (unless true emergency)
+- You don't have to break confidentiality to report to anyone
+- You're not legally liable for a student's autonomous choices
 
-This respects their autonomy while being clear about limits of confidentiality.
+**However, you still have ethical obligations:**
+- Take suicidal ideation seriously
+- Refer to crisis resources (988)
+- Document what was disclosed
+- Notify admin for support coordination
+- Assess whether you believe person is in immediate danger
+
+**Ethical template for transparency:**
+> "I want you to feel comfortable talking to me. I also need you to know: if you tell me you're planning to harm yourself or others, I'm going to connect you to crisis support resources like 988. That's to help you, not to punish you. I'll also let [admin] know so we can support you as a team."
+
+**This is more accurate than claiming you're "required to report" when you're likely not.**
+
+**Check your specific state:** Some states have broader mandatory reporter definitions. Consult legal counsel if unsure.
 
 ---
 
