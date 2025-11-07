@@ -3,7 +3,9 @@
 ## Important Context First
 
 ### You Are Not a Diagnostician
-This guide helps you recognize patterns that may indicate a student needs additional support—not to diagnose them.
+This guide helps you recognize patterns that may indicate someone needs additional support—not to diagnose them.
+
+**From liberatory pedagogy:** We observe patterns (NVC), connect to needs, and build toward autonomy—we don't pathologize or rescue.
 
 ### What Is DPD?
 Dependent Personality Disorder involves:
@@ -15,21 +17,34 @@ Dependent Personality Disorder involves:
 - **Difficulty starting projects** without help/direction
 - **Urgently seeking new relationships** when one ends (to feel supported)
 
-### DPD vs. Neurodivergent Support Needs
-Many neurodivergent people benefit from support, structure, and collaboration. **This is not DPD.**
+### Healing-Centered Perspective: DPD as Survival Strategy
 
-**Neurodivergent support needs:**
+**DPD patterns often developed as reasonable responses to environments where:**
+- Autonomy was punished or dangerous
+- Someone learned that expressing needs or disagreeing led to abandonment
+- Making "wrong" decisions had severe consequences
+- Being dependent kept them safe
+
+These adaptations made sense at the time. Someone learned: "I survive by letting others decide." "I'm safe when I'm needed." "Independence is dangerous." Now these strategies may limit growth—but they weren't irrational when they formed.
+
+### DPD Patterns vs. Neurodivergent Support Needs
+
+Many neurodivergent people benefit from support, structure, and collaboration. **This is not DPD—this is accommodation.**
+
+**Neurodivergent support needs (not DPD):**
 - "I need help organizing this project" (executive function support)
 - "Can you review my work?" (feedback seeking)
 - "I work better with accountability partners" (ADHD body doubling)
+- **Goal: Enhance autonomy through appropriate support**
 
-**DPD patterns:**
-- "I can't do anything without you telling me it's right"
-- "You have to decide for me"
-- "If you're not available, I can't function"
-- "Don't be mad at me" (avoids healthy disagreement)
+**DPD patterns (different from neurodivergent needs):**
+- "I can't do anything without you telling me it's right" (outsourcing all judgment)
+- "You have to decide for me" (avoiding decision-making authority)
+- "If you're not available, I can't function" (extreme dependence on specific person)
+- "Don't be mad at me" (avoids healthy disagreement to prevent abandonment)
+- **Pattern: Avoiding autonomy, outsourcing self-worth**
 
-**Key difference:** Neurodivergent folks seek support to enhance their autonomy. DPD patterns involve outsourcing decision-making and self-worth.
+**Key difference:** Neurodivergent folks seek support to build capacity. DPD patterns involve avoiding capacity-building to maintain connection through dependence.
 
 ---
 
@@ -50,28 +65,30 @@ Many neurodivergent people benefit from support, structure, and collaboration. *
 ### When Patterns Become Concerning
 
 #### Pattern 1: Excessive Reassurance-Seeking
-**What it looks like:**
-- Constantly asks "Is this right?" even for small decisions
-- Needs approval before every step of a project
-- Can't tolerate ambiguity: "Just tell me exactly what to do"
-- Messages multiple times asking if their work is okay before submitting
-- Freezes without detailed instruction
+**What you observe (NVC):**
+- Frequent questions: "Is this right?" even for small, low-stakes decisions
+- Requests for approval before each step of a project
+- Explicit requests to remove ambiguity: "Just tell me exactly what to do"
+- Multiple messages checking if work is acceptable before submitting
+- Inability to proceed without detailed, step-by-step instruction
 
-**Why it happens:**
-- Deep fear of making mistakes and being abandoned/rejected
-- Has learned to outsource decision-making
-- Low confidence in own judgment
-- Anxiety about autonomy
+**What needs might be present:**
+- **Their needs:** Safety from "failure," reassurance, connection, mattering (belief that mistakes = rejection)
+- **Your needs:** Sustainable support load, time for all students, helping them build autonomy
+- **Community needs:** Equitable distribution of facilitator attention
 
-**What to do:**
-- Set clear boundaries around reassurance: "I'll give feedback on drafts once, 48 hours before the deadline"
-- Encourage self-assessment: "What do YOU think? Then I'll share my thoughts"
-- Gradually reduce scaffolding: "Try the first step on your own, then we'll check in"
-- Validate their capability: "You have good judgment. Trust yourself."
-- Don't provide constant reassurance (reinforces dependence)
+**Understanding the pattern:**
+This pattern often developed when someone learned that making mistakes led to abandonment, punishment, or shame. Outsourcing decision-making kept them safe—someone else was responsible for outcomes. "If you tell me what to do, I can't fail" becomes a survival strategy. The anxiety about autonomy is real: independence feels dangerous.
 
-**Script:**
-> "I can see you're looking for reassurance. Here's what I can offer: [specific, limited support]. I believe you can figure this out. What's your instinct about this?"
+**How to respond:**
+- Set clear, predictable boundaries around reassurance: "I'll give feedback on drafts once, 48 hours before the deadline"
+- Encourage self-assessment first: "What do YOU think about this? Then I'll share my perspective"
+- Scaffold toward independence: "Try the first step on your own, then we'll check in"
+- Validate their capability: "You have good judgment. I trust you to figure this out."
+- Don't provide constant reassurance (reinforces the belief that they can't trust themselves)
+
+**Script (NVC-informed):**
+> "I'm noticing you're seeking reassurance before each decision. I care about building your confidence, so here's what I can offer: [specific, boundaried support]. I believe in your capacity to make good choices. What's your instinct about this?"
 
 ---
 
@@ -316,15 +333,18 @@ Teaching students with DPD can feel like **carrying someone else's life** on you
 
 ---
 
-## Key Principles
+## Key Principles (Liberatory Framework)
 
-1. **Don't rescue** — Let them experience competence
-2. **Set clear boundaries** — Limited, predictable support
-3. **Encourage self-trust** — "What do YOU think?"
-4. **Celebrate autonomy** — Praise independent decisions
-5. **Don't enable** — Constant reassurance reinforces dependence
-6. **Refer, don't parent** — You're a teacher, not a caretaker
-7. **Compassion + boundaries** — Both are essential
+1. **Observe, don't pathologize (NVC)** — Notice patterns, connect to needs, distinguish from neurodivergent support needs
+2. **Understand as survival strategy** — These patterns developed when dependence was safer than autonomy. Honor that history with compassion.
+3. **Mutual aid, not rescue** — Facilitate autonomy-building, don't become permanent caretaker
+4. **Scaffold toward liberation** — Gradual independence through boundaried support, not abandonment or rescue
+5. **Encourage self-trust** — "What do YOU think?" centers their judgment
+6. **Celebrate autonomy as growth** — Each independent decision is progress, praise it
+7. **Boundaries are acts of love (bell hooks)** — Saying "I trust you to decide" builds capacity
+8. **Don't enable dependence** — Constant reassurance reinforces the belief "I can't trust myself"
+9. **You're a facilitator, not a parent** — Refer to therapy for autonomy-building work
+10. **Compassion AND boundaries** — Both are necessary for growth
 
 ---
 
@@ -344,6 +364,12 @@ Teaching students with DPD can feel like **carrying someone else's life** on you
 
 ## Remember
 
-Most students with dependent traits are managing well and don't have DPD. When challenges arise, **your job is to build their autonomy through boundaried support—not to become their permanent caretaker.**
+Most people with dependent traits are managing well and don't have DPD. When challenges arise, **your role is to facilitate autonomy through boundaried support—not to become their permanent caretaker.**
 
-> **Guiding principle:** Scaffolded independence, not rescue. Your boundaries help them grow.
+**From healing-centered practice:** Dependence made sense when independence was dangerous. These patterns protected someone once. Now they may need different strategies—and your consistent boundaries create conditions for that growth.
+
+**From liberatory pedagogy (Paulo Freire):** "No one liberates themselves alone; we liberate ourselves together or not at all." Liberation requires building capacity for autonomous decision-making. When you say "What do YOU think?" you're practicing mutual aid—supporting their journey toward self-trust.
+
+**From bell hooks:** Boundaries are acts of love. When you say "I trust you to decide this," you're offering care—not abandonment. Rescue reinforces helplessness. Boundaried support builds strength.
+
+> **Guiding principle:** Scaffold toward autonomy with compassion and clear boundaries. Don't rescue—facilitate their capacity to trust themselves. Your "I believe you can do this" is liberatory practice.
