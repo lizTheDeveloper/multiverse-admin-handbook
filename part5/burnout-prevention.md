@@ -408,7 +408,7 @@ From 2024 research on ADHD educators and burnout:
 ## Resources
 
 ### For Autistic Burnout
-- **AASPIRE:** https://aaspire.org/ (research and resources)
+- **AASPIRE:** [aaspire.org](https://aaspire.org/) (research and resources)
 - **Autistic Burnout Measure (ABM):** Self-assessment tool
 - **"Burnout to Brilliant" by Asher and Abby Collins**
 - **Therapist Neurodiversity Collective:** Neurodivergent-affirming therapists

@@ -357,7 +357,7 @@ Teaching students with DPD can feel like **carrying someone else's life** on you
 
 ### For Teachers
 - **Indiana Center for Recovery:** Dependent Personality Disorder resources
-- **HelpGuide.org:** "Dependent Personality Disorder: Symptoms and Treatment"
+- **HelpGuide.org:** ["Dependent Personality Disorder: Symptoms and Treatment"](https://www.helpguide.org)
 - **Consult:** If you're feeling like a parent/therapist, escalate to admin
 
 ---

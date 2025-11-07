@@ -7,7 +7,7 @@ This handbook is grounded in neurodivergent-led research, participatory framewor
 ## Neurodivergent-Led Research & Organizations
 
 ### AASPIRE (Academic Autism Spectrum Partnership in Research and Education)
-**Website:** https://aaspire.org/
+**Website:** [aaspire.org](https://aaspire.org/)
 
 AASPIRE is an international partnership that brings together academic researchers, autistic adults, family members, disability services providers, and healthcare providers to conduct research relevant to the needs of adults on the autism spectrum. Since 2006, they have adhered to principles of Community Based Participatory Research (CBPR), where academics and community members share power as equal partners.
 
@@ -21,7 +21,7 @@ AASPIRE is an international partnership that brings together academic researcher
 ---
 
 ### Autistic Women & Nonbinary Network (AWN)
-**Website:** https://awnnetwork.org/
+**Website:** [awnnetwork.org](https://awnnetwork.org/)
 
 AWN has developed guiding principles for incorporating transformative and restorative justice into neurodiversity work.
 
@@ -36,7 +36,7 @@ AWN has developed guiding principles for incorporating transformative and restor
 ---
 
 ### 988 Suicide & Crisis Lifeline - Neurodivergent Resources
-**Website:** https://988lifeline.org/help-yourself/individuals-with-neurodivergence/
+**Website:** [988lifeline.org/neurodivergence resources](https://988lifeline.org/help-yourself/individuals-with-neurodivergence/)
 
 The 988 Lifeline has developed specific resources for crisis center workers to identify and support autistic callers/texters in crisis.
 
@@ -173,11 +173,11 @@ Our handbook prioritizes:
 
 ## Additional Reading
 
-- **Autistic Self Advocacy Network (ASAN):** https://autisticadvocacy.org/
-- **Therapist Neurodiversity Collective:** https://therapistndc.org/
-- **Neurodiversity Hub:** https://www.neurodiversityhub.org/
+- **Autistic Self Advocacy Network (ASAN):** [autisticadvocacy.org](https://autisticadvocacy.org/)
+- **Therapist Neurodiversity Collective:** [therapistndc.org](https://therapistndc.org/)
+- **Neurodiversity Hub:** [neurodiversityhub.org](https://www.neurodiversityhub.org/)
 - **Bay Area Transformative Justice Collective**
-- **Stanford Neurodiversity Project:** https://med.stanford.edu/neurodiversity.html
+- **Stanford Neurodiversity Project:** [med.stanford.edu/neurodiversity](https://med.stanford.edu/neurodiversity.html)
 
 ---
 
