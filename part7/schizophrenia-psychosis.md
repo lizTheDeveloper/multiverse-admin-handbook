@@ -3,14 +3,20 @@
 ## Critical Context First
 
 ### You Are Not a Diagnostician
-This guide helps you recognize when a student may be experiencing psychosis and needs clinical support. You cannot and should not diagnose schizophrenia or any psychotic disorder.
+This guide helps you recognize when someone may be experiencing psychosis and might need support. You cannot and should not diagnose schizophrenia or any psychotic disorder.
 
-### Reducing Stigma
-Schizophrenia is one of the most stigmatized mental health conditions, but:
-- Most people with schizophrenia are **not violent** (they're more likely to be victims than perpetrators)
-- Many people with schizophrenia live full, meaningful lives with treatment
-- First episode psychosis is treatable, and early intervention dramatically improves outcomes
-- Psychosis can be temporary (substance-induced, stress-related, medical causes)
+**From liberatory pedagogy:** We observe patterns (NVC), connect to needs, and facilitate access to healing resources—we don't pathologize or diagnose.
+
+### Reducing Stigma & Honoring Mad Pride
+Schizophrenia and psychosis are among the most stigmatized experiences, but:
+- Most people with schizophrenia are **not violent** (they're far more likely to be victims than perpetrators)
+- Many people with schizophrenia and psychotic experiences live full, meaningful lives
+- Some people embrace "mad pride" and reject the medical model entirely
+- Psychosis can be temporary, situational, or episodic
+- First episode psychosis is highly responsive to support when intervention happens early
+- Some frameworks view psychosis as a different way of experiencing reality, not inherently pathological
+
+**Healing-centered perspective:** Psychosis can be understood as the mind's attempt to make sense of overwhelming experiences, trauma, or neurological differences. For some, it's a spiritual emergence. For others, it's a crisis requiring support. What matters: Is the person safe? Can they meet their needs? Are they able to participate in voluntary cooperation?
 
 ### What Psychosis Is
 **Psychosis** is a state where someone loses touch with consensus reality. It can include:
@@ -158,15 +164,27 @@ Students may show subtle changes weeks or months before obvious psychosis:
 
 ---
 
-## What to Do When You Suspect Psychosis
+## What to Do When You Observe Possible Psychosis
 
-### Step 1: Stay Calm, Don't Argue with Delusions
-- Don't say "That's not real" or "You're being paranoid"
-- Don't try to logic them out of delusions
-- Don't play along or confirm delusions either
+### Step 1: Stay Grounded, Honor Their Reality Without Confirming or Denying
 
-**Instead, use grounding language:**
-> "I can hear that this feels very real and scary to you. I can't verify what you're experiencing, but I'm concerned about you. Have you talked to a doctor or therapist recently?"
+**Don't:**
+- Argue ("That's not real" or "You're being paranoid")
+- Try to logic them out of their experience
+- Confirm or validate delusions as objective reality
+
+**Do (NVC-informed):**
+- Acknowledge their distress without arguing about content
+- Stay calm and grounded
+- Express concern from observation: "I'm noticing [behavior] and I'm concerned about your wellbeing"
+
+**What needs might be present:**
+- **Their needs:** Safety, being heard, understanding, relief from distress
+- **Your needs:** Safety for them and community, clarity about how to help
+- **Community needs:** Safety, learning environment stability
+
+**Script (NVC):**
+> "I'm hearing that this feels very real and frightening for you. I can't verify what you're experiencing from my perspective, but I'm concerned about your wellbeing. Have you been in touch with a therapist, doctor, or support person recently?"
 
 ---
 
@@ -208,11 +226,21 @@ Students may show subtle changes weeks or months before obvious psychosis:
 
 ---
 
-### Step 4: Pause Their Participation
-If someone is actively psychotic, they cannot meaningfully participate in learning. This is about safety and care.
+### Step 4: Community Pause for Healing Support
 
-**Script:**
-> "I care about your wellbeing. Right now, I think you need support that's beyond what this class can provide. I'm going to pause your participation while you get that support. Please reach out to [crisis resources] and when you're stable and under care, we can talk about re-entry."
+**When active psychosis makes voluntary participation impossible:**
+
+If someone is experiencing psychosis severe enough that they cannot engage with shared reality, meet their own basic needs, or participate in consensual communication, learning community cannot be safe or beneficial for anyone involved.
+
+**This is not punishment—it's recognition that the person needs different support than a learning community can provide.**
+
+**What needs are we honoring:**
+- **Their need:** For crisis support, safety, healing resources designed for psychosis
+- **Community need:** For learning environment where everyone can participate voluntarily and safely
+- **Your need:** To facilitate learning, not provide crisis mental health support
+
+**Script (relational accountability):**
+> "I care about your wellbeing, and I'm observing [specific concerning behaviors/communications]. Right now, the support you need is beyond what this learning community can provide. I'm pausing your community participation so you can access crisis and healing resources. Please reach out to [crisis resources: 988, local psychiatric services]. When you're working with support services and able to participate voluntarily in shared learning space, we can discuss re-entry. This is about getting you the right kind of support."
 
 ---
 
@@ -368,15 +396,54 @@ Witnessing someone in psychosis can be **deeply unsettling**.
 
 ---
 
-## Key Principles
+## Psychiatric Survivor Perspectives & Mad Pride
 
-1. **Early intervention saves lives** — Recognize and refer quickly
-2. **Most psychosis is treatable** — Don't write someone off
-3. **You can't argue someone out of psychosis** — Refer to professionals
-4. **Safety first** — Assess for harm, escalate appropriately
-5. **Reduce stigma** — Use person-first or identity-first language based on preference
-6. **Recovery is possible** — Many people recover from psychosis
-7. **You're a bridge, not a clinician** — Refer, don't treat
+### Alternative Frameworks for Understanding Psychosis
+
+**Medical model:** Psychosis is a brain disease requiring pharmaceutical treatment.
+
+**Mad Pride / Psychiatric Survivor model:** Psychosis can be:
+- A meaningful response to trauma or oppressive conditions
+- A spiritual or transformative experience
+- A different way of perceiving reality that doesn't require "curing"
+- Often exacerbated by force, coercion, and psychiatric violence
+
+**What this means for you:**
+- Some people who experience psychosis reject the medical model entirely
+- Peer support, Open Dialogue, Soteria Houses, and trauma therapy are valid alternatives to traditional psychiatry
+- Forced treatment (involuntary hospitalization, forced medication) can be traumatic and should be last resort
+- Listen to how the person frames their own experience—don't impose medical language if they reject it
+
+**Resources:**
+- **Mad in America:** madinamerica.com — Critical psychiatry perspectives
+- **The Icarus Project (now Fireweed Collective):** fireweedcollective.org — Peer support, mutual aid approach to extreme states
+- **Will Hall's Harm Reduction Guide to Coming Off Psychiatric Drugs:** theicarusproject.net/resources
+- **Hearing Voices Network:** hearing-voices.org — Peer support without requiring medical framework
+
+### When Voluntary Support Isn't Enough
+
+**We strongly prefer voluntary, peer-led, and trauma-informed approaches.** However:
+
+If someone is:
+- In imminent danger to self or others
+- Unable to meet basic survival needs (food, shelter, safety)
+- Experiencing psychosis so severe they cannot consent to or refuse help
+
+Then involuntary intervention may become necessary—but this should be a last resort after all voluntary options have been exhausted, and should be done with as much dignity and agency-preservation as possible.
+
+---
+
+## Key Principles (Liberatory Framework)
+
+1. **Observe, don't diagnose (NVC)** — You recognize concerning patterns, not disorders
+2. **Honor multiple frameworks** — Medical model, mad pride, spiritual emergence—listen to how the person understands their experience
+3. **Early connection to support can be life-saving** — Recognize patterns and facilitate access to resources (medical or peer-based)
+4. **You can't argue someone out of psychosis** — Stay grounded, don't argue with content of delusions, refer to appropriate support
+5. **Safety first, voluntary support when possible** — Assess for harm, escalate as needed, prefer voluntary approaches
+6. **Reduce stigma, honor mad pride** — Use language the person prefers (person-first, identity-first, or Mad pride terms)
+7. **Recovery and thriving are possible** — Many people live full lives with or beyond psychosis
+8. **You're a facilitator, not a clinician** — Connect to resources, don't treat or diagnose
+9. **Self-care is necessary** — Witnessing psychosis affects you; tend yourself to tend community
 
 ---
 
@@ -420,6 +487,10 @@ Witnessing someone in psychosis can be **deeply unsettling**.
 
 ## Remember
 
-**Psychosis is terrifying for the person experiencing it.** Your calm, non-judgmental response and quick referral to appropriate care can make all the difference.
+**Psychosis can be terrifying, meaningful, spiritual, or some combination.** Whatever the person is experiencing, your grounded, non-judgmental presence and facilitation of appropriate resources (medical, peer-based, or both) can be transformative.
 
-> **Guiding principle:** Recognize, refer, reduce stigma—don't diagnose or try to treat.
+**From healing-centered practice:** Psychosis is not inherently pathological—it's a different state of consciousness that sometimes signals crisis and sometimes signals emergence. What matters: safety, consent, access to support the person chooses.
+
+**From liberatory pedagogy:** You cannot rescue someone experiencing psychosis. You can observe with compassion (NVC), connect them to resources that honor their autonomy, and hold space for them to access healing on their own terms—while maintaining boundaries that protect collective safety.
+
+> **Guiding principle:** Observe patterns with compassion. Honor their framework for understanding their experience. Facilitate access to resources (medical, peer, spiritual, or all three). Maintain safety without coercion when possible. You are a bridge to support, not a clinician or savior.
