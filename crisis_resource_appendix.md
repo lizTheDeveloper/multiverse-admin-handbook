@@ -44,10 +44,11 @@ This appendix provides copy-ready language and referral resources for moderators
 
 ---
 
-### **IV. General Safety Resources**
+### **IV. General Safety & Support Resources**
 - **RAINN** (Sexual Assault Support) — 800-656-4673
 - **National Eating Disorders Helpline** — 800-931-2237
 - **Substance Abuse Helpline (SAMHSA)** — 800-662-4357
+- **FindHelp.org** — [findhelp.org](https://www.findhelp.org/) — Locate food, housing, financial assistance, healthcare, and other local resources
 
 ---
 
@@ -55,11 +56,13 @@ This appendix provides copy-ready language and referral resources for moderators
 
 1. **Stay Grounded:** Use calm, short sentences.
 2. **Offer Links and Numbers, Not Advice.**
-   - You’re a bridge, not a clinician.
-3. **Pause Interaction After Referral.**
-   - End kindly: “I hope you reach out soon. We’ll pause here so you can get the right kind of help.”
+   - You're a bridge, not a clinician.
+3. **Stay With Them Until Connected (Unless Manipulation Is Clear)**
+   - **General rule:** Don't leave someone in crisis alone. Stay in contact until they've connected to 988, a crisis line, or another crisis support resource.
+   - **Exception:** If someone is clearly using threats of self-harm to emotionally manipulate (e.g., "If you don't do X, I'll hurt myself"), you can set a boundary and disengage after offering resources.
+   - End supportively: "I care about your safety. Here are the resources. I'm going to step back now, but please reach out to 988 or [appropriate resource]."
 4. **Document & Escalate.**
-   - Note time, message, and what resource you gave.
+   - Note time, message, what resource you gave, and whether they connected to support.
 
 ---
 

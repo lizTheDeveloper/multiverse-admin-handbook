@@ -41,9 +41,9 @@ In a private moderator log or form:
 - Freeze the class chat or disable comments.
 
 **5. Do *Not* Attempt Crisis Intervention Alone**
-- Do not attempt to “talk down” or provide therapy.
-- Use grounding phrases: *“We’ll get you to someone who can help.”*
-- Redirect to the Crisis Resource Appendix.
+- Do not attempt to "talk down" or provide therapy.
+- Use grounding phrases: *"We'll get you to someone who can help."*
+- Redirect to the [Crisis Resource Appendix](crisis_resource_appendix.md).
 
 ---
 
