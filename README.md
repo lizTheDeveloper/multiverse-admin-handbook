@@ -112,10 +112,10 @@ See [SUMMARY.md](SUMMARY.md) for complete handbook structure with all sections.
 
 ## About The Multiverse School
 
-Founded by Ann Howard, The Multiverse School is an experimental adult education community dedicated to supporting unconventional learners. We believe in radical accessibility, peer learning, and the transformative power of education—held within strong ethical containers.
+Founded by Liz Howard, The Multiverse School is an experimental adult education community dedicated to supporting unconventional learners. We believe in radical accessibility, peer learning, and the transformative power of education—held within strong ethical containers.
 
 This handbook represents years of lived experience, mistakes, course-corrections, and hard-won wisdom. Use it well.
 
 ---
 
-**Version 1.0** | Last Updated: November 2025 | Maintained by Ann Howard
+**Version 1.0** | Last Updated: November 2025 | Maintained by Liz Howard

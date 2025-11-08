@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study illustrates how to recognize crisis dependency, set appropriate boundaries, and distinguish between genuine need and maladaptive patterns—while maintaining compassion.
+This case study illustrates how to recognize crisis dependency, set appropriate boundaries, and distinguish between genuine need and maladaptive patterns—while maintaining compassion through a liberatory pedagogy lens.
 
 **Key Lessons:**
 - Crisis dependency is a pattern, not a character flaw
@@ -10,6 +10,14 @@ This case study illustrates how to recognize crisis dependency, set appropriate 
 - Referring to appropriate support is care
 - You can't rescue your way to student independence
 - Documentation reveals patterns
+
+**Liberatory Pedagogy Framework Applied:**
+This case demonstrates:
+- **bell hooks**: Love includes boundaries—refusing to rescue IS care
+- **Goldman's mutual aid**: Horizontal support, not saviorism
+- **NVC**: Meeting needs (Morgan's need for support AND Jamie's need for rest)
+- **Healing-centered practice**: "What healing do you need?" not "What's wrong with you?"
+- **Relational accountability**: Jamie's boundaries protect both Morgan and the collective
 
 ---
 
@@ -63,6 +71,27 @@ Jamie responds:
 Jamie logs the incident briefly: *"Morgan had housing crisis, messaged late at night (2:47am). Provided resources. They responded well to boundary reminder."*
 
 **Assessment:** Normal crisis + appropriate boundary-setting. Monitoring.
+
+### 🔍 Liberatory Pedagogy in Action: Referral as Care, Not Abandonment
+
+**Jamie's response demonstrates healing-centered practice:**
+
+**Not:** "This is inappropriate boundary-crossing"
+**Instead:** Acknowledges the crisis ("That sounds really scary") + provides resources + sets boundary
+
+**NVC Framework:**
+- **Observation:** "You messaged at 2:47am"
+- **Morgan's needs:** Safety, shelter, connection
+- **Jamie's needs:** Rest, boundaries, sustainable teaching practice
+- **Request:** "Please use crisis resources outside business hours"
+
+**Goldman's Mutual Aid vs. Saviorism:**
+
+Jamie doesn't position herself as Morgan's rescuer. She's a co-learner offering horizontal support: "Here are the resources that can help you—I'll support you during my capacity, AND you need trained crisis support."
+
+**This isn't cold—it's loving:** By refusing to be Morgan's sole support, Jamie creates conditions for Morgan to build a sustainable support network. Rescue would create dependence; referral creates capacity.
+
+**bell hooks**: Care + Accountability. Jamie cares (provides resources, responds) AND holds accountability (boundary about hours). Both elements are necessary for love.
 
 ---
 
@@ -189,6 +218,31 @@ Jamie responds:
 **Documentation:**
 Jamie documents the conversation fully, including the agreement about reduced expectations and boundary about crisis messaging.
 
+### 🔍 Liberatory Pedagogy in Action: Problem-Posing vs. Banking Model
+
+**Freire's Problem-Posing Education:**
+
+Jamie doesn't tell Morgan what to do (banking model). Instead, she poses the problem:
+
+"Here are your options. What feels most realistic and sustainable for you?"
+
+This honors Morgan's capacity to make decisions about their own learning. Morgan is expert in their own life—Jamie facilitates the exploration.
+
+**Flexibility Within Structure:**
+
+Jamie demonstrates mutual aid principles:
+- **From each according to capacity:** Morgan can contribute to discussions when able
+- **To each according to need:** Morgan needs community connection, not assignment pressure right now
+- **Reciprocity without transaction:** Morgan doesn't have to "earn" community through productivity
+
+**The AND:**
+- Jamie offers flexibility (reduced expectations)
+- AND holds boundary (I'm not your crisis support)
+
+**This is healing-centered practice:** The question isn't "What's wrong with Morgan that they can't complete assignments?" but "What does Morgan need to be here sustainably?"
+
+**Collective wellbeing:** This arrangement protects Jamie from burnout AND allows Morgan to stay connected. Mutual aid serves everyone.
+
 ---
 
 ## Week 6-7: Testing the Boundaries
@@ -260,7 +314,7 @@ Morgan messages Jamie:
 
 ### Admin Intervention (Next Day)
 
-**Admin (Ann) calls Morgan:**
+**Admin (Liz) calls Morgan:**
 > "Hey Morgan, Jamie let me know about last night. I'm glad you're safe and that you called the crisis line.
 >
 > Here's what I need you to know: We care about you, and we want you to be part of this community. We're also not equipped to be your primary support system when you're in crisis.
@@ -275,7 +329,7 @@ Morgan messages Jamie:
 **Morgan:**
 > "Yes. I'm sorry. I know I've been too much."
 
-**Ann:**
+**Liz:**
 > "You're not 'too much.' You're dealing with a lot. We just need you to get support from people trained for it. Fair?"
 
 **Morgan:**
@@ -457,8 +511,66 @@ If Jamie had:
 
 ---
 
+## Liberatory Framework Reflection Questions
+
+Using the [reflection questions from our pedagogy framework](../LIBERATORY_FRAMEWORK.md), let's analyze this case:
+
+### 1. Observation (NVC): What are we actually observing?
+**Not:** "Morgan is manipulative and attention-seeking"
+**Yes:** "Morgan messaged late at night 6 times over 8 weeks, despite repeated boundaries. Morgan's crises clustered around deadlines and times when seeking connection."
+
+### 2. Needs (NVC): What needs are not being met?
+**Morgan's unmet needs:** Safety, housing, food, connection, belonging, support
+**Jamie's unmet needs:** Rest, boundaries, sustainable teaching practice, work-life balance
+**Community's unmet needs:** Access to Jamie's teaching capacity (not depleted by 2am crisis management)
+**All are real. All matter.**
+
+### 3. Power: Who holds power here?
+- Jamie holds institutional power (can set boundaries, offer reduced expectations)
+- Morgan holds vulnerability power (real crises create ethical pressure)
+**We made power transparent:** Jamie explicitly named her limits and capacity
+
+### 4. Pathology: Are we pathologizing what oppression creates?
+**Context matters:** Morgan is experiencing housing instability, food insecurity, poverty, and complex trauma. Their crisis patterns make sense given systemic oppression.
+
+**AND:** Jamie can acknowledge this context while still maintaining boundaries. Trauma explains behavior; it doesn't remove Jamie's right to limits.
+
+**Healing-centered lens:** "What healing do you need?" Answer: Stable housing, food security, trained crisis support, community connection. Jamie couldn't provide the first three—so she referred Morgan to resources that could.
+
+### 5. Relationality: How does this affect all our relations?
+- If Jamie burns out responding to 2am crises, all students lose access to her teaching
+- If Morgan doesn't learn to use crisis resources, they remain dependent on one person
+- If boundaries aren't held, other students notice and may test them too
+- The collective depends on each person getting appropriate support
+
+### 6. Liberation: Does this move us toward freedom or control?
+**Toward freedom.** By refusing to rescue Morgan, Jamie helped them build capacity to:
+- Use crisis resources independently
+- Make decisions about their own learning
+- Build a broader support network
+- Stay in community without performance pressure
+
+**Rescue = control.** It would have kept Morgan dependent on Jamie specifically.
+
+### 7. Love: Are we daring to love deeply (which includes boundaries)?
+**Yes.** Jamie loved Morgan by:
+- Consistently providing crisis resources (care)
+- Holding boundaries even when Morgan had "real" crises (accountability)
+- Offering flexibility (reduced expectations) while maintaining limits (not crisis support)
+- Trusting Morgan's capacity to use resources (respect)
+- Staying committed to Morgan's presence in community (commitment)
+
+**hooks' Love Framework:** Jamie demonstrated all six elements—care, commitment, knowledge, responsibility, respect, and trust (rebuilt over time).
+
+### 8. Collective: How do we balance individual needs with collective wellbeing?
+**The balance:** Morgan got to stay in community with reduced expectations. Jamie got to maintain sustainable boundaries. Other students got access to Jamie's teaching. Morgan built broader support network.
+
+**This is mutual aid:** Morgan received support according to their need (community without assignments). Jamie gave according to their capacity (facilitation, not crisis management). The circle flowed.
+
+---
+
 ## Remember
 
 Morgan wasn't a "bad" student. They were a traumatized person trying to survive while also trying to learn. **The boundaries Jamie held allowed Morgan to stay in the community while building appropriate support systems.**
 
-> **Guiding principle:** You can care about a student's wellbeing AND maintain boundaries that protect both of you. Crisis dependency improves with consistent, boundaried care—not with rescue.
+> **Guiding principle from liberatory pedagogy:** You can care about a student's wellbeing AND maintain boundaries that protect both of you. Crisis dependency improves with consistent, boundaried care—not with rescue. This is what love as political practice looks like: fierce boundaries held with deep compassion.

@@ -2,13 +2,20 @@
 
 ## Overview
 
-This case study illustrates how to recognize premature transcendence, apply the 90-Day Visionary Pause Policy, and handle escalation when boundaries are violated.
+This case study illustrates how to recognize premature transcendence, apply the 90-Day Visionary Pause Policy, and handle escalation when boundaries are violated—through a liberatory pedagogy lens.
 
 **Key Lessons:**
 - Early intervention prevents harm
 - Documentation creates accountability
 - Transformative justice requires both care and containment
 - Community safety comes first
+
+**Liberatory Pedagogy Framework Applied:**
+This case demonstrates:
+- **bell hooks**: Boundaries as acts of love protecting collective wellbeing
+- **Emma Goldman**: Voluntary cooperation—River couldn't participate consensually
+- **NVC**: Observations vs evaluations; separating behavior from character
+- **Relational Accountability**: How one person's actions affect all our relations
 
 ---
 
@@ -56,6 +63,18 @@ River responds: "Oh sorry! I get excited and lose track of time. It won't happen
 **Documentation:** Sarah makes a brief note: *"River sent late-night DM, seemed excited, apologized when boundary was set."*
 
 **Assessment:** Normal ADHD hyperfocus + time blindness. Not concerning yet.
+
+### 🔍 Liberatory Pedagogy in Action: NVC Boundary-Setting
+
+**Sarah's response uses NVC framework:**
+
+**Observation (not evaluation):** "You sent a DM at 11:47pm" (not "You're being inappropriate")
+**Need:** Professional boundaries, rest, work-life balance
+**Request (not demand):** "Please post in forum during daytime hours"
+
+**This is healing-centered practice:** Sarah doesn't pathologize River's excitement or label them as "boundary-violating." She names the specific behavior and redirects to appropriate channels.
+
+**bell hooks' boundary-as-love:** Setting this boundary early protects both Sarah's capacity to teach and River's learning relationship. Love includes saying "not this way."
 
 ---
 
@@ -117,6 +136,18 @@ River: "I wasn't performing! I genuinely meant it. But okay, I get it."
 
 **Assessment:** Boundary collapse beginning. Love-bombing pattern emerging.
 
+### 🔍 Liberatory Pedagogy in Action: Refusing the Savior Role
+
+**Sarah's response rejects the "banking model" hierarchy:**
+
+Freire warns against teachers positioning themselves as "the one who knows" while students are "empty vessels." River's message tries to place Sarah in a guru role ("you're the first teacher who's ever really seen me").
+
+**Sarah refuses this positioning:** "My role is to facilitate learning, not to be a guru or savior."
+
+**This is mutual aid, not charity (Goldman):** Sarah names the power dynamic and redistributes it. She's not River's rescuer—they're co-learners in horizontal relationship.
+
+**Why this matters:** If Sarah had accepted the pedestal, she'd have reinforced River's pattern of seeking external validation rather than developing internal grounding. The boundary protects both of them.
+
 ---
 
 ## Week 5: Clear Violation
@@ -129,7 +160,7 @@ River: "I wasn't performing! I genuinely meant it. But okay, I get it."
 - Sarah checks and discovers River has DMed at least 5 students with similar invitations
 
 **Teacher Response:**
-Sarah escalates immediately to admin (Ann).
+Sarah escalates immediately to admin (Liz).
 
 Sarah DMs River:
 > "River, I need to address something. You've been recruiting Multiverse students for your project despite our conversation about the 90-Day Pause. This violates community guidelines. We need to talk."
@@ -137,8 +168,8 @@ Sarah DMs River:
 River responds (defensive):
 > "I wasn't RECRUITING. I was just sharing an idea with people who might resonate with it. I thought this was a community where we could connect authentically. This feels really controlling."
 
-**Admin (Ann) Steps In:**
-Ann sends River a formal message:
+**Admin (Liz) Steps In:**
+Liz sends River a formal message:
 > "Hi River. We have a clear policy: you cannot recruit Multiverse members for external projects until you've completed the 90-Day Visionary Incubation Track. This isn't about control—it's about safety.
 >
 > Here's what happens next:
@@ -151,11 +182,47 @@ Ann sends River a formal message:
 >
 > This isn't rejection. This is containment for safety—yours and the community's."
 
+### 🔍 Liberatory Pedagogy in Action: Voluntary Cooperation & Relational Accountability
+
+**Goldman's Voluntary Cooperation Test:**
+
+Our community is based on consensual participation, not coercion. Liz's message essentially asks: "Can you participate in voluntary cooperation with our co-created agreements?"
+
+**The test:** If someone can't honor collective agreements voluntarily, they can't be in horizontal relationship with the community right now.
+
+**This isn't punishment—it's recognizing relational capacity.** River is welcome to return when they can participate consensually.
+
+**Relational Accountability (Indigenous framework):**
+
+Liz's boundary explicitly names "all my relations"—River's actions affect:
+- The 5 students they recruited (who may feel pressured or unsafe)
+- Other students (who watch how boundaries are enforced)
+- Teachers (whose trust is broken by recruiting during their class)
+- The collective (whose safety depends on agreements being honored)
+
+**NVC framework in Liz's message:**
+- **Observation:** "You've been recruiting Multiverse students for your project"
+- **Feeling/Need:** (implied) Community needs safety, trust, consensual participation
+- **Request:** "Stop recruiting, complete 90-Day Track, no affiliation claims"
+- **Consequence (not punishment):** "If you violate this again, permanent removal"
+
+**bell hooks' Love Framework:**
+
+Love requires all six elements. Liz demonstrates:
+1. **Care:** "This isn't rejection"
+2. **Commitment:** Offering path back after 2 weeks
+3. **Knowledge:** Understanding River's vision AND the harm
+4. **Responsibility:** Protecting other students
+5. **Respect:** Offering choice—return with accountability or don't return
+6. **Trust:** (conditional) "Can be rebuilt if you honor agreements"
+
+**Missing element = Not love:** River violated trust. Liz's boundary restores the possibility of love by requiring accountability first.
+
 ---
 
 ### River's Response: Escalation
 
-River sends Ann a series of messages over the next hour:
+River sends Liz a series of messages over the next hour:
 
 > "I can't believe this. I thought this was a space for visionaries."
 >
@@ -166,10 +233,10 @@ River sends Ann a series of messages over the next hour:
 > "Actually, this is discrimination. I'm autistic and you're punishing me for being passionate."
 
 **Admin Response:**
-Ann replies once:
+Liz replies once:
 > "I hear that you're upset. The boundary stands. If you'd like to return after the 2-week pause, let me know and we can discuss next steps. In the meantime, I encourage you to reach out to support if you need it. Pause begins now."
 
-Ann then:
+Liz then:
 - Removes River from chat spaces
 - Documents entire exchange with screenshots
 - Notifies all moderators
@@ -189,7 +256,7 @@ During the 2-week pause, River:
 
 ### Multiverse's Response
 
-Ann:
+Liz:
 1. **Public Disaffiliation Statement** (posted in Multiverse community):
 > "We want to clarify that River and 'The Consciousness Collective' are not affiliated with The Multiverse School. River was a student who violated community guidelines and is no longer participating here. We do not endorse their project."
 
@@ -197,7 +264,7 @@ Ann:
 > "River, you've continued to recruit Multiverse members and claim affiliation despite being asked to stop. You are permanently removed from The Multiverse School community. We wish you well, but we cannot support this behavior."
 
 3. **Student Support**:
-Ann messages each student River contacted:
+Liz messages each student River contacted:
 > "Hey [name], I wanted to check in. River has been removed from Multiverse for violating community guidelines. If they contact you about their project, please know: we do not endorse it, we have safety concerns, and you're welcome to block them. Let me know if you have questions."
 
 ---
@@ -280,7 +347,7 @@ If River had:
 1. **Trust your gut** — Sarah felt something was off by Week 3
 2. **Document early** — Patterns emerge over time
 3. **Set boundaries explicitly** — Neurodivergent students need clarity
-4. **Escalate when needed** — Sarah brought in Ann appropriately
+4. **Escalate when needed** — Sarah brought in Liz appropriately
 5. **Community over individual** — Protecting others was the priority
 
 ---
@@ -306,6 +373,49 @@ River posted on social media that they'd been in a manic episode during this per
 
 ---
 
+## Liberatory Framework Reflection Questions
+
+Using the [reflection questions from our pedagogy framework](../LIBERATORY_FRAMEWORK.md), let's analyze this case:
+
+### 1. Observation (NVC): What are we actually observing?
+**Not:** "River is narcissistic and manipulative"
+**Yes:** "River recruited 5 students after being asked not to, claimed false affiliation after removal, and continued contacting members during pause"
+
+### 2. Needs (NVC): What needs are not being met?
+**River's unmet needs:** Belonging, recognition, purpose, community
+**Community's unmet needs:** Safety, trust, consensual participation, predictability
+**Both are real. The question is: How do we meet them?**
+
+### 3. Power: Who holds power here?
+- Liz holds institutional power (can remove members)
+- Sarah holds facilitator power (sets class norms)
+- River holds social power (charisma, vision, intensity)
+**We made power transparent:** Explicitly named why boundaries existed and who set them
+
+### 4. Pathology: Are we pathologizing what oppression creates?
+**No.** We acknowledged River's neurodivergence (ADHD, autism) AND their recent trauma (breakup, unemployment) as context—not as the problem. The problem was behavior: recruiting after being asked to stop.
+
+### 5. Relationality: How does this affect all our relations?
+- 5 students felt pressured or confused by River's recruitment
+- Other students watched to see if boundaries would be enforced
+- Teachers' boundaries were tested
+- Community safety depended on how we responded
+
+### 6. Liberation: Does this move us toward freedom or control?
+**Toward freedom.** By enforcing consensual participation, we created conditions where everyone can choose to be here voluntarily—not because someone charismatic is recruiting them.
+
+### 7. Love: Are we daring to love deeply (which includes boundaries)?
+**Yes.** Liz loved River enough to:
+- Offer a path back (2-week pause, then 90-Day Track)
+- Explain the reasoning (not arbitrary punishment)
+- Protect other students (whom we also love)
+- Wish River well even at permanent removal
+
+### 8. Collective: How do we balance individual needs with collective wellbeing?
+**The balance:** River's need for community AND other students' need for safety. When someone can't participate consensually, protecting the collective is an act of love for everyone—including them.
+
+---
+
 ## Key Takeaway
 
 **Containment is care.** By holding firm boundaries, Multiverse protected:
@@ -313,4 +423,6 @@ River posted on social media that they'd been in a manic episode during this per
 - Other students (from being recruited into an unstable project)
 - The community (from being destabilized by one person's grandiosity)
 
-**This is what transformative justice looks like:** Prevention, boundaries, accountability, and community safety—held together.
+**This is what liberatory pedagogy looks like in practice:** Observations (not evaluations). Boundaries as love. Voluntary cooperation. Relational accountability. Collective liberation requires collective safety—and sometimes that means someone can't be here right now.
+
+**As bell hooks teaches:** Love is action, not feeling. Our actions toward River were loving—even when they felt like rejection to them.

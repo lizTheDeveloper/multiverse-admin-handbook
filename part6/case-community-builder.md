@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study illustrates **what success looks like** when a student with big visions completes the 90-Day Visionary Incubation Track. It shows how proper grounding transforms grandiosity into sustainable leadership.
+This case study illustrates **what success looks like** when a student with big visions completes the 90-Day Visionary Incubation Track. It shows how proper grounding transforms grandiosity into sustainable leadership—through a liberatory pedagogy lens.
 
 **Key Lessons:**
 - The 90-Day Pause works when people actually do it
@@ -10,6 +10,14 @@ This case study illustrates **what success looks like** when a student with big 
 - Enthusiastic vision CAN become grounded reality
 - Following through demonstrates readiness
 - Support + accountability = sustainable leadership
+
+**Liberatory Pedagogy Framework Applied:**
+This case demonstrates:
+- **Freire's problem-posing**: Alex helps Sam investigate their own readiness, not telling them what to do
+- **hooks' love as action**: The 90-Day Track is care—protecting Sam from premature launch
+- **Goldman's prefigurative politics**: Building the thing you want to see, with accountability
+- **Relational accountability**: Sam's project affects others—grounding protects the collective
+- **Mutual aid**: Alex mentors Sam horizontally, not as savior but as co-learner
 
 ---
 
@@ -105,6 +113,42 @@ Sam posts:
 
 **Alex:**
 > "I am taking it seriously. That's why I want you to do it right."
+
+### 🔍 Liberatory Pedagogy in Action: Problem-Posing & Prefigurative Politics
+
+**Freire's Problem-Posing Education:**
+
+Notice what Alex doesn't do: Tell Sam whether to start the community or not (banking model).
+
+Instead, Alex poses the problem: "Is this sustainable? Are you ready? What do you actually need?" The 90-Day Track is structured investigation, not top-down control.
+
+**Sam is the expert in their own vision.** Alex facilitates the discovery process.
+
+**Goldman's Prefigurative Politics:**
+
+The 90-Day Track embodies the principle: "Build the world you want to see."
+
+If Sam wants to create a sustainable, well-structured community, they must first demonstrate they can sustain structure themselves. The track IS the prefiguration of their leadership.
+
+**bell hooks' Love as Action:**
+
+Alex's love for Sam includes:
+- **Care:** "I'm taking your vision seriously"
+- **Commitment:** Offering to mentor through 12 weeks
+- **Knowledge:** Understanding Sam's ADHD pattern + need for structure
+- **Responsibility:** Protecting Sam from premature launch (and protecting future members)
+- **Respect:** Trusting Sam's capacity to do the work
+- **Trust:** (conditional) "Complete this, and we'll talk collaboration"
+
+**This is loving:** The 90-Day requirement protects Sam from the harm of launching unprepared.
+
+**Relational Accountability:**
+
+Alex names the web of relations:
+- If Sam launches unprepared and it implodes, it harms the people who joined
+- It harms Multiverse's reputation (if affiliated)
+- It harms Sam (burnout, shame, another abandoned project)
+- The 90-Day Track protects all these relations
 
 ---
 
@@ -451,10 +495,67 @@ Sam reflects:
 
 ---
 
+## Liberatory Framework Reflection Questions
+
+Using the [reflection questions from our pedagogy framework](../LIBERATORY_FRAMEWORK.md), let's analyze this case:
+
+### 1. Observation (NVC): What are we actually observing?
+**Not:** "Sam might be manic or grandiose"
+**Yes:** "Sam has a vision for a developer community, acknowledges their pattern of starting-and-abandoning projects, responds positively to structure, and completes all 12 weeks of grounding work"
+
+### 2. Needs (NVC): What needs are being met?
+**Sam's needs:** Belonging, purpose, contribution, community, structure (to counter ADHD patterns)
+**Future community members' needs:** Safety, sustainability, clear leadership
+**Multiverse's needs:** Protecting reputation, ensuring affiliated projects are grounded
+**All needs were honored through the 90-Day Track**
+
+### 3. Power: Who holds power here?
+- Alex holds institutional power (decides if Sam can recruit from Multiverse)
+- Sam holds creative power (the vision is theirs)
+**Power was made transparent:** Alex explicitly named the requirement and why it exists
+
+### 4. Pathology: Are we pathologizing what oppression creates?
+**No.** We acknowledged Sam's neurodivergence (ADHD hyperfocus, pattern of starting-abandoning) as context—and offered structure that works WITH their neurodivergence, not against it.
+
+**The 90-Day Track is neurodivergent-affirming:** It provides external structure for someone who struggles with internal structure. It's accommodation, not punishment.
+
+### 5. Relationality: How does this affect all our relations?
+**Because Sam did the grounding work:**
+- Future DevCollective members join a sustainable community (not an implosion)
+- Multiverse maintains trustworthiness (our process works)
+- Sam builds skills and confidence (not another abandoned project)
+- The broader ecosystem benefits (one more good community)
+
+### 6. Liberation: Does this move us toward freedom or control?
+**Toward freedom.** The 90-Day Track gave Sam:
+- Freedom from their own pattern (structure prevents impulsive launch)
+- Freedom to build something sustainable (not bound by unexamined assumptions)
+- Freedom to lead from groundedness (not driven by ADHD hyperfocus alone)
+
+**Structure enables freedom** when it's chosen and when it serves the person's goals.
+
+### 7. Love: Are we daring to love deeply (which includes boundaries)?
+**Yes.** Alex demonstrated all six elements of hooks' Love Framework:
+1. **Care:** Taking Sam's vision seriously
+2. **Commitment:** 12 weeks of mentorship
+3. **Knowledge:** Understanding ADHD patterns and need for structure
+4. **Responsibility:** Protecting Sam and future members
+5. **Respect:** Trusting Sam could complete the track
+6. **Trust:** Sam earned it through follow-through
+
+**The AND:** Care (I believe in your vision) AND Accountability (prove you can sustain it).
+
+### 8. Collective: How do we balance individual needs with collective wellbeing?
+**The balance:** Sam's need to build + future members' need for sustainability + Multiverse's need to protect community.
+
+**Mutual aid in action:** Alex gave mentorship according to her capacity. Sam contributed vision and work. Future DevCollective members will benefit. The circle flows.
+
+---
+
 ## Remember
 
 Most big visions start with excitement. The difference between sustainable projects and implosions is **what you do between the idea and the launch.**
 
 Sam's community exists because they did the boring, hard work of grounding their vision. They're not famous. They're not scaling to 10,000 members. But they're sustainable, helpful, and still going—which is more than most passion projects can say.
 
-> **Guiding principle:** Vision without grounding is fantasy. Grounding without vision is sterile. You need both.
+> **Guiding principle from liberatory pedagogy:** Vision without grounding is fantasy. Grounding without vision is sterile. You need both. The 90-Day Track is problem-posing education in action—helping people investigate their own readiness, not telling them what to do. This is what love as political practice looks like: fierce accountability held with deep respect for people's capacity.
