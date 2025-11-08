@@ -97,6 +97,7 @@ This handbook covers:
 - [Case Study: The Aspiring Guru](part6/case-aspiring-guru.md)
 - [Case Study: The Rapid Community Builder](part6/case-community-builder.md)
 - [Scenario Library: Practice Responses](part6/scenario-library.md)
+- [Decolonizing Entitled Learners: A Scenario-Based Guide](part6/decolonizing-entitled-learners.md)
 
 ### 🔬 Evidence Base
 - [Research Sources & Citations](part7/research-sources.md)

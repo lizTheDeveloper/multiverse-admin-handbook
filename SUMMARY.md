@@ -47,6 +47,7 @@
 * [Case Study: The Crisis-Dependent Student](part6/case-crisis-dependent.md)
 * [Case Study: The Rapid Community Builder](part6/case-community-builder.md)
 * [Scenario Library: What Would You Do?](part6/scenario-library.md)
+* [Decolonizing Entitled Learners: A Scenario-Based Guide](part6/decolonizing-entitled-learners.md)
 
 ## Part VII: Appendices
 
