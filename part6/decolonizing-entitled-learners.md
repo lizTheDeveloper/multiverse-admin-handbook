@@ -21,6 +21,38 @@ This guide addresses a specific challenge in liberatory education: what happens 
 
 ---
 
+## How The Multiverse School Actually Operates
+
+**Understanding this context is crucial for the scenarios below:**
+
+We don't operate on an assignment/grading model. We practice problem-posing education and building community:
+
+### Voluntary Participation, Not Compliance
+- **No assignments with deadlines:** We offer exercises people can explore
+- **No grades or completion tracking:** You build things or you don't
+- **Natural consequences:** Don't do an exercise, don't get the learning from doing it
+- **No compliance required:** You choose your own engagement level
+
+### Recognition Through Contribution
+- **Share what you build:** Post your projects/experiments in chat
+- **Recognition comes from peers:** Community celebrates what you share
+- **Broken things welcome:** Sharing something broken is contribution (we learn together by debugging)
+- **Facilitators encourage sharing:** "Show us what you made!" not "Turn in your assignment"
+
+### Building Community, Not Consuming Content
+- **We build things together:** Not "complete coursework"
+- **Mutual aid:** Share what you're learning, help others, investigate together
+- **Co-learning:** Facilitators are experienced builders, not lecturers or graders
+- **Horizontal relationships:** Everyone teaches and everyone learns (Freire)
+
+**This means entitlement shows up differently:**
+- Not "I deserve an extension" (there are no deadlines)
+- Instead: "Give me the answer" (banking model demand) or "I'm too busy to share what I build" (extraction)
+
+The scenarios below reflect this actual practice.
+
+---
+
 ## What Is Entitled Behavior?
 
 ### Entitlement ≠ Neurodivergence
@@ -160,7 +192,7 @@ If they continue:
 ### The Situation
 A student messages you at 9pm on Sunday:
 
-> "I need help with this assignment. I know you said you don't work weekends but this is urgent. I have a job interview Tuesday and I need to finish this project to show them. Can you just quickly review my code?"
+> "I need help with this thing I'm building. I know you said you don't work weekends but this is urgent. I have a job interview Tuesday and I need to finish this project to show them. Can you just quickly look at my code?"
 
 You've stated your hours (M-F, 9am-6pm) multiple times.
 
@@ -214,11 +246,11 @@ You've stated your hours (M-F, 9am-6pm) multiple times.
 ## Scenario 3: "I'm Too Busy to Contribute"
 
 ### The Situation
-Your learning community has a mutual aid expectation: everyone contributes something (answering questions, sharing resources, helping others debug code, etc.). One student never helps others:
+Your learning community is built on mutual aid: people share what they're building, help each other debug, answer questions, contribute resources. One student never shares anything:
 
-> "I'd love to help but I'm just so busy with work. I barely have time to do my own assignments. I'm here to learn, not to teach."
+> "I'd love to help but I'm just so busy with work. I barely have time to build my own stuff. I'm here to learn, not to teach."
 
-They expect others to answer their questions but never reciprocate.
+They ask questions and expect others to help them, but never share what they're building or help others.
 
 ### Analysis Through Liberatory Lens
 
@@ -245,13 +277,13 @@ They expect others to answer their questions but never reciprocate.
 - Offers choice
 
 **Option B: Mutual Aid Accountability (Goldman)**
-> "[Student], mutual aid isn't charity—it's reciprocity. You've asked for help 8 times in the past two weeks. You've offered help zero times. That's extraction, not mutual aid.
+> "[Student], mutual aid isn't charity—it's reciprocity. You've asked for help 8 times in the past two weeks. You've shared what you're building zero times. That's extraction, not mutual aid.
 
 > I need to see you contribute to the community in the next two weeks. That could be:
-> - Answering someone's question
-> - Sharing a resource you found helpful
-> - Reviewing someone's code
-> - Hosting office hours for beginners
+> - Sharing something you built in chat (even if it's broken—that's learning!)
+> - Answering someone's question when you know something
+> - Sharing a resource or approach you tried
+> - Helping someone debug their code
 
 > Choose one. If you can't, this might not be the right community for you."
 
@@ -354,78 +386,87 @@ You've asked a student to stop monopolizing class discussions (they talk for 10+
 
 ---
 
-## Scenario 5: "I Deserve An Exception"
+## Scenario 5: "Just Tell Me How to Do It"
 
 ### The Situation
-Your policy: assignments due Friday by 5pm. Extensions available if requested by Wednesday.
+You've posted an exercise: "Build a simple to-do list app. Here are some resources to explore different approaches."
 
-A student messages Saturday afternoon:
+A student messages you:
 
-> "Hey, I didn't finish the assignment. I had a really hard week—mental health stuff, work stress, just a lot. Can I turn it in Monday? I know the deadline was yesterday but I really tried."
+> "Can you just tell me the best way to build this? I don't want to waste time trying different things. Just give me the solution so I can get it done."
 
-You check: they didn't request an extension Wednesday. They've turned in 3 of 6 assignments late.
+Several other students have already shared their experiments in chat—some working, some not, all learning from each other.
 
 ### Analysis Through Liberatory Lens
 
 **What's happening:**
-- **Individualism:** "My circumstances override collective agreements"
-- **Pattern:** Third late assignment suggests planning issue, not crisis
-- **Boundary test:** Will you enforce the structure you created?
+- **Banking model demand:** "Deposit the answer into me"
+- **Extraction:** Wants the result without doing the investigation
+- **Individualism:** "Get it done" (product) over "explore and learn" (process)
+- **Bypassing community:** Ignoring the learning happening in chat
 
-**Nuance:** Mental health struggles are real. AND chronic lateness affects the collective (you grade on different timelines, others see exceptions and feel resentful).
+**Why it matters:** You're building a community of people who investigate together, not a service that provides answers.
 
 ### Liberatory Response Options
 
-**Option A: Compassion AND Accountability (hooks)**
-> "[Student], I hear you had a hard week. I also notice this is your third late assignment, and you didn't request an extension by the Wednesday deadline.
+**Option A: Problem-Posing (Freire)**
+> "[Student], I notice you're asking for 'the solution.' I want to explore something with you: What do you think you'd learn if I just told you how to build it?
 
-> Here's the situation: The extension policy exists so I can plan my grading time and so everyone knows the expectations. When you ask for an exception after the deadline, you're asking me to treat you differently than everyone else.
+> Now consider: What might you learn by trying an approach, seeing what breaks, investigating why, and trying differently?
 
-> For this week: I won't accept the late assignment. The policy was clear.
+> The exercise isn't about producing a to-do app—you can download thousands of those. It's about investigating how different approaches work. That's the learning.
 
-> Going forward: If you're struggling, request the extension by Wednesday. If you're finding you can't meet deadlines consistently, let's talk about whether this is the right time for you to take this class.
-
-> I care about your wellbeing. I also care about fairness to the whole community."
+> What questions do you have about where to START investigating?"
 
 **Why this works:**
-- Validates struggle, holds boundary
-- Names the pattern (third time)
-- Explains why the boundary matters
-- Offers problem-solving for future
-- Both/and: care AND fairness
+- Poses the problem (what IS learning?)
+- Invites investigation of their own assumption
+- Doesn't shame; redirects
+- Offers guidance on process, not product
 
-**Option B: Problem-Posing About Capacity (Freire)**
-> "[Student], I want to ask you something: If you're consistently unable to meet deadlines, what is that telling you about your capacity right now?
+**Option B: Mutual Aid Reframe (Goldman)**
+> "[Student], look at the chat—five people have shared what they're building. Some are working, some aren't. They're learning from each other's experiments.
 
-> This is the third time. That's not bad luck—that's a pattern. Maybe you're overcommitted. Maybe your mental health needs more support. Maybe this isn't the right time for this class.
+> That's mutual aid: we investigate together, share what we discover, help each other debug.
 
-> I'm not judging. I'm asking you to investigate: Can you participate in this structure, or do you need something different?"
+> If I just gave you 'the answer,' you'd miss that entire process. You'd also have nothing to contribute to the collective.
 
-**Why this works:**
-- Poses the question, doesn't answer it
-- Invites self-examination
-- Treats them as capable of assessing themselves
-- No rescue, no punishment—clarity
-
-**Option C: Mutual Aid Reality Check (Goldman)**
-> "[Student], in a mutual aid framework, we each participate according to capacity. Right now, you're asking me to accommodate you in ways I don't accommodate others.
-
-> That's not mutual aid—that's asking for special treatment.
-
-> I understand you're struggling. AND this is the third time. What I need from you: Decide if you can participate in this class's structure. If not, let's talk about taking a break and returning when you have more capacity."
+> Try something. Share it in chat—working or broken. See what questions emerge. That's how we build here."
 
 **Why this works:**
+- Points to the community already doing the work
 - Names mutual aid correctly
-- Distinguishes accommodation from special treatment
-- Invites decision-making
-- Honors their agency
+- Reframes from product to process
+- Invites them into the collective
 
-**If They Respond: "I'm neurodivergent, I need flexibility"**
-> "Neurodivergent accommodation looks like: requesting extensions by Wednesday (I give you planning time), using the assignment tracker (visual structure), attending office hours (1-on-1 support).
+**Option C: Banking Model Confrontation (Freire)**
+> "[Student], what you're asking for is the banking model—I deposit knowledge, you receive it. That's not how we learn here.
 
-> What it doesn't look like: No deadlines, unlimited exceptions, different rules than everyone else.
+> Problem-posing education means you investigate, experiment, discover. I facilitate—I can help you understand concepts, debug with you, suggest resources. But I don't do the investigation for you.
 
-> I'm offering accommodation within structure. Can you work with that?"
+> That's not because I'm withholding—it's because receiving an answer doesn't create the learning. Building and breaking and rebuilding does.
+
+> What do you want to try first?"
+
+**Why this works:**
+- Names the model explicitly
+- Explains why you won't comply
+- Offers what you WILL do
+- Invites them to begin
+
+**If They Push Back: "I'm paying for this class"**
+> "You're paying for access to a learning community and facilitation. Not for me to do your learning for you.
+
+> If you want someone to give you answers, there are tutorial sites that work that way. This community is different—we build the capacity to figure things out, together.
+
+> Are you interested in that kind of learning?"
+
+**Natural Consequence:**
+They can choose:
+- Try something and share it (get recognition, build skill, contribute to collective)
+- Don't try (don't learn, don't get recognition, have nothing to share)
+
+The consequence isn't punishment—it's built into the structure of learning itself.
 
 ---
 
