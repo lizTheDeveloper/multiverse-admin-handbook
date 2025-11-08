@@ -1,213 +1,131 @@
 # Marshall Rosenberg: Nonviolent Communication as Liberatory Practice
 
-## Who Was Marshall Rosenberg?
+Marshall Rosenberg (1934-2015) developed Nonviolent Communication (NVC), a framework for compassionate connection that's been used in conflict resolution, education, therapy, and peacebuilding worldwide. His work gives us practical language tools for the liberatory principles of the other frameworks.
 
-Marshall B. Rosenberg, Ph.D. (1934-2015) was an American psychologist who developed Nonviolent Communication (NVC), a framework for compassionate human connection that has been used in conflict resolution, education, therapy, and peace-building worldwide.
+**Essential reading:** *Nonviolent Communication: A Language of Life* (1999/2015)
 
-**Key work:**
-- *Nonviolent Communication: A Language of Life* (1999, 3rd ed. 2015)
-
-Rosenberg studied under Carl Rogers (humanistic psychology) and was influenced by the civil rights movement. He spent decades teaching NVC in war zones, prisons, schools, and communities, demonstrating that connection is possible even in conditions of extreme violence.
+**For comprehensive guide:** See [Nonviolent Communication Guide for Facilitators](nonviolent-communication-guide.md)
 
 ---
 
-## What Is Nonviolent Communication?
+## The Core Framework: Four Components of NVC
 
-NVC is a framework for **compassionate connection** through language that honors our shared humanity.
+NVC provides a structure for expressing ourselves and listening to others in ways that create connection rather than defensiveness.
 
-### The Core Insight
+### Component 1: Observations (Not Evaluations)
 
-> "NVC helps us connect with each other and ourselves in a way that allows our natural compassion to flourish."
+An observation is what you see or hear, free of judgment. An evaluation is your interpretation or diagnosis of what you observe.
 
-**Rosenberg's premise:**
-- Humans are naturally compassionate
-- Violence (physical, emotional, linguistic) is learned
-- When we connect to universal human needs, compassion emerges
-- Language shapes how we relate
+The difference matters because evaluations trigger defensiveness while observations create openness. When you say "You're being manipulative," the other person hears an attack on their character. When you say "When I notice you asking for support immediately after I've said I need rest," they hear data they can consider.
 
-### Why "Nonviolent"?
+**The observation practice:** Before speaking, ask yourself: Am I describing what happened, or am I judging what happened? Can the other person agree with my observation even if they interpret it differently?
 
-Named after Gandhi's principle of **ahimsa** (nonviolence, non-harming).
+**Examples:**
+- Evaluation: "You interrupt all the time" → Observation: "In our last meeting, I was mid-sentence three times when you started speaking"
+- Evaluation: "You're lazy" → Observation: "The project deadline passed yesterday without submission"
+- Evaluation: "This student is manipulative" → Observation: "When I set a boundary, I receive multiple messages expressing distress"
 
-**Violent communication:**
-- Judgments and evaluations
-- Diagnosing and labeling
-- Demands and ultimatums
-- Blame and shame
-- Denying responsibility for our feelings
+### Component 2: Feelings (Not Thoughts)
 
-**Nonviolent communication:**
-- Observations without judgment
-- Expressing feelings and needs
-- Making requests, not demands
-- Taking responsibility for our experience
-- Connecting to our shared humanity
+A feeling is an emotion in your body. A thought is what you think about a situation, often disguised as a feeling.
 
----
+"I feel like you don't care" is not a feeling—it's a thought about the other person's motives. "I feel hurt" or "I feel scared" are feelings—bodily sensations you can locate and name.
 
-## The Four Components of NVC
+Rosenberg's key insight: When we say "you made me feel X," we give away our power. Our feelings come from whether our needs are met, not from what others do. What others do is the stimulus; our unmet need is the cause of our feeling.
 
-NVC has four steps for expressing ourselves and empathically listening to others.
+**The feeling practice:** Notice the sensation in your body. Where do you feel it? What would you call it? Avoid "I feel that..." or "I feel like..." which usually introduce thoughts, not feelings.
 
-### 1. Observations (Not Evaluations)
+**Examples:**
+- Thought: "I feel like you're ignoring me" → Feeling: "I feel lonely and disconnected"
+- Thought: "I feel manipulated" → Feeling: "I feel anxious and distrustful"
+- Thought: "I feel that this is unfair" → Feeling: "I feel frustrated and disappointed"
 
-**Observation:** What we see or hear, free of evaluation.
-**Evaluation:** Judgment, interpretation, diagnosis.
+### Component 3: Needs (Universal, Not Strategies)
 
-| ❌ Evaluation | ✅ Observation |
-|---|---|
-| "You're being manipulative" | "When you ask me for support right after I've said I need rest" |
-| "You're lazy" | "When the project deadline passed without submission" |
-| "You interrupt all the time" | "When I was speaking for 30 seconds, you started talking" |
+A need is a universal human requirement. A strategy is a specific way to meet a need. Conflict is almost always about strategies, not needs—because at the level of needs, we can usually agree.
 
-**Why observations matter:**
-- Evaluations trigger defensiveness
-- Observations create openness
-- We can agree on observations even if we interpret them differently
+Every human needs safety, autonomy, understanding, contribution, rest, connection. We disagree about how to meet these needs (strategies), but we share the needs themselves.
 
-### 2. Feelings (Not Thoughts Disguised as Feelings)
+**The need practice:** When you're upset, ask: What need of mine isn't being met? Not "what should they do?" but "what do I need?" Name the need (safety, respect, autonomy), not the strategy (you should apologize, everyone should follow rules).
 
-**Feeling:** An emotion in your body.
-**Thought:** What you think about a situation.
+**Examples:**
+- Strategy: "I need you to stop talking" → Need: "I need to be heard" or "I need rest"
+- Strategy: "I need you to apologize" → Need: "I need acknowledgment of impact"
+- Strategy: "I need everyone to follow the rules" → Need: "I need safety and predictability"
 
-| ❌ Thought | ✅ Feeling |
-|---|---|
-| "I feel like you don't care" | "I feel hurt" |
-| "I feel manipulated" | "I feel anxious and distrustful" |
-| "I feel that this is unfair" | "I feel frustrated and disappointed" |
+### Component 4: Requests (Not Demands)
 
-**Why feelings matter:**
-- Feelings are data about our needs
-- Naming feelings creates connection
-- Feelings are universal — we all experience them
+A request can be declined without negative consequences. A demand cannot be declined without punishment or guilt.
 
-**Rosenberg's insight:** When we blame others for our feelings ("you made me angry"), we give away our power. Our feelings come from our needs, not from what others do.
+The same words can be a request or a demand depending on how you respond to "no." If someone says no and you punish them, guilt them, or threaten consequences, it was a demand. If someone says no and you accept that and look for another strategy to meet your need, it was a request.
 
-### 3. Needs (Universal Human Needs, Not Strategies)
+**The request practice:** Make your request concrete, doable, in the present or near future, and in positive language (what you want, not what you don't want). Then genuinely allow for "no."
 
-**Need:** Universal human requirement (safety, understanding, autonomy, etc.)
-**Strategy:** A specific way to meet a need.
-
-| ❌ Strategy | ✅ Need |
-|---|---|
-| "I need you to stop talking" | "I need to be heard" or "I need rest" |
-| "I need you to apologize" | "I need acknowledgment of impact" |
-| "I need everyone to follow the rules" | "I need safety and predictability" |
-
-**Rosenberg's universal needs (examples):**
-- **Autonomy** — choice, freedom, independence
-- **Integrity** — authenticity, creativity, meaning, self-worth
-- **Interdependence** — acceptance, appreciation, closeness, community, consideration, contribution, emotional safety, empathy, honesty, love, reassurance, respect, support, trust, understanding, warmth
-- **Physical nurturance** — air, food, movement, rest, safety, shelter, touch, water
-- **Play** — fun, laughter
-- **Spiritual communion** — beauty, harmony, inspiration, order, peace
-
-**Why needs matter:**
-- Needs are universal — we all share them
-- Conflict is about strategies, not needs (we can all agree we need safety; we may disagree about how)
-- When we connect at the level of needs, empathy emerges
-
-### 4. Requests (Not Demands)
-
-**Request:** Can be declined without negative consequences.
-**Demand:** Cannot be declined without punishment or guilt.
-
-**Characteristics of clear requests:**
-- **Concrete** — specific action, not vague ("be more respectful")
-- **Doable** — the person can actually do it
-- **In the present or near future** — not "always" or "never"
-- **Positive language** — what you want, not what you don't want
-
-| ❌ Demand/Vague | ✅ Request |
-|---|---|
-| "Respect me" | "Would you be willing to wait until I finish speaking before responding?" |
-| "Don't be late" | "Could we agree to a check-in time of 3pm?" |
-| "You have to fix this" | "Would you be willing to meet with me to discuss how we can address this?" |
-
-**The crucial question:** Can they say no?
-- If no = punishment, it's a demand
-- If no = we find another strategy, it's a request
+**Examples of clear requests:**
+- Vague: "Be more respectful" → Concrete: "Would you be willing to wait until I finish speaking before responding?"
+- Future-tense: "Don't be late again" → Present: "Could we agree to a check-in time of 3pm today?"
+- Demand: "You have to fix this" → Request: "Would you be willing to meet with me to discuss how we can address this?"
 
 ---
 
 ## The NVC Formula
 
-**Expressing ourselves:**
-> "When I see/hear [observation], I feel [feeling] because I need [need]. Would you be willing to [request]?"
+**Expressing yourself:**
+"When I see/hear [observation], I feel [feeling] because I need [need]. Would you be willing to [request]?"
 
-**Example:**
-> "When I notice that project deadlines have been missed three times this month [observation], I feel anxious and concerned [feeling] because I need reliability and trust that our agreements are meaningful [needs]. Would you be willing to talk with me about what's making it hard to meet deadlines and what support might help? [request]"
+**Empathic listening:**
+"Are you feeling [feeling] because you need [need]?"
 
-**Empathic listening (guessing others' feelings and needs):**
-> "Are you feeling [feeling] because you need [need]?"
+**Example in context:**
+"When I notice that project deadlines have been missed three times this month [observation], I feel anxious and concerned [feeling] because I need reliability and trust that our agreements are meaningful [needs]. Would you be willing to talk with me about what's making it hard to meet deadlines and what support might help? [request]"
 
 ---
 
-## NVC in Conflict and Difficult Conversations
+## Empathy Before Education
 
-Rosenberg saw conflict as **a tragic expression of unmet needs**.
+Rosenberg taught that when someone is in pain, they can't hear you until they feel heard.
 
-### Empathy Before Education
+### The Empathy-First Framework
 
-**Rosenberg's principle:**
-- When someone is in pain, they can't hear you
-- Empathy first (connect to their feelings and needs)
-- Then problem-solving or requests
+You may desperately want to explain yourself, defend your position, or solve the problem. Resist. First, connect to what the other person is feeling and needing. Only after they feel understood can they hear you or problem-solve.
 
-**This means:**
-- Don't jump to solutions
-- Don't defend yourself immediately
-- Listen for the needs under their words
+**In practice:** When someone is upset:
+
+**Don't:**
+- Explain or defend yourself immediately
+- Jump to solutions
+- Try to calm them down
+- Dismiss their feelings
+
+**Do:**
+- Listen for the feelings under their words
+- Guess at the needs driving those feelings
 - Reflect back what you hear
+- Stay with them until they feel understood
 
-**Example:**
-- **Student (angry):** "You don't care about us! You just want us to follow your stupid rules!"
-- **Unhelpful response:** "That's not true, I care a lot!" (defending)
-- **NVC response:** "Are you feeling frustrated because you need to know that your wellbeing matters more than compliance?" (empathy)
+**Script:**
+Student (angry): "You don't care about us! You just want us to follow your stupid rules!"
 
-### The Dance of Empathy and Honesty
+Unhelpful: "That's not true, I care a lot!" (defending yourself)
 
-NVC alternates between:
-- **Empathy** — connecting to the other person's feelings and needs
-- **Honesty** — expressing your own feelings and needs
+NVC: "Are you feeling frustrated because you need to know that your wellbeing matters more than compliance?" (empathy, guessing at feelings and needs)
 
-**Both are essential:**
-- Empathy without honesty = self-abandonment
-- Honesty without empathy = demands
-
----
-
-## The Jackal and the Giraffe
-
-Rosenberg used puppets to teach NVC:
-
-**Jackal (violent communication):**
-- Judgments, blame, labels
-- Demands, ultimatums
-- Right/wrong thinking
-- "You're being manipulative"
-
-**Giraffe (nonviolent communication):**
-- Observations, feelings, needs
-- Requests
-- Curiosity about needs
-- "When I notice X, I feel Y because I need Z"
-
-**The practice:**
-- Notice when you're in jackal mode
-- Translate to giraffe
-- Offer yourself empathy first if needed
-- Connect to needs (yours and theirs)
+After they feel heard, THEN you can share your perspective or problem-solve.
 
 ---
 
 ## Self-Empathy: The Foundation
 
-Before we can offer empathy to others, we need **self-empathy**.
+Before you can offer empathy to others, you need self-empathy—connecting to your own feelings and needs with compassion.
 
-### What Is Self-Empathy?
+### The Self-Empathy Practice
 
-Connecting to your own feelings and needs with compassion.
+When you're triggered, upset, or reactive, pause. Don't act yet. First, give yourself empathy.
+
+**Ask:**
+- What am I feeling? (Locate it in your body, name it)
+- What need of mine isn't being met?
+- Can I give myself compassion for having this need?
 
 **Not self-empathy:**
 - "I'm so stupid for feeling this way"
@@ -219,179 +137,143 @@ Connecting to your own feelings and needs with compassion.
 - "I'm feeling frustrated because I need to matter"
 - "I'm overwhelmed because I need rest and support"
 
-**Why it matters:**
-- You can't give what you don't have
-- Self-empathy prevents burnout
-- When your needs are acknowledged (by you), you can respond rather than react
+When you acknowledge your own needs, you can choose how to respond rather than reacting from unmet needs.
 
 ---
 
-## Mourning and Celebrating
+## Jackal vs. Giraffe: Violent and Nonviolent Communication
 
-Rosenberg taught **mourning** (connecting to pain when needs aren't met) and **celebrating** (connecting to joy when needs are met).
+Rosenberg used puppets to teach: Jackal (violent communication) and Giraffe (nonviolent communication, with its long neck to see far and large heart).
 
-### Mourning (Not Shame)
+### Jackal Language
 
-**When a need wasn't met:**
-- **Shame/blame:** "I'm a terrible person"
-- **Mourning:** "I feel sad because I want to contribute to others' wellbeing, and my actions didn't align with that"
+Jackal speaks in judgments, blame, labels, demands, right/wrong thinking. "You're being manipulative." "You always interrupt." "You have to stop."
 
-**Mourning allows:**
-- Accountability without shame
-- Learning without self-attack
-- Repair and growth
+Jackal language creates defensiveness, disconnection, power struggles.
 
-### Celebrating
+### Giraffe Language
 
-**When a need is met:**
-- Notice and savor
-- "I feel joyful because my need for connection was met"
-- Gratitude rooted in needs
+Giraffe speaks in observations, feelings, needs, requests. "When I notice X, I feel Y because I need Z. Would you be willing to...?"
 
----
+Giraffe language creates connection, understanding, collaborative problem-solving.
 
-## Applied to The Multiverse School
+### Translating Jackal to Giraffe
 
-### When Someone's Behavior Concerns Us, We Observe Rather Than Diagnose
+When you notice yourself in jackal mode, pause and translate:
 
-**Jackal (pathologizing):**
-- "This student is manipulative"
-- "They have BPD"
-- "They're attention-seeking"
+Jackal: "You're so selfish!"
+Giraffe: "When I see you using shared resources without checking with others [observation], I feel frustrated [feeling] because I need consideration and equity [needs]. Would you be willing to check in with the group before using shared resources? [request]"
 
-**Giraffe (observing):**
-- "When I notice [specific behavior], I feel concerned because our community needs safety/trust/accessibility"
-- "I'm observing [pattern] and I'm curious about what needs aren't being met"
-
-See: [Liberatory Practice](liberatory-practice.md)
-
-### We Name Impact Without Pathologizing
-
-**Not NVC:**
-- "You're being disrespectful"
-- "You're violating community norms"
-
-**NVC:**
-- "When interruptions happen frequently in class, I notice that some students stop participating. I'm concerned because I value everyone's voice being heard. Would you be willing to wait until others finish speaking before you respond?"
-
-### We Connect to Universal Needs
-
-**In conflict:**
-- Don't argue about strategies ("You should do X")
-- Connect to needs ("We all need safety. Let's talk about how to create that")
-- Find strategies that meet everyone's needs where possible
-
-### Boundaries Are Clear Requests, Not Punishments
-
-**Demand:**
-- "Stop doing that or you're out"
-- Consequences are punishment
-
-**Boundary as request:**
-- "I need [need]. I'm requesting [concrete action]. If that's not possible for you, we may need to find a different path."
-- Consequences protect needs, not punish
+You'll mess up. You'll go jackal. Notice it, translate to giraffe, repair if needed.
 
 ---
 
-## NVC and Power Dynamics
+## Protective vs. Punitive Force
 
-Rosenberg addressed power in relationships.
+Rosenberg distinguished between force used to protect and force used to punish.
 
-### Protective vs. Punitive Force
+### Punitive Force
 
-**Punitive force:**
-- Intended to cause suffering
-- Meant to make someone regret their action
-- Coercion through pain
+Punitive force is intended to cause suffering so the person will regret their action. It's coercion through pain. "You violated the rule, so now you suffer."
 
-**Protective force:**
-- Intended to prevent harm
-- Not meant to cause suffering
-- Last resort when dialogue isn't possible
+Punitive force creates resentment, rebellion, or submission—not understanding or growth.
 
-**Example:**
-- **Punitive:** "You violated the rule, so now you suffer (suspension, humiliation)"
-- **Protective:** "I'm stepping in to stop this harm from continuing. When there's safety, we can talk about what happened."
+### Protective Force
 
-### When Someone Has More Power
+Protective force is intended to prevent harm, not to cause suffering. It's a last resort when dialogue isn't possible in the moment.
 
-**Person with more power:**
-- Easy to turn requests into demands
-- Must be clear: "You can say no to this"
-- Must be willing to hear no
-- Acknowledge the power difference
+**Example:** If someone is actively harming another person and won't stop, you physically intervene to stop the harm. Your intention isn't to make them suffer, but to protect.
 
-**In The Multiverse:**
-- Facilitators have more power (institutional, social, knowledge)
-- We name this rather than pretending it doesn't exist
-- We make power accountable and transparent
+**In education:** Sometimes you need to remove someone from a learning space to protect the collective. This isn't punishment—it's protective. You're not trying to make them feel bad; you're preventing ongoing harm. When safety is restored, dialogue can happen.
 
 ---
 
-## Limitations and Critiques
+## Applying NVC in The Multiverse
 
-**Some critiques of NVC:**
-- Can feel formulaic or robotic when first learning
-- Requires both parties to engage (doesn't work with someone determined to cause harm)
-- Developed in Western, individualist context
-- Can be used to tone-police marginalized people
-- Takes time (not always available in crisis)
+### Shift 1: From Diagnosis to Observation
 
-**Our response:**
-- Use the spirit of NVC, not rigid formula
-- NVC is one tool among many
-- Integrate with other frameworks (Freire, hooks, Indigenous)
-- Don't use NVC to silence righteous anger at injustice
-- Adapt NVC to context
+Old model: "This student is manipulative" / "They have BPD" / "They're attention-seeking"
 
----
+NVC: "When I observe [specific behavior pattern], I feel concerned because our community needs safety/trust/accessibility. I'm curious about what needs aren't being met."
 
-## How to Go Deeper
+See all mental health sections in handbook—they use observation language, not diagnosis.
 
-### Essential Reading
+### Shift 2: From Judgment to Needs
 
-**Rosenberg's core text:**
-- **Rosenberg, M.** (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
-  - Start here. Accessible, practical, transformative.
+Old model: "You're being disrespectful" / "This is unacceptable" / "You're violating norms"
 
-**For educators:**
-- **Rosenberg, M.** (2003). *Life-Enriching Education: Nonviolent Communication Helps Schools Improve Performance, Reduce Conflict, and Enhance Relationships*. PuddleDancer Press.
+NVC: "When [observation of specific behavior], the impact I notice is [how it affects community]. I'm concerned because I value [need: accessibility, safety, trust]. Can we talk about this?"
 
-**For deeper practice:**
-- **Rosenberg, M.** (2005). *Speak Peace in a World of Conflict: What You Say Next Will Change Your World*. PuddleDancer Press.
+### Shift 3: From Demands to Requests
 
-### Resources
-- **Center for Nonviolent Communication:** [www.cnvc.org](https://www.cnvc.org/)
-  - Training, certified trainers, free resources
-- **NVC practice groups** (local and online)
-- **BayNVC** (Bay Area Nonviolent Communication): [baynvc.org](https://baynvc.org/)
+Old model: "Stop doing that or you're out" / "You have to apologize"
 
-### Multiverse-Specific Guide
-- **[Nonviolent Communication Guide for Facilitators](nonviolent-communication-guide.md)**
-  - Comprehensive NVC guide with Multiverse-specific examples
-  - Scripts and scenarios
-  - Deep dive into each component
+NVC: "I need [need]. I'm requesting [concrete action]. Are you willing to work with me on this? If not, we may need to find a different path."
+
+### Shift 4: Connecting to Universal Needs
+
+In conflict, move from arguing about strategies to connecting at the level of needs.
+
+Not: "You should do X" vs. "No, we should do Y" (arguing about strategies)
+
+But: "We both need safety. We both need autonomy. How can we find a strategy that meets both needs?" (connecting to shared needs)
 
 ---
 
-## Reflection Questions
+## Practical Tools
 
-When applying NVC, ask:
+**The Four-Component Check:**
+Before a difficult conversation, prepare using the four components:
+- What did I observe? (concrete, specific)
+- What am I feeling? (emotion in my body)
+- What need of mine isn't met? (universal need)
+- What am I requesting? (concrete, doable, positive)
 
-1. **Observation or evaluation?** — Am I describing what I see/hear, or judging?
-2. **Feeling or thought?** — Am I naming an emotion, or a mental interpretation?
-3. **Need or strategy?** — Am I identifying a universal need, or a specific solution?
-4. **Request or demand?** — Can they say no without consequences?
-5. **Empathy given?** — Have I connected to their feelings and needs?
-6. **Self-empathy?** — Have I connected to my own feelings and needs?
-7. **Whose needs?** — Am I considering all needs (mine, theirs, community)?
-8. **Power acknowledged?** — Have I named the power dynamics at play?
+**The Empathy First Reminder:**
+When someone is upset, put a mental sticky note: "Empathy first, then problem-solving." Resist the urge to explain, defend, or fix until they feel heard.
+
+**The Self-Empathy Pause:**
+When triggered, pause. Place hand on heart. Ask: "What am I feeling? What do I need?" Give yourself compassion before responding.
+
+**The Universal Needs List:**
+Keep Rosenberg's list of universal needs handy. When upset, scan it to name what need isn't met. (Autonomy, safety, understanding, contribution, rest, connection, meaning, celebration, etc.)
+
+---
+
+## Key Quotes
+
+"NVC helps us connect with each other and ourselves in a way that allows our natural compassion to flourish."
+
+"All violence is a tragic expression of unmet needs."
+
+"When we give from the heart, we do so because of the joy that springs forth from an act of giving."
+
+"Empathy is a respectful understanding of what others are experiencing."
+
+---
+
+## Limitations
+
+NVC can feel formulaic or robotic when first learning. It requires both parties to engage (doesn't work with someone determined to cause harm). It was developed in Western individualist context. It can be misused to tone-police marginalized people. It takes time (not always available in crisis).
+
+We use the spirit of NVC, not rigid formula. We integrate it with Freire (collective liberation), hooks (love as political practice), Goldman (mutual aid), and Indigenous (relational accountability).
+
+---
+
+## Going Deeper
+
+**Rosenberg's core text:** *Nonviolent Communication: A Language of Life* (3rd ed., 2015)
+
+**For educators:** *Life-Enriching Education* (2003)
+
+**Center for Nonviolent Communication:** [www.cnvc.org](https://www.cnvc.org/)
+
+**Comprehensive guide:** [Nonviolent Communication Guide for Facilitators](nonviolent-communication-guide.md) — Multiverse-specific applications, detailed examples, scripts
 
 ---
 
 **See also:**
-- **[Nonviolent Communication Guide for Facilitators](nonviolent-communication-guide.md)** — Comprehensive resource
-- [Paulo Freire: Education as the Practice of Freedom](thinker-freire.md)
-- [bell hooks: Love as Political Practice](thinker-hooks.md)
-- [Liberatory Practice: Applications](liberatory-practice.md)
-- [Liberatory Framework Overview](../LIBERATORY_FRAMEWORK.md)
+- [Nonviolent Communication Guide](nonviolent-communication-guide.md) — Full guide with Multiverse scenarios
+- [Paulo Freire: Education as Freedom](thinker-freire.md) — Dialogue, naming reality
+- [bell hooks: Love as Political Practice](thinker-hooks.md) — Boundaries, confrontation
+- [Liberatory Practice: Applications](liberatory-practice.md) — Practical applications

@@ -1,516 +1,297 @@
 # Indigenous Perspectives: Relational Accountability & Healing-Centered Practice
 
-## Understanding Indigenous Pedagogy
+Indigenous pedagogies represent thousands of years of wisdom about learning, relationship, and knowledge transmission. These traditions offer frameworks for education rooted in interconnection, healing, and collective wellbeing rather than individualism, pathology, and competition.
 
-Indigenous pedagogies represent thousands of years of wisdom about learning, relationship, and knowledge transmission. These are not monolithic — different Indigenous nations have distinct practices — but common threads emerge across Indigenous educational traditions worldwide.
-
-**Important note:** This document draws on scholarship by Indigenous educators and researchers, recognizing that we (The Multiverse School) are learning from these traditions with respect and humility, not claiming to represent them.
+**Important:** This document draws on scholarship by Indigenous educators and researchers. We (The Multiverse School) are learning from these traditions with respect and humility, not claiming to represent them.
 
 ---
 
-## Traditional Indigenous Learning Practices
+## The Core Framework: Relational Accountability ("All My Relations")
 
-### Learning Through Observation and Practice
+Central to many Indigenous worldviews is the concept often expressed as "All my relations" (*Mitakuye Oyasin* in Lakota, variations in many languages).
 
-Traditional Indigenous learning commonly involves **"observation, supervised participation, and private self-testing"** rather than direct instruction.
+### What Relational Accountability Means
 
-**Core method:**
-1. **Observation** — Watch skilled practitioners
-2. **Supervised practice** — Try the skill with guidance nearby
-3. **Private self-testing** — Practice independently
-4. **Reflection** — Consider what worked and what didn't
-5. **Further action** — Continue refining
+We are not separate individuals. We exist in a web of relationships—with human community, ancestors and future generations, land and water, animals and plants, spirit. Our actions ripple through this web. When one suffers, all suffer. When one heals, conditions for collective healing emerge.
 
-**Why this matters:**
-- Learning is experiential, not abstract
-- Students learn by doing, not by being told
-- Knowledge is embodied and situated
-- Failure is part of learning (private self-testing allows mistakes without shame)
-
-**In The Multiverse:**
-- Project-based learning over lectures
-- Apprenticeship and mentorship models
-- Space for experimentation and failure
-- Learning integrated with real work
-
-### Role of Elders
-
-In Indigenous communities, **Elders are the most respected educators**.
-
-**Elders' role:**
-- Pass wisdom and knowledge to youth
-- Model values and practices
-- Offer guidance, not commands
-- Share stories that contain teachings
-- Create conditions for learning
-
-**Not hierarchical authority:**
-- Elders don't command obedience
-- Respect is earned through wisdom and character
-- Teaching through example and story
-- Learners choose when to seek guidance
-
-**In The Multiverse:**
-- We honor lived experience and elder knowledge
-- We learn from those who've walked the path
-- Authority comes from wisdom, not title
-- Facilitators as guides, not commanders
-
-### Place-Based and Experiential Learning
-
-Indigenous pedagogies **connect learning to specific places** — knowledge is situated in relationship to location, experience, and community.
-
-**Place-based learning:**
-- Knowledge emerges from land and place
-- Learning happens in context, not abstraction
-- Relationship to environment is central
-- Sustainability and stewardship are taught through practice
-
-**In online/distributed learning:**
-- We honor students' local contexts
-- We encourage learning rooted in students' actual lives
-- We connect technical skills to real community needs
-- We don't extract learning from life
-
----
-
-## Relational Accountability: "All My Relations"
-
-Central to many Indigenous worldviews: **"All my relations"** (*Mitakuye Oyasin* in Lakota).
-
-### What Is Relational Accountability?
-
-From Indigenous healing and education frameworks:
-
-> "Healing incorporates physical, emotional, mental, and spiritual dimensions through relationships which occur alongside the healing journey."
-
-**Relational accountability means:**
-- We are interconnected, not separate individuals
-- Responsibility to nurture relationships, not just achieve outcomes
-- Spiritual, emotional, mental, physical wellness are inseparable
-- Community healing, not just individual "treatment"
-- Honoring ancestral knowledge and lived experience
-- Accountability to past, present, and future generations
-
-### We Are Responsible to All Our Relations
-
-**Relations include:**
-- Human community (family, friends, community members)
-- Ancestors and future generations
-- Land, water, air
-- Animals, plants, all living beings
-- Spirit world
-
-**This is not metaphor:**
-- Our actions affect the web of relationships
-- Individual wellbeing is inseparable from collective wellbeing
-- Healing happens in connection, not isolation
-- When one suffers, all suffer; when one heals, all benefit
+This isn't metaphor or poetry. It's a fundamental understanding of reality: individual wellbeing is inseparable from collective wellbeing. You don't heal in isolation—you heal in connection. You're not accountable just to yourself—you're accountable to all your relations (past, present, future).
 
 ### Applied to Education
 
-**Relational accountability in learning:**
-- Learning is relational (we learn with and from each other)
-- We're accountable to our learning community
-- Our growth affects others' growth
-- Knowledge carries responsibility
-- We consider impact on future learners
+In relational accountability framework:
+- Learning is relational (we learn with and from each other, not alone)
+- Knowledge carries responsibility (what you learn, you're responsible to use well)
+- Your growth affects others' growth (individual transformation creates conditions for collective transformation)
+- We ask "How does this affect all our relations?" not just "How does this affect me?"
 
-**In The Multiverse:**
-- Individual healing happens in community context
-- One person's crisis affects the collective
-- We balance individual needs with collective wellbeing
-- We ask "How does this affect all our relations?"
-- See: [Liberatory Practice](liberatory-practice.md) — Question #5
+**In practice:** When making a decision—about curriculum, about how to respond to someone struggling, about community agreements—you consider not just individual impact but relational impact. How does this affect the web of relationships? What are we accountable to beyond immediate outcomes?
 
 ---
 
-## Healing-Centered vs. Trauma-Informed Practice
+## Traditional Indigenous Learning: Observation, Practice, Reflection
 
-Indigenous frameworks distinguish **healing-centered** from **trauma-informed** approaches.
+Traditional Indigenous learning commonly involves observation, supervised participation, and private self-testing rather than direct instruction.
 
-### The Difference
+### The Learning Cycle
 
-**Trauma-informed asks:**
-- "What's wrong with you?"
-- "What trauma did you experience?"
-- Focus on pathology and diagnosis
+**Observe** skilled practitioners doing the work. You watch, you pay attention, you notice.
 
-**Healing-centered asks:**
-- "What happened to you?" (context and history)
-- "What is right with you?" (strengths and resilience)
-- "What healing do you need?" (support and growth)
-- Focus on wholeness and community care
+**Practice with supervision** nearby but not hovering. Someone is available if needed, but you're doing the work.
+
+**Self-test privately** where failure doesn't carry shame. You try on your own, make mistakes, figure it out.
+
+**Reflect** on what worked, what didn't, what you're learning.
+
+**Act again** with new understanding.
+
+This cycle develops embodied knowledge, not abstract concepts. You learn by doing real work, not by receiving information disconnected from practice. Failure is expected and private—you're not humiliated for not knowing yet.
+
+**In The Multiverse:** Project-based learning, apprenticeship models, real work (not simulations), space for experimentation and failure, learning integrated with doing.
+
+---
+
+## Elders: Wisdom, Not Command
+
+In Indigenous communities, Elders are the most respected educators—but this isn't hierarchical authority in the Western sense.
+
+### The Elder Framework
+
+Elders don't command obedience. They model values, offer guidance when sought, share stories that contain teachings, create conditions for learning. Respect is earned through wisdom, character, and service—not demanded through position.
+
+Learners choose when to seek guidance. Teaching happens through example and story, not through lectures or requirements. The Elder's role is to facilitate learning, not to manage or control learners.
+
+**The distinction:** Authority from wisdom (people seek you out because you know things worth knowing) vs. authority from position (people must obey because you have institutional power).
+
+**In The Multiverse:** We honor lived experience. We learn from those who've walked the path. Authority comes from what you know and how you've lived, not from your title. Facilitators as guides, not commanders.
+
+---
+
+## Healing-Centered vs. Trauma-Informed
+
+Indigenous frameworks challenge the medical model's focus on pathology and individual diagnosis.
+
+### The Shift in Questions
+
+**Trauma-informed asks:** "What's wrong with you?" "What trauma did you experience?" The focus is on pathology, symptoms, diagnosis.
+
+**Healing-centered asks:** "What happened to you?" (context and systemic causes), "What is right with you?" (strengths and resilience), "What healing do you need?" (support and growth, not symptoms and treatment).
 
 ### Why This Matters
 
-**Trauma-informed approaches:**
-- Can still pathologize
-- Focus on individual "symptoms"
-- Risk extracting trauma narratives
-- May not honor resilience
+Trauma-informed approaches, while better than ignoring trauma, can still pathologize. They locate the problem in the individual ("you have PTSD") rather than in the systems that created the trauma ("you survived white supremacist violence"). They risk extracting trauma narratives without offering healing. They focus on symptoms rather than wholeness.
 
-**Healing-centered approaches:**
-- Honor what kept you alive
-- Recognize survival strategies
-- Center community and culture
-- Ask about conditions for flourishing
+Healing-centered approaches recognize that what looks like "mental illness" is often rational response to oppressive conditions. They honor survival strategies—you developed these adaptations because they kept you alive. Now you may need different strategies, but the old ones weren't irrational.
 
-**From scholar Shawn Ginwright (2018):**
-
-> "Trauma-informed care locates the problem in the individual. Healing-centered engagement is more holistic and relational, asking not 'What's wrong with you?' but 'What healing do you need?'"
+**The framework shift:** From "fixing broken individuals" to "creating conditions where people can heal in community."
 
 ---
 
-## Decolonizing Mental Health
+## Decolonizing Mental Health: Not Everything Needs a Diagnosis
 
-Indigenous perspectives challenge Western psychiatric frameworks.
+The DSM-5 was created in a colonial, white supremacist context. It pathologizes what oppression creates and what resistance looks like.
 
-### DSM-5 Pathologizes What Colonialism Creates
+### Historical Context
 
-**Critical insight:**
-- The DSM-5 was created in a colonial, white supremacist context
-- "Mental illness" is often rational response to oppression
-- Diagnosis can be tool of social control
-- Indigenous, Black, queer, neurodivergent ways of being are not inherently pathological
-
-**Historical context:**
-- Enslaved people who escaped were diagnosed with "drapetomania" (disease causing slaves to flee)
+The psychiatric establishment has diagnosed resistance as illness:
+- Enslaved people who fled were diagnosed with "drapetomania" (disease causing slaves to run away)
+- Women's anger was "hysteria"
 - Homosexuality was in the DSM until 1973
-- Hysteria was used to pathologize women's anger
 - Indigenous spiritual practices were labeled "psychotic"
 
-**Today:**
-- Poverty, racism, and violence create "symptoms"
-- We call oppression's effects "disorders"
-- We medicalize what we should politicize
+Today, poverty, racism, and violence create "symptoms" that get diagnosed as individual "disorders." We medicalize what we should politicize.
 
-### Not Everything Needs a Diagnosis
+### The Framework: Diagnosis as Tool, Not Truth
 
-From Indigenous wisdom: **Not everything needs a diagnosis.**
+Diagnosis can be useful—it can connect someone to resources, help them understand their experience, provide language for support needs. But it's not the truth. It's one framework among many.
 
-**Alternative frameworks:**
+**Alternative frameworks that may coexist:**
 - Spiritual emergence (what psychiatry calls "psychosis" may be spiritual awakening)
 - Ancestral calling (visions, voices may be connection to ancestors)
 - Breaking free from oppression (what looks like "instability" may be liberation)
 - Neurodivergence as difference, not disorder
 - "Madness" as wisdom, rebellion, or survival
 
-**This doesn't mean:**
-- Ignoring suffering
-- Refusing medical help when wanted
-- Romanticizing pain
+**In practice:** Let the person name their own experience. Offer frameworks (including diagnosis if relevant), but don't impose interpretation. Ask "What do you need to flourish?" not "What's your diagnosis?"
 
-**It means:**
-- Diagnosis is a tool, not the truth
-- Multiple frameworks can coexist
-- The person defines their own experience
-- We ask "What do you need?" not "What's your diagnosis?"
-
-### Healing Happens in Community and Through Reconnection
-
-**Indigenous healing practices emphasize:**
-- Connection to community, not isolation
-- Reconnection to culture, land, ancestors
-- Ceremony and ritual
-- Holistic approaches (mind, body, spirit, relationships)
-- Collective healing, not just individual therapy
-
-**Research findings:**
-- Social connection reduces "mental illness" symptoms
-- Cultural reconnection improves wellbeing for Indigenous people
-- Community-based healing often more effective than individual therapy
-- Relational trauma heals in relational safety
+See: [Understanding Schizophrenia & Psychosis](schizophrenia-psychosis.md) for mad pride perspectives and alternative frameworks
 
 ---
 
-## Applied to The Multiverse School
+## The Four Rs: Indigenous Education Framework
 
-### We Don't Diagnose — We Witness and Support
+From Blackfoot educator Leroy Little Bear and others: Respect, Relevance, Reciprocity, Responsibility.
 
-**Pathology approach:**
-- "This student has BPD"
-- "They're showing signs of schizophrenia"
-- Label and manage
+### Respect
 
-**Healing-centered approach:**
-- "This person is in pain and their coping strategies are affecting community"
-- "What happened to them? What do they need?"
-- Observe patterns, connect to needs (NVC), offer support
+For Elders, knowledge keepers, community. For different ways of knowing. For land, water, all living beings. For each person's journey and timing.
 
-**See:**
-- [Understanding Borderline Patterns](borderline-personality-disorder.md)
-- [Understanding Schizophrenia & Psychosis](schizophrenia-psychosis.md)
-- [Understanding Dependent Patterns](dependent-personality-disorder.md)
+Respect means you don't impose one right way. You honor that people come to understanding through different paths. You don't rush or force. You create conditions and trust the process.
 
-(All three sections apply healing-centered framing)
+### Relevance
 
-### "Crisis" May Be Spiritual Emergence, Ancestral Calling, or Breaking Free
+Learning connected to students' lives and communities. Knowledge serves the community, not just individual advancement. Practical, applicable learning that matters.
 
-**Medical model:**
-- Psychosis = brain disease
-- Mania = chemical imbalance
-- Requires pharmaceutical intervention
+If students don't see how learning connects to their actual lives, they're right to question its relevance. Education that serves credentials but not life is extractive.
 
-**Alternative frameworks:**
-- May be spiritual emergence
-- May be ancestral calling
-- May be breaking free from oppression
-- May be neurodivergent way of processing
-- May be all of these things simultaneously
+### Reciprocity
 
-**Our approach:**
-- Honor multiple frameworks
-- Ask the person how they understand their experience
-- Offer resources (including crisis support if needed)
-- Don't impose interpretation
+Learning is mutual exchange. Teachers learn from students. Knowledge shared comes with responsibility to give back. What you receive, you're accountable to use in service of community.
 
-**See:**
-- [Schizophrenia & Psychosis](schizophrenia-psychosis.md) — Mad Pride section
-- [Responding to Crisis](../part3/suicidal-students.md)
+Not transactional (I give X, you give X back) but relational (we're in ongoing exchange, help flows in multiple directions).
 
-### Healing Is Relational: You Heal in Connection, Not Isolation
+### Responsibility
 
-**Isolation model:**
-- Individual therapy
-- "Fix yourself"
-- Disconnection during crisis
+To ancestors, community, future generations. To use knowledge well. To contribute to collective wellbeing. Relational accountability in action.
 
-**Relational model:**
-- Community care
-- "We heal together"
-- Connection during crisis (with boundaries)
-
-**In The Multiverse:**
-- We don't isolate people in crisis (unless they want space)
-- We offer community support
-- We recognize individual healing affects collective
-- We practice mutual aid (see [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md))
-
-### We Ask "What Conditions Would Support Your Flourishing?" Not "What's Your Diagnosis?"
-
-**Diagnosis-centered:**
-- "Tell me your diagnoses so I know how to accommodate you"
-
-**Needs-centered:**
-- "What do you need to thrive here?"
-- "What conditions support your learning?"
-- "What hasn't worked for you in the past?"
-
-**Why:**
-- Diagnosis may or may not be relevant
-- Person knows their needs better than any label
-- We create conditions for flourishing, not manage symptoms
-
----
-
-## Montessori and Indigenous Pedagogy: Shared Wisdom
-
-You asked about Montessori's indigenous roots. The research shows:
-
-### Not Historically Derived, But Remarkably Aligned
-
-Maria Montessori (1870-1952) developed her pedagogy in Italy, drawing primarily from European scientific observation of children. **She did not derive her methods from Indigenous practices.**
-
-**However:** There are striking overlaps between Montessori principles and traditional Indigenous learning practices.
-
-### Shared Values and Practices
-
-**Both emphasize:**
-
-**1. Observation and self-directed learning**
-- Indigenous: Children learn through observation and private self-testing
-- Montessori: Prepared environment where children choose activities and learn through doing
-
-**2. Mixed-age communities**
-- Indigenous: Extended family learning (all ages learn together)
-- Montessori: Multi-age classrooms (typically 3-year spans)
-
-**3. Hands-on, experiential learning**
-- Indigenous: Learning by doing real work
-- Montessori: Practical life activities, sensorial materials
-
-**4. Respect for the child's autonomy**
-- Indigenous: Children as capable agents, not objects to be molded
-- Montessori: "Help me do it myself" — child-directed development
-
-**5. Connection to environment**
-- Indigenous: Place-based learning, relationship to land
-- Montessori: Prepared environment, care for materials and nature
-
-**6. Intrinsic motivation**
-- Indigenous: Learning emerges from natural curiosity and participation
-- Montessori: No rewards/punishments, self-motivation
-
-### Indigenous Montessori Movement
-
-Contemporary Indigenous educators are **reclaiming and combining both traditions**:
-
-**Indigenous Montessori Institute (IMI):**
-- Founded by Trisha Moquino (Keres/Laguna Pueblo)
-- Combines Indigenous knowledge systems with Montessori philosophy
-- Keres Children's Learning Center: Keres language immersion + Montessori pedagogy
-- Anti-racist, anti-biased teacher training
-- Decolonizing Montessori to center Indigenous values
-
-**What this suggests:**
-- Possible universal human wisdom about how children learn
-- Different cultures arriving at similar principles
-- Not appropriation, but convergent practices
-- Opportunity to learn from both traditions
-
-### Learning from Both Traditions
-
-**In The Multiverse:**
-- We honor Indigenous pedagogies as original wisdom
-- We recognize overlaps with other liberatory education (Montessori, Freire, etc.)
-- We learn from Indigenous educators leading this work
-- We don't claim Indigenous practices, but we learn from them with respect
-
-**Resources:**
-- **Indigenous Montessori Institute:** [kclcmontessori.org](https://kclcmontessori.org/about-imi/)
-- **Keres Children's Learning Center**
-
----
-
-## The Four Rs of Indigenous Education
-
-From Blackfoot educator Leroy Little Bear and others: **Respect, Relevance, Reciprocity, Responsibility**.
-
-### 1. Respect
-- For Elders, knowledge keepers, community
-- For different ways of knowing
-- For land, water, all living beings
-- For each person's journey
-
-### 2. Relevance
-- Learning connected to students' lives and communities
-- Knowledge serves the community
-- Practical, applicable learning
-
-### 3. Reciprocity
-- Learning is mutual exchange
-- Teachers learn from students
-- Knowledge comes with responsibility to give back
-
-### 4. Responsibility
-- To ancestors, community, future generations
-- To use knowledge well
-- To contribute to collective wellbeing
-- Relational accountability
-
-**In The Multiverse:**
-- We practice these Four Rs
-- Respect for all ways of knowing
-- Learning relevant to students' lives
-- Mutual teaching and learning
-- Responsibility to community and future
+You're not just learning for yourself. You're learning for all your relations. What you know, you're responsible to share and use wisely.
 
 ---
 
 ## Storytelling as Pedagogy
 
-Indigenous education often uses **storytelling** as primary teaching method.
+Indigenous education often uses storytelling as primary teaching method—not as supplement to "real teaching" but as the teaching itself.
 
-### Why Stories?
+### Why Stories Teach
 
-**Stories:**
-- Contain layered teachings (you learn what you're ready to learn)
-- Pass down cultural knowledge and values
-- Are relational (told in community)
-- Honor oral tradition
-- Engage imagination and emotion
-- Can be revisited at different life stages
+Stories contain layered teachings. You learn what you're ready to learn. A child hears one teaching; an adult hears another; an Elder hears yet another—same story, different layers.
 
-**Not just entertainment:**
-- Creation stories explain relationships
-- Trickster stories teach about consequences
-- Seasonal stories connect to cycles
-- Personal stories transmit experience
+Stories are relational, told in community. They engage imagination and emotion, not just intellect. They can be revisited at different life stages, offering new wisdom each time.
 
-**In The Multiverse:**
-- We use case studies and scenarios (see [Part VI](../part6/case-aspiring-guru.md))
-- We share stories of what worked and what didn't
-- We honor storytelling as knowledge transmission
+Stories pass down cultural knowledge, explain relationships between beings, teach consequences without lecturing. They're not just information—they're transmission of wisdom.
+
+**In practice:** Case studies, scenarios, sharing stories of what worked and what didn't. Not "here's the rule" but "here's what happened when..." (See [Part VI: Case Studies](../part6/case-aspiring-guru.md))
 
 ---
 
-## Critiques of "Using" Indigenous Frameworks
+## Montessori and Indigenous Pedagogy: Convergent Wisdom
 
-### Appropriation vs. Learning
+You asked about Montessori connections to Indigenous practices. The research shows remarkable overlap, though not direct historical lineage.
 
-**Appropriation:**
-- Taking Indigenous practices out of context
-- Claiming Indigenous identity we don't have
-- Commodifying sacred practices
-- Extracting knowledge without relationship
+### Not Derived, But Aligned
 
-**Respectful learning:**
-- Acknowledging source and context
-- Learning from Indigenous educators doing this work
-- Not claiming to represent Indigenous knowledge
-- Applying principles ethically in our context
-- Supporting Indigenous-led education
+Maria Montessori (1870-1952) developed her methods in Italy through European scientific observation. She didn't derive them from Indigenous practices. However, both traditions arrived at similar principles—suggesting possible universal wisdom about how humans learn.
 
-**Our commitment:**
-- We cite Indigenous scholars and educators
-- We direct people to Indigenous-led resources
-- We acknowledge what we're learning from
-- We don't claim to teach Indigenous practices
-- We apply principles with humility and accountability
+### Shared Principles
+
+**Observation and self-directed learning:** Indigenous children learn through watching and private self-testing. Montessori children choose activities and learn through doing.
+
+**Mixed-age communities:** Indigenous extended family learning (all ages together). Montessori multi-age classrooms.
+
+**Hands-on experiential learning:** Both center learning by doing real work, not abstract exercises.
+
+**Respect for autonomy:** Indigenous view of children as capable agents. Montessori's "help me do it myself."
+
+**Connection to environment:** Indigenous place-based learning. Montessori prepared environment and nature connection.
+
+**Intrinsic motivation:** Both reject rewards/punishments. Learning emerges from natural curiosity.
+
+### Indigenous Montessori Movement Today
+
+Contemporary Indigenous educators are reclaiming and combining both traditions:
+
+**Indigenous Montessori Institute (IMI)** founded by Trisha Moquino (Keres/Laguna Pueblo) combines Indigenous knowledge systems with Montessori philosophy. The Keres Children's Learning Center offers Keres language immersion using Montessori pedagogy.
+
+This isn't appropriation—it's Indigenous educators recognizing overlap and integrating both wisdom traditions in service of Indigenous children's education and language revitalization.
+
+**What this suggests:** Possible convergent evolution toward similar truths about learning. Not one tradition borrowing from another, but different cultures arriving at similar insights.
+
+**For more:** [Indigenous Montessori Institute](https://kclcmontessori.org/about-imi/)
 
 ---
 
-## How to Go Deeper
+## Applying Indigenous Frameworks in The Multiverse
 
-### Indigenous Scholars on Education & Healing
+### Shift 1: From Pathology to Healing
+
+Old model: "This student has a disorder. Let's manage symptoms."
+
+Indigenous framework: "This person is in pain. What happened to them? What healing do they need? How do we support their wholeness?"
+
+See all mental health sections—they apply healing-centered framing.
+
+### Shift 2: From Individual to Relational
+
+Old model: "This is an individual problem to fix."
+
+Indigenous framework: "How does this affect all our relations? What's happening in the community that this pattern emerges?"
+
+### Shift 3: From Diagnosis to Observation
+
+Old model: "They have BPD/ADHD/depression."
+
+Indigenous framework: "I observe these patterns. The person may find diagnosis useful or not. My role is to support their flourishing, however they understand their experience."
+
+### Shift 4: From Isolation to Connection
+
+Old model: "When in crisis, isolate and treat individually."
+
+Indigenous framework: "Healing happens in community. How do we stay in relationship while maintaining appropriate boundaries?"
+
+---
+
+## Practical Tools
+
+**The "All My Relations" Check:**
+Before decisions, ask: How does this affect the web of relationships? Am I considering only immediate individual impact, or relational/collective impact?
+
+**The Healing-Centered Question:**
+Instead of "What's wrong with them?" ask "What happened? What is right with them? What healing do they need?"
+
+**The Four Rs Audit:**
+Check your practice: Am I showing respect? Is this relevant to students' lives? Am I practicing reciprocity? Am I being responsible to community and future?
+
+**The Observation-Practice-Reflection Cycle:**
+Structure learning: Observe practitioners → Practice with light supervision → Self-test privately → Reflect → Act again
+
+---
+
+## Key Quotes
+
+"We are responsible to all our relations—past, present, and future."
+
+"Healing incorporates physical, emotional, mental, and spiritual dimensions through relationships which occur alongside the healing journey."
+
+"Not everything needs a diagnosis."
+
+---
+
+## Respecting Sources: Appropriation vs. Learning
+
+We're not Indigenous. We don't claim to represent Indigenous knowledge. We're learning from Indigenous scholars and educators who have generously shared their frameworks.
+
+**Our responsibility:**
+- Cite sources accurately
+- Direct people to Indigenous-led resources
+- Apply principles ethically in our context
+- Not claim to teach Indigenous practices
+- Support Indigenous-led education
+
+**We learn from:** Gone, Kirmayer, Cajete, Simpson, Brave Heart, Little Bear, and many others. See [Liberatory Resources](liberatory-resources.md) for full citations.
+
+---
+
+## Going Deeper
 
 **On pedagogy:**
-- **Little Bear, L.** (Blackfoot). Work on Indigenous epistemologies and the Four Rs
-- **Cajete, G.** (Tewa). *Look to the Mountain: An Ecology of Indigenous Education* (1994)
-- **Simpson, L.** (Michi Saagiig Nishnaabeg). *Dancing on Our Turtle's Back: Stories of Nishnaabeg Re-Creation, Resurgence and a New Emergence* (2011)
+- Cajete, G. *Look to the Mountain: An Ecology of Indigenous Education* (1994)
+- Simpson, L. *Dancing on Our Turtle's Back* (2011)
 
-**On healing and mental health:**
-- **Gone, J.P.** Research on historical trauma and Indigenous mental health
-- **Kirmayer, L.J.** et al. "Rethinking resilience from indigenous perspectives" (2011)
-- **Brave Heart, M.Y.H.** (Lakota). Work on historical trauma and healing
+**On healing:**
+- Gone, J.P. Research on historical trauma and Indigenous mental health
+- Brave Heart, M.Y.H. Work on historical trauma
 
 **On decolonizing:**
-- **Smith, L.T.** (Māori). *Decolonizing Methodologies: Research and Indigenous Peoples* (1999)
-- **Tuck, E., & Yang, K.W.** "Decolonization is not a metaphor" (2012)
+- Smith, L.T. *Decolonizing Methodologies* (1999)
 
-### Resources
-
-**Organizations:**
-- **Indigenous Montessori Institute:** [kclcmontessori.org](https://kclcmontessori.org/about-imi/)
-- **First Nations Health Authority (Canada):** [Mental Wellness Resources](https://www.fnha.ca/wellness/wellness-for-first-nations/mental-wellness-and-substance-use)
-- **Native American Rights Fund:** [www.narf.org](https://www.narf.org/)
-
-**Further reading:**
-- See [Research Sources](research-sources.md) — Indigenous perspectives section
-- See [Liberatory Resources](liberatory-resources.md) — Indigenous healing section
-
----
-
-## Reflection Questions
-
-When applying Indigenous frameworks, ask:
-
-1. **Relational accountability:** How does this affect all my relations?
-2. **Healing-centered:** Am I asking "What healing do you need?" or "What's wrong with you?"
-3. **Community:** Am I practicing collective care or individual pathology?
-4. **Diagnosis:** Am I pathologizing what oppression creates?
-5. **Decolonizing:** Am I challenging colonial frameworks or reproducing them?
-6. **Respect:** Am I learning with humility and citing sources?
-7. **Appropriation:** Am I taking without relationship, or learning with accountability?
-8. **Neurodivergence:** Am I honoring different ways of being as valid?
+**Resources:**
+- [First Nations Health Authority](https://www.fnha.ca/wellness/wellness-for-first-nations/mental-wellness-and-substance-use)
+- [Indigenous Montessori Institute](https://kclcmontessori.org/about-imi/)
 
 ---
 
 **See also:**
-- [Paulo Freire: Education as the Practice of Freedom](thinker-freire.md)
-- [bell hooks: Love as Political Practice](thinker-hooks.md)
-- [Emma Goldman: Mutual Aid as Anarchist Practice](thinker-goldman.md)
-- [Liberatory Practice: Applications](liberatory-practice.md)
-- [Research Sources & Evidence Base](research-sources.md)
-- [Liberatory Framework Overview](../LIBERATORY_FRAMEWORK.md)
+- [Paulo Freire: Education as Freedom](thinker-freire.md) — Collective liberation
+- [bell hooks: Love as Political Practice](thinker-hooks.md) — Wholeness, boundaries
+- [Emma Goldman: Mutual Aid](thinker-goldman.md) — Voluntary cooperation
+- [Research Sources](research-sources.md) — Full Indigenous perspectives research
+- [Liberatory Practice: Applications](liberatory-practice.md) — How to apply frameworks
