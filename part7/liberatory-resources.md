@@ -8,6 +8,7 @@ This document provides sources and resources for the liberatory pedagogy framewo
 
 ### Core Texts
 - **Freire, P.** (1970). *Pedagogy of the Oppressed*. Continuum.
+  - [Available free at Internet Archive](https://archive.org/details/PedagogyOfTheOppressed-English-PauloFriere)
   - Core text on banking model vs. problem-posing education
   - Essential reading for understanding liberatory education
 
@@ -24,9 +25,11 @@ This document provides sources and resources for the liberatory pedagogy framewo
 - **hooks, b.** (1994). *Teaching to Transgress: Education as the Practice of Freedom*. Routledge.
   - On engaged pedagogy and love as political practice
   - Essential for understanding teaching as liberatory practice
+  - **Note:** Under copyright—check your library or purchase from Routledge
 - **hooks, b.** (2000). *All About Love: New Visions*. William Morrow.
   - On love as action, not feeling
   - "Love as political praxis"
+  - **Note:** Under copyright—check your library or purchase
 
 ### Resources
 - **The bell hooks Center:** [bellhookscenter.org](https://bellhookscenter.org/)
@@ -40,8 +43,10 @@ This document provides sources and resources for the liberatory pedagogy framewo
 ### Core Texts
 - **Goldman, E.** "The Child and Its Enemies" in *Anarchism and Other Essays* (1910).
   - [Available free at The Anarchist Library](https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays)
+  - [Also available at Project Gutenberg](https://www.gutenberg.org/ebooks/2162)
   - On anarchist education and free development
 - **Goldman, E.** "Francisco Ferrer and the Modern School" (1911).
+  - Included in *Anarchism and Other Essays* (links above)
   - On anarchist education and the Modern School movement
   - Foundations for non-hierarchical learning
 
@@ -56,6 +61,7 @@ This document provides sources and resources for the liberatory pedagogy framewo
 
 ### Core Texts
 - **Rosenberg, M.** (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
+  - [Free sample chapter from CNVC](https://www.cnvc.org/images/pdf/Nonviolent-Communication-Book-Chapter-Sample-3rd-edition.pdf)
   - Foundational NVC text
   - The four components: Observations, Feelings, Needs, Requests
 
@@ -63,6 +69,7 @@ This document provides sources and resources for the liberatory pedagogy framewo
 - **Center for Nonviolent Communication:** [www.cnvc.org](https://www.cnvc.org/)
   - Training programs and certified trainers
   - Free resources and practice groups
+  - CNVC states all website materials are available for public use
 - **For deeper NVC guidance:** See [Nonviolent Communication Guide](nonviolent-communication-guide.md) in this handbook
   - Multiverse-specific applications
   - Detailed examples and scripts

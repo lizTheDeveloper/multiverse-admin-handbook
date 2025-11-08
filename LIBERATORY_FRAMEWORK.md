@@ -56,24 +56,6 @@ Books, articles, and resources for deeper learning:
 
 ---
 
-## How This Changes Our Language
-
-### OLD LANGUAGE (Hierarchy, Pathology, Control, Judgment)
-❌ "Managing difficult students"
-❌ "Intervening in mental illness"
-❌ "Teacher authority"
-❌ "Behavior problems"
-❌ "This student is manipulative" (evaluation/diagnosis)
-
-### NEW LANGUAGE (Liberation, Healing, Relationality, Observation)
-✅ "Navigating community challenges together"
-✅ "Supporting someone's healing journey"
-✅ "Relational accountability"
-✅ "Behavior that disrupts collective learning"
-✅ "When I notice [behavior], I feel concerned because our community needs [safety/trust/accessibility]" (NVC observation)
-
----
-
 ## Key Concepts Quick Reference
 
 ### Banking Model vs. Problem-Posing Education (Freire)
