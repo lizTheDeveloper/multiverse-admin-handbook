@@ -444,3 +444,10 @@ From 2024 research on ADHD educators and burnout:
 **You cannot teach sustainably while burning out.** Recognizing burnout early, taking it seriously, and implementing recovery strategies protects your ability to do this work long-term.
 
 > **Guiding principle:** Self-care is not optional—it's essential infrastructure for sustainable teaching.
+
+---
+
+**See Also:**
+- [Mutual Aid: Possibilities and Limits](../part6/mutual-aid-possibilities-and-limits.md) - Why you can't be everything to everyone
+- [Teacher Boundaries](teacher-boundaries.md) - Protecting your capacity through boundaries
+- [Case Study: Crisis-Dependent Student](../part6/case-crisis-dependent.md) - Boundary-holding to prevent burnout

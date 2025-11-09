@@ -574,3 +574,10 @@ Using the [reflection questions from our pedagogy framework](../LIBERATORY_FRAME
 Morgan wasn't a "bad" student. They were a traumatized person trying to survive while also trying to learn. **The boundaries Jamie held allowed Morgan to stay in the community while building appropriate support systems.**
 
 > **Guiding principle from liberatory pedagogy:** You can care about a student's wellbeing AND maintain boundaries that protect both of you. Crisis dependency improves with consistent, boundaried care—not with rescue. This is what love as political practice looks like: fierce boundaries held with deep compassion.
+
+---
+
+**See Also:**
+- [Mutual Aid: Possibilities and Limits](mutual-aid-possibilities-and-limits.md) - When helping is mutual aid vs. enabling
+- [Teacher Boundaries](../part5/teacher-boundaries.md) - Setting limits on support
+- [Burnout Prevention](../part5/burnout-prevention.md) - Protecting your capacity

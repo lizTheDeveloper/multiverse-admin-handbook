@@ -356,3 +356,10 @@ Don't handle these alone:
 ---
 
 **Remember:** The best teachers know their limits and honor them. Your boundaries make you a better educator.
+
+---
+
+**See Also:**
+- [Mutual Aid: Possibilities and Limits](../part6/mutual-aid-possibilities-and-limits.md) - When to help vs. when you're enabling
+- [Burnout Prevention](burnout-prevention.md) - Protecting your capacity
+- [Case Study: Crisis-Dependent Student](../part6/case-crisis-dependent.md) - Example of boundary-holding in crisis

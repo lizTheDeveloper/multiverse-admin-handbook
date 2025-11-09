@@ -721,3 +721,4 @@ After an interaction with entitled behavior, ask yourself:
 - [Liberatory Practice: Applications](../part7/liberatory-practice.md)
 - [Case Study: The Aspiring Guru](case-aspiring-guru.md) (entitlement example)
 - [Scenario Library](scenario-library.md) (general scenarios)
+- [Mutual Aid: Possibilities and Limits](mutual-aid-possibilities-and-limits.md) - When demands exceed what mutual aid can provide
