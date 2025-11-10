@@ -102,7 +102,7 @@ When facing an ethical dilemma, ask:
    - Should you inform other staff for support coordination?
 
 **Best practice template:**
-> "Thank you for sharing that with me. I want to make sure you know: I document concerning patterns for safety reasons, and I share information with [admin/team] when necessary to support you or protect the community. Is there anything you shared that you'd prefer I not document?"
+> "Thank you for sharing that with me. I want to make sure you know: I document concerning patterns for safety reasons, and I share information with co-facilitators when necessary to support you or protect the community. Is there anything you shared that you'd prefer I not document?"
 
 This gives them a chance to reconsider while being transparent about your role.
 
@@ -351,11 +351,11 @@ Ask yourself:
 - Take suicidal ideation seriously
 - Refer to crisis resources (988)
 - Document what was disclosed
-- Notify admin for support coordination
+- Inform co-facilitators if you have them
 - Assess whether you believe person is in immediate danger
 
 **Ethical template for transparency:**
-> "I want you to feel comfortable talking to me. I also need you to know: if you tell me you're planning to harm yourself or others, I'm going to connect you to crisis support resources like 988. That's to help you, not to punish you. I'll also let [admin] know so we can support you as a team."
+> "I want you to feel comfortable talking to me. I also need you to know: if you tell me you're planning to harm yourself or others, I'm going to connect you to crisis support resources like 988. That's to help you, not to punish you. I'll also inform co-facilitators so we can support you as a team."
 
 **This is more accurate than claiming you're "required to report" when you're likely not.**
 
@@ -517,7 +517,7 @@ Ask yourself:
 > "The most helpful response to suicidal ideation is calm, direct engagement, connection to trained support, and removal of means if accessible."
 
 **You can care AND maintain boundaries:**
-> "I'm taking this seriously. Please call 988 right now. I'm also notifying [admin] so you have additional support. You matter, and you need professional crisis support."
+> "I'm taking this seriously. Please call 988 right now. You matter, and you need professional crisis support."
 
 ---
 
@@ -617,7 +617,7 @@ Burned-out teachers:
 - What are the stakes?
 
 **Step 2: Consult**
-- Admin
+- Co-facilitators or peer advisors
 - Colleagues
 - Relevant research/guidelines
 - Don't decide in isolation
@@ -662,7 +662,7 @@ Burned-out teachers:
 **Then:**
 - Listen fully
 - Acknowledge impact (even if you disagree with interpretation)
-- Consult with admin
+- Consult with co-facilitators or advisors
 - Assess: Is there validity? Was I biased? Or is this a misunderstanding?
 - Respond transparently
 
@@ -789,7 +789,7 @@ Assess:
 - **Nothing About Us Without Us** (Disability rights movement)
 
 ### When You Need Guidance
-- Consult admin
+- Consult with co-facilitators or advisors
 - Peer supervision
 - Professional ethics boards (if applicable)
 - Legal counsel (for legal questions)

@@ -33,7 +33,7 @@ This pattern can emerge when someone is:
 - Acknowledge their passion while insisting on grounded preparation
 - Do not argue about the validity of their vision—focus on process and readiness
 - Monitor for recruitment behavior that involves vulnerable people
-- Document and escalate if they bypass agreements
+- Document and enforce consequences if they bypass agreements
 
 **Boundary:** If they begin involving unhoused, mentally distressed, or otherwise vulnerable people in their project without infrastructure or oversight, intervene immediately for everyone's safety.
 
@@ -62,7 +62,7 @@ This pattern can emerge when someone:
 - Redirect personal disclosures to appropriate contexts (therapy, crisis support, consent-based sharing)
 - Acknowledge their feelings while maintaining relational clarity
 - Document patterns of boundary-testing
-- Offer clear reminders; escalate if behavior persists or intensifies
+- Offer clear reminders; enforce consequences if behavior persists or intensifies
 
 **Boundary:** If someone engages in stalking behavior, threatens self-harm when boundaries are set, or love-bombs staff in ways that create obligation, this requires immediate community pause for everyone's safety.
 
@@ -123,7 +123,7 @@ This pattern can emerge when someone:
 - Distinguish neurodivergent communication style from condescension or dominance
 - Redirect to async channels if someone monopolizes synchronous space
 - Privately discuss impact vs. intent
-- Offer one clear opportunity to adjust; document and escalate if pattern persists
+- Offer one clear opportunity to adjust; document and enforce consequences if pattern persists
 
 **Boundary:** If communication is belittling, gaslighting, or making others feel unsafe to participate, intervene to protect collective learning space.
 
@@ -150,7 +150,7 @@ This pattern can emerge when someone:
 - Frame as supportive preparation, not restriction: *"Your vision deserves a strong foundation. Here's how we support visionaries in building capacity."*
 - Clarify that recruiting community members or representing Multiverse requires going through this process
 - Monitor for willingness to engage in grounded preparation
-- Document and escalate if they bypass the process
+- Document and enforce consequences if they bypass the process
 
 **Boundary:** If someone launches their project anyway, publicly recruiting community members or claiming Multiverse affiliation, we disaffiliate them clearly to protect everyone involved.
 
@@ -180,7 +180,7 @@ This pattern can emerge when someone:
 - Don't argue or over-explain—state facts once, then maintain boundaries
 - Protect community members from being recruited into adversarial narratives
 - Distinguish between someone processing real harm vs. weaponizing harm language
-- Escalate to admin when pattern is clear
+- Document and consider removal when pattern is clear
 
 **Boundary:** If someone repeatedly weaponizes identity, trauma, or harm language to avoid relational accountability or to harm others, community participation may need to pause while they develop capacity for mutual accountability.
 
@@ -209,7 +209,7 @@ This pattern can emerge when someone:
 - Use grounding, supportive language: *"That sounds really frightening. Are you safe right now? Do you have support?"*
 - Offer crisis resources (988, local crisis teams)
 - Assess whether community participation is safe for them right now
-- Escalate to admin immediately
+- Document and consider removal immediately
 - Document everything thoroughly
 - If allegations involve staff, follow standard investigation protocols
 
@@ -230,8 +230,8 @@ This pattern can emerge when someone:
    - Who else was present or affected
    - Documentation protects everyone
 
-3. **Consult and escalate early**
-   - You don't need to be certain to ask for support
+3. **Consult and act early**
+   - You don't need to be certain to seek input from co-facilitators or advisors
    - Your sense that something is off is valuable information
    - Collective wisdom is better than individual assessment
 

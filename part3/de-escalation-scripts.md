@@ -177,7 +177,7 @@ This guide provides specific language you can use in difficult situations. These
 
 *[Then immediately:]*
 - Mute or remove from channel
-- Notify admin
+- Inform co-facilitators if applicable
 - Document with screenshots
 
 **If they threaten violence:**

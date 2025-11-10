@@ -173,7 +173,7 @@ You have autonomy to build whatever you want. We have responsibility to protect 
 Ready to begin the Grounded Visionary Path?
 
 **Next steps:**
-1. Notify a Multiverse admin that you want to join the program
+1. Let Multiverse know you want to join the program
 2. Receive your orientation packet and skill-building resources
 3. Connect with your mentor
 4. Begin the 90-day journey

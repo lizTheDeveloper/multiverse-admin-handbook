@@ -42,7 +42,7 @@
 - One chance to adjust
 
 **Level 3: Escalation**
-- Notify admin
+- Inform co-facilitators if applicable
 - Temporary pause from community
 - Clear expectations for return
 - Full documentation

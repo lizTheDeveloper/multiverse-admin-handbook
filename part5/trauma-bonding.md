@@ -225,9 +225,9 @@ Don't wait until it's deeply established. Notice:
 - Date and nature of boundary violations
 - What you said
 - How they responded
-- Escalate to admin if pattern continues
+- Document and consider removal if pattern continues
 
-### Step 6: Consult with Colleagues/Admin
+### Step 6: Consult with Colleagues or Advisors
 Don't manage this alone. Get support and perspective.
 
 ---
@@ -268,7 +268,7 @@ Don't manage this alone. Get support and perspective.
 - Hold the boundary anyway
 - Don't defend endlessly—state it once, then hold firm
 
-**Step 4: Consult admin**
+**Step 4: Consult with co-facilitators or advisors**
 - Let them know you're resetting boundaries
 - May need their support if student escalates
 - Document the reset conversation
@@ -290,7 +290,7 @@ Don't manage this alone. Get support and perspective.
 - You're hiding the nature of the relationship from colleagues
 - Your personal life is significantly affected
 
-**Action:** Immediate consultation with admin. Possible removal of student from your classes.
+**Action:** Immediate consultation with co-facilitators or advisors. Possible removal of student from your classes.
 
 ---
 
@@ -373,4 +373,4 @@ Students who trauma-bond aren't "bad" or manipulative—they're often replicatin
 - You feel responsible for their survival
 - Relationship creates dependence
 
-**If you're unsure, ask admin or a colleague for perspective.**
+**If you're unsure, consult with advisors or a colleague for perspective.**
