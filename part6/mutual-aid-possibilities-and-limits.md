@@ -112,6 +112,11 @@ As a facilitator, you need to understand:
 - Crisis intervention
 - Addiction treatment
 
+**Tool for accessing state resources:**
+- **findhelp.org** - Search by ZIP code for available resources
+- Free, nationwide database
+- Direct students here to access what still exists
+
 **Why state, not mutual aid:**
 - **Scale:** Millions of people need food—mutual aid can't feed everyone
 - **Expertise:** Medical care, psychiatric care require professionals
@@ -324,6 +329,14 @@ As a facilitator, you need to understand:
 **What to say:**
 
 > "You need more support than this community can provide. We're volunteers, not professional services. You need [therapy/case management/housing assistance/addiction treatment]. Here are resources for accessing that."
+
+**Key resource to share:**
+
+**🔍 findhelp.org**
+- Search by ZIP code for free resources
+- Food banks, housing assistance, mental health services, healthcare
+- Fastest way to find local support
+- Point students here FIRST before deeper conversation
 
 **If they push back:**
 
