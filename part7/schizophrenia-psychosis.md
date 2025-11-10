@@ -196,18 +196,18 @@ Students may show subtle changes weeks or months before obvious psychosis:
 - "When did you last sleep/eat?"
 
 **If YES to harm:**
-- Immediate escalation (988, crisis services, possibly 911)
+- Immediate action (988, crisis services, possibly 911)
 - Don't try to manage alone
-- Notify admin immediately
+- Document thoroughly and inform co-facilitators if you have them
 
 **If NO immediate danger but clearly psychotic:**
-- Still escalate, but less urgently
+- Still take action, but less urgently
 - Encourage them to contact mental health services
-- Notify admin
+- Document and decide whether they can continue in the space
 
 ---
 
-### Step 3: Provide Resources & Escalate
+### Step 3: Provide Resources & Document
 
 **Provide:**
 - 988 Suicide & Crisis Lifeline (trained for psychosis)
@@ -244,11 +244,12 @@ If someone is experiencing psychosis severe enough that they cannot engage with 
 
 ---
 
-### Step 5: Document & Notify
+### Step 5: Document & Consult
 - Document exactly what you observed (quotes, behaviors, dates)
 - Include what you said and what resources you provided
-- Notify admin immediately
-- Do not try to handle ongoing crisis alone
+- Inform co-facilitators immediately if you have them
+- Consult with a peer educator or therapist if you're uncertain about next steps
+- Don't carry ongoing crisis management alone
 
 ---
 
@@ -370,7 +371,7 @@ Witnessing someone in psychosis can be **deeply unsettling**.
 - Grief for the student's struggle
 
 **What helps:**
-- Immediate debrief with admin or colleague
+- Immediate debrief with co-facilitator, peer educator, or therapist
 - Remember: you can't fix this, only refer
 - Ground in your own reality (what is real for you)
 - Take a break after the interaction
@@ -439,7 +440,7 @@ Then involuntary intervention may become necessary—but this should be a last r
 2. **Honor multiple frameworks** — Medical model, mad pride, spiritual emergence—listen to how the person understands their experience
 3. **Early connection to support can be life-saving** — Recognize patterns and facilitate access to resources (medical or peer-based)
 4. **You can't argue someone out of psychosis** — Stay grounded, don't argue with content of delusions, refer to appropriate support
-5. **Safety first, voluntary support when possible** — Assess for harm, escalate as needed, prefer voluntary approaches
+5. **Safety first, voluntary support when possible** — Assess for harm, take action as needed, prefer voluntary approaches
 6. **Reduce stigma, honor mad pride** — Use language the person prefers (person-first, identity-first, or Mad pride terms)
 7. **Recovery and thriving are possible** — Many people live full lives with or beyond psychosis
 8. **You're a facilitator, not a clinician** — Connect to resources, don't treat or diagnose

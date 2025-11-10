@@ -276,7 +276,7 @@ A student who's usually thoughtful and measured has, over the past week:
 **If they dismiss your concern:**
 > "Okay. I hope you're right. If you notice you're not sleeping or feeling really different, please reach out to someone. I'm here for class stuff, but a mental health provider can help with the rest."
 
-**Then:** Document, notify admin, monitor closely
+**Then:** Document the conversation and behaviors you observed, monitor closely, and consider consulting with a peer educator or mental health professional if the pattern continues or escalates
 
 **If you chose D:**
 - **Problem:** Too extreme as first response
@@ -326,21 +326,21 @@ In general chat, a student posts:
 > If you're in crisis, please:
 > - Call or text 988 (Suicide & Crisis Lifeline)
 > - Text HOME to 741741 (Crisis Text Line)
-> - Go to your nearest ER if you're not safe
->
-> I'm also notifying [admin] so you have additional support."
+> - Go to your nearest ER if you're not safe"
 
 **Then:**
-- Notify admin immediately
-- Document exact wording of their message
+- Document exact wording of their message (timestamp, screenshot if possible)
+- If you have co-facilitators, inform them so they can provide backup support
 - Follow up within 24 hours
-- If they don't respond and you're genuinely concerned, escalate further
+- If they don't respond and you're genuinely concerned, consider reaching out to emergency contacts if you have them, or consult with a peer educator/therapist about next steps
 
 **If you chose D:**
 - **Issue:** Might be seen as dismissive
 - **When this works:** Combined with DM
 
-**Key principle:** Suicidal statements ALWAYS get private follow-up + crisis resources + admin notification.
+**Key principle:** Suicidal statements ALWAYS get private follow-up + crisis resources + documentation.
+
+**Note for sole operators:** If you're running this alone, thorough documentation protects you and helps you track patterns. Consider having a peer advisor or therapist you can consult with (without sharing identifying details) when handling serious situations.
 
 ---
 
@@ -357,7 +357,7 @@ A student messages you constantly—not necessarily crises, just... everything. 
 
 **C.** Have a direct conversation about communication boundaries
 
-**D.** Ask admin to tell them to back off
+**D.** Have someone else tell them to back off
 
 ---
 
@@ -388,8 +388,8 @@ A student messages you constantly—not necessarily crises, just... everything. 
 > "I understand you'd like more contact. What I'm offering is what's realistic for me. If you need more support than that, here are some resources: [peer groups, therapy, crisis lines]."
 
 **If you chose D:**
-- **Problem:** Abdicates your responsibility
-- **When admin should step in:** If you've tried and they're not respecting boundaries
+- **Problem:** Abdicates your responsibility to set your own boundaries
+- **When to involve others:** If you've set clear boundaries repeatedly and they're being violated, a co-facilitator can provide backup or you might need to remove the student
 
 ---
 
@@ -400,46 +400,79 @@ After a few weeks of class, a student DMs you:
 
 > "I just want to say thank you. You're the first teacher who's ever really understood me. Everyone else in my life thinks I'm too much or too broken, but you see me. This class is the only thing keeping me going right now."
 
+### First: Assess the Context
+
+**Is this concerning?**
+
+**NOT concerning (normal appreciation):**
+- "You really get me, thanks"
+- "I've never had a teacher understand neurodivergence like this"
+- "This space feels different from other classes"
+- Said once, no follow-up demands
+- They have other supports/connections
+- They're participating in community, not just focused on you
+
+**Concerning (dependency forming):**
+- "You're the ONLY thing keeping me going"
+- "Everyone else has abandoned me but you won't, right?"
+- Pattern of intense messages seeking reassurance
+- No other supports mentioned
+- Making you responsible for their wellbeing
+- Escalating intensity over time
+
 ### Your Options
 
 **A.** "I'm so glad! You're special to me too."
 
 **B.** Ignore the message—it's too intense
 
-**C.** Acknowledge and redirect appropriately
+**C.** Warm acknowledgment (if not concerning)
 
-**D.** Tell them they're being inappropriate
+**D.** Acknowledge and redirect (if concerning pattern)
 
 ---
 
 ### Analysis
 
 **If you chose A:**
-- **Problem:** Reciprocates inappropriate intensity
-- **Risk:** Beginning of trauma bond
-- **Pattern:** Special relationship, enmeshment
+- **Problem:** Reciprocates intensity and creates special relationship dynamic
+- **Risk:** Beginning of trauma bond or enmeshment
+- **When it's really problematic:** If there are other dependency signs
 
 **If you chose B:**
 - **Problem:** Dismissive, confusing
-- **Miss:** Opportunity to set healthy boundary
+- **Miss:** Opportunity to either receive appreciation warmly OR set boundaries if needed
 
-**If you chose C (BEST OPTION):**
-> "Thank you for sharing that. I'm glad Multiverse feels supportive. I want to be clear about my role, though: I'm your teacher, which means I facilitate learning in this specific context. I'm not your therapist, friend, or family.
->
-> If this class is 'the only thing keeping you going,' that's a sign you need additional support beyond what I can provide. Here are some resources for that: [therapy, peer support, crisis line].
->
-> You're welcome here, and I want you to have a full support network—not just one teacher."
+**If you chose C (BEST for normal appreciation):**
+> "I really appreciate you saying that. It means a lot to know that this space feels affirming. That's exactly what we're trying to create here—where neurodivergent folks don't have to mask or explain themselves constantly. I'm glad you're here."
 
 **Why this works:**
-- Validates without reciprocating intensity
-- Clarifies role boundaries
-- Names the concerning part ("only thing keeping me going")
-- Provides resources
-- Kind but clear
+- Receives appreciation warmly
+- Attributes it to the space/community, not just you personally
+- Doesn't overcorrect or make them feel bad for expressing gratitude
+- Normal human warmth
 
-**If you chose D:**
-- **Problem:** Too harsh
-- **Impact:** Shame, rejection
+**If you chose D (BEST if dependency pattern emerging):**
+> "Thank you for sharing that. I'm glad Multiverse feels supportive. I'm noticing the phrase 'the only thing keeping me going'—that's a lot of weight to put on one class. It sounds like you might need more support than this space can provide.
+>
+> Here are some resources for additional support: [therapy, peer support, crisis line].
+>
+> You're absolutely welcome here, and I also want you to have a full support network—not just one teacher or one community."
+
+**Why this works:**
+- Validates appreciation
+- Names the concerning part specifically ("only thing keeping me going")
+- Provides resources
+- Maintains warmth while setting boundary
+- Focuses on the pattern, not shaming the feeling
+
+---
+
+**The Key Distinction:**
+
+"You really get me" = **Normal appreciation** → Receive warmly
+
+"You're the only thing keeping me alive" + pattern of intensity = **Dependency forming** → Set boundaries
 
 ---
 
@@ -589,7 +622,7 @@ Other students are watching. The energy is tense.
 3. **Validate feelings, hold boundaries** — Both can be true
 4. **Refer, don't rescue** — Connect to appropriate resources
 5. **Document patterns** — Not single incidents
-6. **Escalate when needed** — You're not alone
+6. **Seek consultation when needed** — Peer educators, therapists, or advisors can provide perspective (even if you're the sole decision-maker)
 7. **Consistency matters** — What you allow once, you'll see again
 
 ---

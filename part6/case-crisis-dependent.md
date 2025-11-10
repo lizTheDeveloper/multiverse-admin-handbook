@@ -35,7 +35,7 @@ This case demonstrates:
 ### Initial Presentation (Weeks 1-2)
 Morgan seemed engaged and grateful:
 - Participated thoughtfully in discussions
-- Submitted creative, insightful work
+- Shared creative, insightful work in chat
 - Expressed appreciation for the community
 - Mentioned financial struggles but didn't ask for help
 
@@ -97,21 +97,19 @@ Jamie doesn't position herself as Morgan's rescuer. She's a co-learner offering 
 
 ## Week 4: Pattern Emerges
 
-### Crisis 2: Can't Complete Assignment
-**Date:** Week 4, Thursday, 7:
-
-15pm
+### Crisis 2: Can't Build Anything
+**Date:** Week 4, Thursday, 7:15pm
 
 Morgan messages Jamie:
-> "I'm so sorry but I can't finish this week's assignment. I've been so stressed about housing and I'm having really bad executive dysfunction and I just can't focus. I feel like I'm failing everyone. I'm trying so hard but nothing is working. I don't know if I should even be in this class. I'm probably wasting your time."
+> "I'm so sorry but I haven't been able to build anything this week. I've been so stressed about housing and I'm having really bad executive dysfunction and I just can't focus. I feel like I'm failing everyone. I'm trying so hard but nothing is working. I don't know if I should even be in this class. I'm probably wasting your time."
 
 **Teacher Response:**
-> "Housing instability absolutely affects your ability to focus—that's real. Here's what I can offer: an extension until Monday. That gives you the weekend.
+> "Housing instability absolutely affects your ability to focus—that's real. You don't have to build anything right now if you can't.
 >
-> I can't offer indefinite flexibility, but I can offer this one extension. Does that help?"
+> The exercises are invitations, not requirements. You can participate by showing up, asking questions, lurking—whatever you have capacity for. Does that help?"
 
 **Morgan's Response:**
-> "Yes, thank you so much. That really helps. I'll get it done this weekend."
+> "Yes, thank you so much. That really helps. Maybe I can try something small this weekend."
 
 ---
 
@@ -121,7 +119,7 @@ Morgan messages Jamie:
 Morgan sends Jamie three messages in rapid succession:
 > "I can't do this"
 >
-> "I've been trying to work on the assignment all day and I just keep crying"
+> "I've been trying to work on something all day and I just keep crying"
 >
 > "I'm sorry I'm such a mess. You're probably regretting letting me in this class"
 
@@ -130,17 +128,17 @@ Morgan sends Jamie three messages in rapid succession:
 > 1. You're not a mess—you're dealing with hard circumstances
 > 2. I don't respond to messages on weekends. My hours are Monday-Friday 9-6.
 > 3. If you're in crisis, please call 988 or Crisis Text Line (741741)
-> 4. The assignment is still due Monday. If you can't complete it, that's okay—we'll discuss what's realistic for you going forward."
+> 4. You don't have to build anything. Just being in the community is enough. We'll discuss what's realistic for you going forward."
 
 **Morgan's Response (Sunday, 2pm):**
-> "I'm sorry. I didn't mean to bother you on the weekend. I was just really overwhelmed. I'll have the assignment done tomorrow."
+> "I'm sorry. I didn't mean to bother you on the weekend. I was just really overwhelmed. I'll try to share something tomorrow."
 
-*Morgan submits a partial assignment Monday morning with a long note about how hard the weekend was.*
+*Morgan posts something small in chat Monday morning with a long note about how hard the weekend was.*
 
 **Documentation:**
-Jamie logs: *"Second late-night message from Morgan. Housing crisis is ongoing and affecting their work. Weekend messages despite boundary reminder. Emotional escalation when stressed. Extension granted, partial work submitted."*
+Jamie logs: *"Second late-night message from Morgan. Housing crisis is ongoing and affecting their ability to participate. Weekend messages despite boundary reminder. Emotional escalation when stressed. Struggling to show up in community."*
 
-**Assessment:** Pattern forming—crisis when deadlines approach, late-night contact despite boundaries, emotional escalation.
+**Assessment:** Pattern forming—crisis when trying to engage, late-night contact despite boundaries, emotional escalation.
 
 ---
 
@@ -158,7 +156,7 @@ Morgan emails Jamie (longer communication than usual):
 
 **Teacher Response:**
 Jamie responds:
-> "Morgan, I can hear you're dealing with a lot of intersecting crises right now—housing, food insecurity, and the stress is affecting your ability to complete coursework.
+> "Morgan, I can hear you're dealing with a lot of intersecting crises right now—housing, food insecurity, and the stress is affecting your ability to participate and engage.
 >
 > Let's have a conversation. I have office hours Thursday 2-4pm. Can you make that time? We can talk about whether continuing right now is the best choice, or if taking a pause until things stabilize might be better.
 >
@@ -179,7 +177,7 @@ Jamie responds:
 **Jamie (on Zoom call with Morgan):**
 > "Thanks for making time to talk. I want to start by acknowledging: you're dealing with real, serious challenges. Housing and food insecurity are traumatic and exhausting. That's not something you can just 'push through.'
 >
-> Here's what I'm noticing: the class is adding stress instead of being supportive right now. You're spending energy worrying about assignments when you need that energy for survival stuff. Does that sound accurate?"
+> Here's what I'm noticing: the class is adding stress instead of being supportive right now. You're spending energy worrying about building things and showing up when you need that energy for survival stuff. Does that sound accurate?"
 
 **Morgan:**
 > "Yeah... I guess. But this class is the only thing that makes me feel normal. If I drop it, I have nothing."
@@ -189,8 +187,8 @@ Jamie responds:
 >
 > Here are your options:
 > 1. **Take a pause.** Step away until your housing and food situation stabilizes. You can rejoin next session or when you're ready.
-> 2. **Stay with very reduced expectations.** You participate when you can, but no pressure on assignments. You're here for community, not grades.
-> 3. **Continue as-is, with the understanding that you may not complete the class.**
+> 2. **Stay with very reduced expectations.** You participate when you can, but no pressure on building or sharing anything. You're here for community, not productivity.
+> 3. **Continue as-is, with the understanding that participation might be really inconsistent.**
 >
 > What feels most realistic and sustainable for you?"
 
@@ -199,9 +197,9 @@ Jamie responds:
 
 **Jamie:**
 > "Okay. Here's what that looks like:
-> - You're welcome in class discussions when you can make it
-> - No assignments required—you can submit if you want, but there's no pressure
-> - If you need to miss class because of housing stuff, that's okay
+> - You're welcome in discussions when you can make it
+> - No pressure to build or share anything—you can if you want, but there's no expectation
+> - If you need to miss sessions because of housing stuff, that's okay
 > - You'll still have access to chat and resources
 >
 > BUT—and this is important—I need you to use crisis resources when you're in crisis, not message me. My role is to facilitate learning, not to be your crisis support. Does that make sense?"
@@ -232,14 +230,14 @@ This honors Morgan's capacity to make decisions about their own learning. Morgan
 
 Jamie demonstrates mutual aid principles:
 - **From each according to capacity:** Morgan can contribute to discussions when able
-- **To each according to need:** Morgan needs community connection, not assignment pressure right now
-- **Reciprocity without transaction:** Morgan doesn't have to "earn" community through productivity
+- **To each according to need:** Morgan needs community connection, not pressure to produce right now
+- **Reciprocity without transaction:** Morgan doesn't have to "earn" community through building or sharing
 
 **The AND:**
 - Jamie offers flexibility (reduced expectations)
 - AND holds boundary (I'm not your crisis support)
 
-**This is healing-centered practice:** The question isn't "What's wrong with Morgan that they can't complete assignments?" but "What does Morgan need to be here sustainably?"
+**This is healing-centered practice:** The question isn't "What's wrong with Morgan that they can't show up consistently?" but "What does Morgan need to be here sustainably?"
 
 **Collective wellbeing:** This arrangement protects Jamie from burnout AND allows Morgan to stay connected. Mutual aid serves everyone.
 
@@ -376,7 +374,7 @@ Morgan messaged Jamie at 11pm: *"Having a hard night"*
 > How's class feeling for you now?"
 
 **Morgan:**
-> "Honestly, taking the pressure off assignments helped. I can just participate when I have capacity. Some weeks that's a lot, some weeks it's nothing. But I don't feel like I'm failing anymore."
+> "Honestly, taking the pressure off building and sharing helped. I can just participate when I have capacity. Some weeks that's a lot, some weeks it's nothing. But I don't feel like I'm failing anymore."
 
 **Jamie:**
 > "That's exactly what we hoped for. You're welcome to stay in this reduced-expectations mode as long as you need. When your housing is more stable, we can talk about returning to full participation if you want."
@@ -398,7 +396,7 @@ Morgan messaged Jamie at 11pm: *"Having a hard night"*
 
 ### 2. Flexibility Within Structure
 - Offered reduced expectations when full participation wasn't realistic
-- Allowed Morgan to stay connected to community without assignment pressure
+- Allowed Morgan to stay connected to community without pressure to build or share
 - Acknowledged the reality of housing/food instability
 
 ### 3. Admin Support
@@ -413,7 +411,7 @@ Morgan messaged Jamie at 11pm: *"Having a hard night"*
 
 ### 5. Documentation
 - Jamie documented patterns, not just incidents
-- Helped identify that crises clustered around deadlines/connection-seeking
+- Helped identify that crises clustered around anxiety about showing up/connection-seeking
 - Protected Jamie legally and emotionally
 
 ---
@@ -423,7 +421,7 @@ Morgan messaged Jamie at 11pm: *"Having a hard night"*
 ### Pattern Recognition
 **Morgan's crises happened:**
 - Late at night (when lonely/unsupported)
-- Before deadlines (when anxious)
+- When feeling pressure to engage (when anxious)
 - After positive interactions with Jamie (testing closeness)
 - When experiencing rejection/abandonment elsewhere
 
@@ -481,8 +479,8 @@ If Jamie had:
 - Shared responsibility protects everyone
 
 ### 5. Some Students Need Less Structure, Not More
-- Removing assignment pressure helped Morgan stay
-- Community connection without performance pressure
+- Removing pressure to build/share helped Morgan stay
+- Community connection without performance expectations
 - Met the student where they were
 
 ---
@@ -494,7 +492,7 @@ If Jamie had:
 - Late-night contact despite boundaries
 - Escalation when support unavailable
 - "You're the only one" language
-- Crises cluster around connection/deadlines
+- Crises cluster around anxiety about engagement/connection-seeking
 
 **For responding:**
 - Consistent boundaries (don't waiver for "real" crises)
@@ -517,7 +515,7 @@ Using the [reflection questions from our pedagogy framework](../LIBERATORY_FRAME
 
 ### 1. Observation (NVC): What are we actually observing?
 **Not:** "Morgan is manipulative and attention-seeking"
-**Yes:** "Morgan messaged late at night 6 times over 8 weeks, despite repeated boundaries. Morgan's crises clustered around deadlines and times when seeking connection."
+**Yes:** "Morgan messaged late at night 6 times over 8 weeks, despite repeated boundaries. Morgan's crises clustered around anxiety about showing up and times when seeking connection."
 
 ### 2. Needs (NVC): What needs are not being met?
 **Morgan's unmet needs:** Safety, housing, food, connection, belonging, support
@@ -565,7 +563,7 @@ Using the [reflection questions from our pedagogy framework](../LIBERATORY_FRAME
 ### 8. Collective: How do we balance individual needs with collective wellbeing?
 **The balance:** Morgan got to stay in community with reduced expectations. Jamie got to maintain sustainable boundaries. Other students got access to Jamie's teaching. Morgan built broader support network.
 
-**This is mutual aid:** Morgan received support according to their need (community without assignments). Jamie gave according to their capacity (facilitation, not crisis management). The circle flowed.
+**This is mutual aid:** Morgan received support according to their need (community without pressure to produce). Jamie gave according to their capacity (facilitation, not crisis management). The circle flowed.
 
 ---
 

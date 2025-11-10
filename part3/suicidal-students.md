@@ -8,7 +8,7 @@
 - Recognize signs of suicidal ideation
 - Take all mentions of suicide seriously
 - Refer to appropriate crisis resources
-- Document and escalate to admin
+- Document thoroughly
 - Follow up with compassion
 
 **NOT your role:**
@@ -32,7 +32,7 @@
 4. **Assess immediacy** — Are they in danger right now?
 5. **Connect to crisis support** — 988 Lifeline, Crisis Text Line
 6. **Document** — What they said, what you did
-7. **Notify admin** — Same day, no exceptions
+7. **Inform co-facilitators** — If you have them, inform them same day
 
 ---
 
@@ -56,7 +56,7 @@
 **Action:**
 - Provide crisis resources (988, Crisis Text Line)
 - Encourage connection to therapy
-- Document and notify admin
+- Document and document thoroughly
 - Check in regularly
 - Don't ignore it, but don't panic
 
@@ -81,7 +81,7 @@
 **Action:**
 - Immediate referral to 988 (call or text)
 - Stay with them (virtually or in person) until they connect
-- Notify admin immediately
+- Inform co-facilitators immediately if you have them
 - Document thoroughly
 - Follow up within 24 hours
 
@@ -106,7 +106,7 @@
 - Call 988 yourself and report the situation
 - If they're with you (in person or video), call 911
 - If you know their location, call emergency services to their location
-- Notify admin immediately
+- Inform co-facilitators immediately if you have them
 - Stay on the line/in contact until help arrives
 - Document everything
 
@@ -134,15 +134,15 @@
 **Student messages at 2am:** "I can't do this anymore. I have a plan and I'm going to do it tonight."
 
 **Your response (immediate, even though it's 2am):**
-> "[Student name], I'm very worried about you. Please call 988 right now: you can call or text 988. If you won't do that, please go to your nearest emergency room or call 911. I'm also notifying [admin] so you have additional support. You matter and we want you to be safe."
+> "[Student name], I'm very worried about you. Please call 988 right now: you can call or text 988. If you won't do that, please go to your nearest emergency room or call 911. You matter and we want you to be safe."
 
 **Then:**
 1. Screenshot/document the message
-2. Send to admin immediately (wake them up if necessary)
+2. Inform co-facilitators immediately if you have them
 3. If you have emergency contact info for student, consider using it
 4. Call 988 yourself to report and ask for guidance
 5. Do NOT promise confidentiality
-6. Do NOT try to handle this alone
+6. Do NOT carry this alone—call 988 for professional guidance
 
 ---
 
@@ -156,7 +156,7 @@
 **If they say no:**
 > "I understand you're scared. But your safety is more important than keeping this secret. Here's what I can promise: I'll be honest with you about what I need to do. I care about you and I want you to get the right kind of help."
 
-**Then provide crisis resources and notify admin.**
+**Then provide crisis resources and document thoroughly.**
 
 ---
 
@@ -213,7 +213,7 @@
 **Within 24 hours:**
 - Check in with student (brief, caring message)
 - Confirm they're connected to appropriate support
-- Notify admin of outcome
+- Document thoroughly and inform co-facilitators if you have them of outcome
 
 **Ongoing:**
 - Regular but boundaried check-ins
@@ -322,7 +322,7 @@ You are **probably NOT a mandatory reporter** if:
 3. **Documentation** — Protects you if something happens
 4. **Referral to resources** — You can help without overstepping
 
-**Best practice:** Treat suicidal ideation seriously, refer to 988, document, and notify admin—not because you're legally required, but because it's the right thing to do and it protects everyone.
+**Best practice:** Treat suicidal ideation seriously, refer to 988, document, and document thoroughly—not because you're legally required, but because it's the right thing to do and it protects everyone.
 
 ### What "No Mandatory Reporting" Means
 
@@ -335,7 +335,7 @@ You are **probably NOT a mandatory reporter** if:
 - Take it seriously
 - Provide crisis resources (988)
 - Document what was said
-- Notify admin
+- Document thoroughly and inform co-facilitators if you have them
 - Assess level of risk
 
 ### Transparency About What You Will Do
@@ -461,7 +461,7 @@ You are **probably NOT a mandatory reporter** if:
 3. **You cannot keep someone alive alone** — This requires professional help
 4. **Boundaries are essential** — For your wellbeing and theirs
 5. **Document everything** — Protects everyone
-6. **Notify admin always** — Don't handle this in isolation
+6. **Document thoroughly and inform co-facilitators if you have them always** — Don't handle this in isolation
 7. **Support yourself** — This work is hard and affects you
 
 ---
@@ -472,9 +472,9 @@ You are **probably NOT a mandatory reporter** if:
 → Take seriously, stay calm
 
 **Assess risk:**
-- **Passive thoughts** → Provide resources, document, notify admin, check in
-- **Active ideation** → 988 referral, stay with them, notify admin immediately
-- **Imminent plan** → 988 or 911, do not leave them alone, notify admin
+- **Passive thoughts** → Provide resources, document, document thoroughly, check in
+- **Active ideation** → 988 referral, stay with them, document thoroughly immediately
+- **Imminent plan** → 988 or 911, do not leave them alone, document thoroughly
 
 **After crisis:**
 → Follow up, maintain boundaries, document, support yourself

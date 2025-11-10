@@ -60,7 +60,7 @@ These behaviors cause harm regardless of neurotype:
 - **Threatening self-harm to manipulate responses**
 - **Demanding immediate responses or constant availability**
 
-**How to respond:** Name the behavior, state the impact, offer one opportunity to change, escalate if it continues.
+**How to respond:** Name the behavior, state the impact, offer one opportunity to change, enforce consequences if it continues (up to and including removal).
 
 ---
 
@@ -123,10 +123,10 @@ Whenever possible, redirect to appropriate channels:
 
 ---
 
-### Step 4: One Chance, Then Escalate
+### Step 4: One Chance, Then Decide
 After one explicit boundary-setting:
 - Document the conversation (date, what was said, what boundary was set)
-- If the behavior continues, escalate to admin
+- If the behavior continues, decide whether to continue working with this student (consult with co-facilitators if you have them, or a peer advisor)
 - If it escalates (threats, stalking, manipulation), remove immediately
 
 ---
@@ -195,7 +195,7 @@ Behavior: [specific description]
 What I said: [exact language used to set boundary]
 Student response: [how they responded]
 Next steps: [what will happen if it continues]
-Who was notified: [admin/lead teacher]
+Who was informed: [co-facilitators if applicable, or note if you consulted with advisor]
 ```
 
 ---

@@ -36,25 +36,234 @@ Teaching neurodivergent adults is rewarding, intense, and potentially all-consum
 
 ---
 
-### 2. You Are a Teacher, Not a Friend
+### 2. Friendship IS Part of the Pedagogy (And How to Do It Well)
 
-**What this means:**
-- Professional warmth, not personal friendship
-- You can care about students without being personally close
-- Your role is temporary and structural, not lifelong and personal
+**The Multiverse ethos:** We ARE here to make friends. That's not a bug, it's a feature.
 
-**Examples:**
+Many neurodivergent people have experienced social isolation, friendship trauma, or never learned healthy friendship skills. **Part of what we offer is a place to practice friendship in a supportive environment.** You, as a facilitator, are not separate from that—you're part of the community too.
 
-**Okay:**
-- Answering teaching-related questions thoughtfully
-- Celebrating student wins in class
-- Being kind and personable in your interactions
+**The question isn't "Should I be friends with students?" It's "How do I cultivate healthy friendships while maintaining the responsibilities of facilitation?"**
 
-**Not Okay:**
-- Hanging out socially outside of class regularly
-- Sharing your personal problems with students
-- Letting students become your emotional support
-- Creating "favorites" or inner circles
+---
+
+#### What Healthy Friendship in Learning Communities Looks Like
+
+**Healthy friendship here means:**
+
+✅ **Genuine care and connection**
+- You actually like these people
+- You enjoy their company
+- You celebrate their wins
+- You share interests and ideas
+- You build reciprocal relationships over time
+
+✅ **Distributed connection**
+- Friendships develop naturally across the community
+- No one person is your sole support
+- You have friends outside of Multiverse too
+- Students have support beyond just you
+
+✅ **Transparency about roles**
+- Everyone knows you're a facilitator AND a friend
+- You're clear about when you're wearing which hat
+- You name when you need to make a facilitation decision even if it's hard for a friend
+
+✅ **Boundaries that protect the friendship**
+- You don't use friends as your therapist
+- They don't use you as theirs
+- You maintain your own wellbeing so you can show up
+- You can say no and the friendship survives
+
+✅ **Community over individual**
+- Your friendships don't create exclusive inner circles
+- You facilitate fairly even when you have personal friendships
+- You model healthy boundaries for the whole community
+
+---
+
+#### The Difference Between Friendship and Dependency
+
+**Friendship:**
+- Mutual—both people give and receive
+- Distributed—you each have other supports
+- Boundaried—you can say no and it's okay
+- Sustainable—feels energizing, not draining
+- Grows naturally over time
+- Survives conflict and repair
+
+**Dependency (what to avoid):**
+- One-sided—one person needs, the other gives
+- Concentrated—"you're the only one who gets me"
+- Boundaryless—saying no creates crisis
+- Draining—you're exhausted, resentful
+- Demands intensity immediately
+- Can't tolerate limits or feedback
+
+**You can be friends with students. You cannot be enmeshed with them.**
+
+---
+
+#### Being a Good Teacher AND a Good Friend
+
+**How to hold both roles:**
+
+1. **Be explicit about which hat you're wearing**
+   - "As your friend, I think you should do whatever feels right. As a facilitator, I need to let you know this violates our Code of Conduct."
+   - "I'm speaking now as a friend, not as a teacher: I'm worried about you."
+
+2. **Make facilitator decisions without apology**
+   - If a friend violates boundaries, you still enforce them
+   - If a friend needs to be removed, you can do that AND still care about them
+   - "I care about you as a person AND this behavior doesn't work in this space"
+
+3. **Don't use your facilitator power to manage personal feelings**
+   - If you're annoyed with a friend, don't use facilitation authority to address it
+   - Deal with friendship stuff in friendship mode
+   - Deal with community stuff in facilitator mode
+   - Don't conflate the two
+
+4. **Model healthy friendship for the community**
+   - Show what distributed support looks like
+   - Demonstrate boundaries in action
+   - Repair when you mess up
+   - Ask for what you need
+
+5. **Take friendship breaks when you need them**
+   - If you're burned out, you can step back from some friendships temporarily
+   - "I need some space right now for my own wellbeing. This isn't about you."
+   - Friendships that survive breaks are real friendships
+
+---
+
+#### Practical Examples: Friendship + Facilitation
+
+**Example 1: Your friend is struggling but not using resources**
+
+As a friend:
+> "Hey, I'm noticing you're really struggling. Have you been able to connect with your therapist? I'm worried about you."
+
+As a facilitator:
+> "I need to name that you've posted several crisis messages this week. The community pattern is to use 988 for crisis support. Can you commit to that?"
+
+Both can be true. The friendship is real AND the boundary is necessary.
+
+---
+
+**Example 2: Your friend did something cool**
+
+As a friend:
+> "Dude, that project you built is SO COOL! I'm genuinely excited about this!"
+
+(This is fine! Celebrate your friends! Just make sure you're celebrating others too when they do cool stuff. Friendship doesn't mean favoritism.)
+
+---
+
+**Example 3: Your friend wants to vent about another student**
+
+As a friend:
+> "I hear you're frustrated. And also, I can't get into a conversation about another student with you. That's a facilitation boundary I need to hold."
+
+You can acknowledge their feelings AND not engage in gossip or triangulation.
+
+---
+
+**Example 4: You're having a hard day**
+
+Healthy sharing:
+> "I'm having a rough day today! Might be a bit slower to respond to things."
+
+Oversharing that creates dependency:
+> "I'm so depressed I can barely function. I don't know how I'll make it through the day. Can someone talk to me?"
+
+You can be human and real without making students responsible for your wellbeing.
+
+---
+
+#### Teaching Friendship Skills Through Community
+
+**Part of our work is helping people learn how to:**
+- Make friends as neurodivergent adults
+- Navigate conflict and repair
+- Set boundaries without destroying relationships
+- Ask for what they need
+- Give support without burning out
+- Build distributed support networks
+
+**You teach this by modeling it:**
+- Your friendships demonstrate healthy patterns
+- Your boundaries show that "no" doesn't mean rejection
+- Your repairs show that mistakes aren't relationship-ending
+- Your distributed connections show that one person can't meet all needs
+
+**This IS pedagogy. This IS liberatory education. We're not teaching abstract concepts—we're creating a container where people can practice being in relationship.**
+
+---
+
+#### The Special Case: When You Need to Remove a Friend
+
+**This is the hardest scenario.**
+
+If someone you genuinely care about is violating boundaries, harming the community, or can't function in this space right now, you might need to pause or end their participation.
+
+**How to hold this:**
+
+1. **Separate the person from the behavior**
+   - "I care about you as a person AND this pattern doesn't work here"
+
+2. **Be clear and direct**
+   - "I need to pause your participation in Multiverse for now. Here's why: [specific pattern]. This isn't about you being bad—it's about fit."
+
+3. **Maintain the friendship outside the community if possible**
+   - "You're still my friend. AND you can't be in this space right now. Both are true."
+
+4. **Don't let guilt override your judgment**
+   - Removing a friend from the community is not betrayal
+   - It might be the most loving thing you can do for everyone involved
+
+5. **Grieve if you need to**
+   - It's okay to be sad about this
+   - You can care about someone and still enforce boundaries
+   - This is hard. That's normal.
+
+---
+
+#### Red Flags: When "Friendship" Becomes Problematic
+
+**Watch for:**
+
+- You're making facilitation exceptions for a friend that you wouldn't for others
+- You're avoiding enforcing boundaries because "they're my friend"
+- Your friendship with one person is creating resentment in the community
+- You're exhausted by the friendship but feel guilty setting limits
+- The friend weaponizes the friendship ("I thought we were friends!")
+- You're hiding the friendship or feeling weird about it
+
+**If any of these are happening, you need to recalibrate.**
+
+---
+
+#### Remember: Friendship Is Healing
+
+**For many neurodivergent people, Multiverse might be:**
+- The first place they've felt truly understood
+- The first time they've made real friends as an adult
+- The first community where they don't have to mask
+- The first place they've experienced conflict and repair
+
+**Your friendships are part of that healing.**
+
+When you show up as a whole person—someone who has boundaries AND warmth, who facilitates AND participates, who can be both teacher and friend—you model that these things aren't mutually exclusive.
+
+**You started this school to make friends. That's beautiful. Keep doing it.**
+
+Just do it with:
+- Clear boundaries
+- Distributed support
+- Transparency about roles
+- Care for the whole community
+- Attention to your own wellbeing
+
+**Friendship + boundaries = sustainable healing community.**
 
 ---
 
@@ -317,16 +526,20 @@ Many neurodivergent students haven't learned healthy boundaries. **You teach the
 
 ---
 
-## When to Escalate to Admin
+## When to Seek Support or Make Difficult Decisions
 
-Don't handle these alone:
+Don't handle these situations without documentation and consultation:
 - Student threatening self-harm or suicide
 - Repeated boundary violations after you've set limits
 - Stalking, harassment, or threats
 - You feel unsafe
 - You're emotionally exhausted by a student
 
-**It's not weak to escalate. It's professional.**
+**If you have co-facilitators:** Share the situation so you have backup and shared decision-making.
+
+**If you're running solo:** Document thoroughly, consult with a peer educator or therapist (without sharing identifying details if needed), and trust your judgment about whether to continue working with this student. You have the authority to pause or end someone's participation if needed.
+
+**It's not weak to seek consultation. It's wise.**
 
 ---
 

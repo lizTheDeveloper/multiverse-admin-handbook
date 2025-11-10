@@ -117,7 +117,7 @@ For someone who learned that needs only get met during crisis, or that "no" mean
 - State your boundary clearly: "My answer is still [X]"
 - Offer crisis resources as appropriate: "If you're feeling unsafe, please reach out to 988 or [crisis support]"
 - Don't remove the boundary to de-escalate (this teaches: crisis works)
-- Document pattern; escalate to admin if threats of harm continue
+- Document pattern; consider removal if threats of harm continue
 
 **Script (NVC-informed):**
 > "I'm observing that you're very distressed. I care about your safety, and my boundary about [X] isn't changing. If you're in crisis, these resources exist for crisis support: [988, Crisis Text Line]. I'm available to discuss [class topic] when you're feeling more grounded."
@@ -257,7 +257,7 @@ When someone's sense of self has been destabilized by trauma, invalidation, or c
 
 ---
 
-## When to Escalate
+## When to Take Action
 
 ### Immediate Boundaries Needed
 **Observable behaviors requiring immediate response:**
@@ -266,10 +266,10 @@ When someone's sense of self has been destabilized by trauma, invalidation, or c
 - Stalking, harassment, or boundary violations that continue after clear communication
 - Behaviors that make others feel unsafe
 
-**Action:** Provide crisis resources (988), notify admin immediately, document thoroughly. Community pause may be needed to protect everyone's safety.
+**Action:** Provide crisis resources (988), document thoroughly, inform co-facilitators if you have them. Community pause may be needed to protect everyone's safety—you have the authority to make this call.
 
-### Consult with Admin
-**Patterns to discuss with leadership:**
+### Consult with Peer Advisors
+**Patterns to discuss with peers, therapist, or advisors:**
 - Idealization/devaluation cycles that are disrupting collective learning
 - Crisis escalations happening frequently (weekly or more)
 - Multiple community members expressing feeling unsafe or manipulated
@@ -300,7 +300,7 @@ Teaching students with BPD can be **emotionally exhausting**, even when you're d
 - Manipulated (even if it's not intentional)
 
 **What helps:**
-- Regular debriefs with peers or admin
+- Regular debriefs with peers, co-facilitators, or therapist
 - Remembering: their emotions are not your responsibility
 - Holding boundaries is care, not cruelty
 - Taking breaks when needed

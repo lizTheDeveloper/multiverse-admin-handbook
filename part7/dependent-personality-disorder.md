@@ -273,20 +273,24 @@ Treatment for DPD focuses on:
 
 ---
 
-## When to Escalate
+## When to Take Action
 
-### Yellow Flags (Consult Admin)
+### Yellow Flags (Set Firmer Boundaries)
 - Asking you to make major life decisions
-- Unable to complete work without constant check-ins
+- Unable to engage without constant check-ins
 - Following you between classes/spaces (in-person settings)
 - Other students complaining about their clinginess
 - You feel like you're being made into a parent/therapist
 
-### Red Flags (Immediate)
+**Action:** Document the pattern, set explicit boundaries, consider consulting with a peer educator or therapist about whether this person is a good fit for the space.
+
+### Red Flags (Consider Removal)
 - Suicidal ideation when you're unavailable
 - Stalking or boundary violations
 - Completely unable to function independently
 - Attaching to you in ways that feel inappropriate
+
+**Action:** This person likely needs more intensive support than you can provide. You may need to pause or end their participation. Document thoroughly, provide mental health resources, and consider consulting with an advisor before making final decision.
 
 ---
 
@@ -358,7 +362,7 @@ Teaching students with DPD can feel like **carrying someone else's life** on you
 ### For Teachers
 - **Indiana Center for Recovery:** Dependent Personality Disorder resources
 - **HelpGuide.org:** ["Dependent Personality Disorder: Symptoms and Treatment"](https://www.helpguide.org)
-- **Consult:** If you're feeling like a parent/therapist, escalate to admin
+- **Consult:** If you're feeling like a parent/therapist, consult with a peer educator or therapist about fit
 
 ---
 

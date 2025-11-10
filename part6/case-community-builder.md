@@ -37,7 +37,7 @@ Sam was immediately engaged:
 - Shared thoughtful ideas and resources
 - Asked great questions
 - Made genuine connections with other students
-- Completed all assignments on time
+- Built and shared exercises consistently
 
 **No red flags initially.**
 
@@ -185,7 +185,7 @@ Sam volunteers as a moderator in an open-source Discord for 2 weeks:
 ## Weeks 4-6: Vision Under Pressure
 
 ### Week 4: Articulate Theory of Change
-Sam submits:
+Sam writes:
 > **Mission:** Create a sustainable learning community where neurodivergent developers can collaborate on open-source projects while building skills, connections, and confidence—without having to mask or navigate neurotypical social politics.
 >
 > **Who it's for:** Neurodivergent (especially autistic/ADHD) developers at any skill level who want peer learning and collaboration in an affirming environment.
