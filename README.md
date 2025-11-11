@@ -4,102 +4,99 @@
 
 ---
 
-## About This Handbook
+## Start Here
 
-Welcome to The Multiverse School's comprehensive guide for teachers, moderators, and administrators. This handbook exists to help you navigate the complex, rewarding work of supporting adult learners—many of whom are neurodivergent, healing from trauma, or experiencing mental health challenges.
+**👋 Are you a student who found this handbook?** → Read [this note first](README_IF_YOU_ARE_A_STUDENT.md)
 
-As an adult education space, we attract brilliant, unconventional students. We also attract people who are struggling, seeking grounding, or still developing the skills they need for the responsibilities they seek. This handbook will help you honor different ways of being while maintaining the collective wellbeing of our learning community.
+**🚨 Dealing with a crisis right now?** → Jump to [Crisis Response](#-crisis-response)
 
-**Our approach is rooted in liberatory pedagogy**—drawing from Paulo Freire, bell hooks, Emma Goldman, and indigenous healing traditions. We practice problem-posing education, not the banking model. We build mutual aid, not hierarchy. We dare to love deeply—which includes setting fierce boundaries when needed. See our [Liberatory Pedagogy Framework](LIBERATORY_FRAMEWORK.md) for the theoretical grounding of this work.
+**🆕 New facilitator getting oriented?** → Start with [Essential Reading](#-essential-reading-for-new-facilitators)
 
-## Who This Is For
-
-- **New Facilitators** who need practical guidance on relational accountability and crisis response
-- **Moderators** facilitating community spaces and navigating community challenges
-- **Administrators** coordinating safety and co-creating policy with the community
-- **The CEO/Founder** establishing institutional memory and ethical standards
-
-## Core Principles
-
-1. **Love as Political Practice (bell hooks)**
-   - We dare to love deeply—which means caring enough to confront harm
-   - Boundaries are acts of love that protect collective wellbeing
-   - We honor each person's humanity while refusing to sacrifice community safety
-   - "Love allows us to speak with care and to not be punitive, to be compassionate and empathetic"
-
-2. **Relational Accountability Over Authority**
-   - You are co-learners and facilitators, not managers or therapists
-   - Power exists—we make it transparent and accountable, not invisible
-   - Knowing your limits is not abandonment—it's honoring the relationships we can sustain
-   - Everyone teaches and everyone learns (Paulo Freire)
-
-3. **Early Recognition Supports Healing**
-   - We pay attention to patterns that signal someone needs different support
-   - Recognition is not pathologizing—it's asking "what healing do you need?"
-   - Document with care, communicate with transparency, offer resources early
-   - "All my relations"—one person's struggle affects the collective (Indigenous wisdom)
-
-4. **Mutual Aid, Not Saviorism (Emma Goldman)**
-   - We practice voluntary cooperation, not coercion or rescue
-   - Vision paired with grounded preparation honors everyone's capacity
-   - Leadership emerges through skill-building and relational accountability
-   - We liberate ourselves together, or not at all (Paulo Freire)
-
-## What You'll Learn
-
-This handbook covers:
-- Recognizing when someone may need different kinds of support
-- De-escalation and healing-centered crisis response
-- Supporting people with big visions while insisting on grounded preparation
-- When and how to connect learners to professional resources
-- Relational accountability and ethical boundaries in adult education
-- Preventing burnout and sustaining yourself in this work
-
-## How to Use This Handbook
-
-- **Read Sections 1-3** before your first teaching session
-- **Bookmark the Crisis Resource Appendix** for quick reference
-- **Review incident documentation protocols** with your team
-- **Revisit the ethics sections** quarterly to stay grounded
+**📖 Looking for something specific?** → Browse sections below or see [Full Table of Contents](#full-table-of-contents)
 
 ---
 
-## Quick Navigation
+## About This Handbook
 
-### 🚨 In a Crisis Right Now?
+This handbook helps facilitators navigate the complex, rewarding work of supporting adult learners—many of whom are neurodivergent, healing from trauma, or experiencing mental health challenges.
+
+**Our approach:** We practice liberatory pedagogy, drawing from Paulo Freire, bell hooks, Emma Goldman, and indigenous healing traditions. We build mutual aid, not hierarchy. We dare to love deeply—which includes setting fierce boundaries when needed.
+
+**Our commitments:** See [Facilitator Commitments](FACILITATOR_COMMITMENTS.md) for what we commit to in our practice.
+
+**Our framework:** See [Liberatory Pedagogy Framework](LIBERATORY_FRAMEWORK.md) for the theoretical grounding.
+
+**Who this is for:** New facilitators, moderators, administrators, and the founder—anyone supporting this learning community.
+
+---
+
+## Core Principles
+
+**Love as Political Practice** — We care enough to confront harm. Boundaries protect collective wellbeing.
+
+**Relational Accountability** — We're co-learners, not managers. Power exists; we make it transparent.
+
+**Early Recognition Supports Healing** — We notice patterns and ask "what healing do you need?" not "what's wrong with you?"
+
+**Mutual Aid, Not Saviorism** — We practice voluntary cooperation. We refer, we don't rescue.
+
+---
+
+## 🚨 Crisis Response
+
+**Dealing with an emergency right now?**
 - [Responding to Suicidal Students](part3/suicidal-students.md)
 - [Crisis Resource Appendix](crisis_resource_appendix.md)
 - [Emergency Response Flowchart](quick-reference/emergency-flowchart.md)
 - [De-escalation Scripts](part3/de-escalation-scripts.md)
 
-### 📚 Start Here (New Facilitators)
+---
+
+## 📚 Essential Reading for New Facilitators
+
+**Start with these to understand the foundation:**
 - [**Liberatory Pedagogy Framework**](LIBERATORY_FRAMEWORK.md) ⭐ Read this first
+- [**Facilitator Commitments**](FACILITATOR_COMMITMENTS.md) - What we commit to in our practice
 - [Who We Serve: Student Profile](part1/student-profile.md)
 - [Understanding Neurodivergence](part1/neurodivergence.md)
-- [Teacher Escalation Protocol](teacher_escalation_protocol.md)
+- [Crisis Response Protocol](teacher_escalation_protocol.md)
 - [Relational Accountability & Boundaries](part5/teacher-boundaries.md)
 
-### 📋 Policies & Guidelines
+---
+
+## 📋 Policies & Guidelines
+
 - [The Multiverse School Code of Conduct](part4/multiverse-code-of-conduct.md)
 - [Mentoring Guidelines](part4/mentoring-guidelines.md)
 - [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md)
 - [Cohabitation Policy](part4/cohabitation-policy.md)
 - [Student Removal & Re-entry](part4/removal-reentry.md)
 
-### 🧠 Mental Health Resources
+---
+
+## 🧠 Mental Health Resources
+
+**Pattern recognition guides for facilitators:**
 - [Borderline Personality Disorder (BPD)](part7/borderline-personality-disorder.md)
 - [Schizophrenia & Psychosis](part7/schizophrenia-psychosis.md)
 - [Dependent Personality Disorder](part7/dependent-personality-disorder.md)
 - [When Students Trauma-Bond](part5/trauma-bonding.md)
 
-### 📖 Learn from Examples
+---
+
+## 📖 Learn from Examples
+
+**Case studies and scenarios for practice:**
 - [Case Study: The Crisis-Dependent Student](part6/case-crisis-dependent.md)
 - [Case Study: The Aspiring Guru](part6/case-aspiring-guru.md)
 - [Case Study: The Rapid Community Builder](part6/case-community-builder.md)
 - [Scenario Library: Practice Responses](part6/scenario-library.md)
 - [Decolonizing Entitled Learners: A Scenario-Based Guide](part6/decolonizing-entitled-learners.md)
 
-### 🔬 Evidence Base
+---
+
+## 🔬 Evidence Base
+
 - [Research Sources & Citations](part7/research-sources.md)
 - [Citation Verification Report](CITATION_VERIFICATION.md)
 
