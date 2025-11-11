@@ -2,6 +2,18 @@
 
 ## Important Context First
 
+### Why This Section Exists
+
+This guide exists because sometimes facilitators encounter patterns that suggest someone needs more specialized support than a learning community can provide. Pattern recognition helps us:
+- Know when to refer to professional mental health resources
+- Hold boundaries with compassion rather than reactivity
+- Distinguish between neurodivergent communication styles and patterns that indicate need for clinical support
+- Protect both the individual and the community from harm
+
+**What this is:** A framework for recognizing when someone might benefit from therapeutic support alongside (or instead of) participation in this learning space.
+
+**What this isn't:** A way to diagnose, label, or pathologize students. We're facilitators observing patterns, not clinicians making diagnoses.
+
 ### This Is Not a Diagnosis Tool
 You are an educator, not a clinician. This guide helps you recognize patterns that may indicate someone needs additional support—not to diagnose them.
 

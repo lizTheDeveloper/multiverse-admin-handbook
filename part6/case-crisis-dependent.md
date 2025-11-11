@@ -1,5 +1,13 @@
 # Case Study: The Crisis-Dependent Student
 
+## About This Case Study
+
+**This is a composite example, not a real person.** Details are drawn from common patterns facilitators encounter, combined and anonymized. If elements feel familiar, it's because crisis dependency patterns are common—not because this is about someone specific.
+
+**Purpose:** To illustrate how to recognize patterns, set boundaries with compassion, and distinguish between temporary crisis support (which mutual aid can provide) and chronic dependency (which requires professional intervention).
+
+---
+
 ## Overview
 
 This case study illustrates how to recognize crisis dependency, set appropriate boundaries, and distinguish between genuine need and maladaptive patterns—while maintaining compassion through a liberatory pedagogy lens.

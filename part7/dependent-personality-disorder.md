@@ -2,6 +2,15 @@
 
 ## Important Context First
 
+### Why This Section Exists
+
+Sometimes facilitators encounter patterns suggesting someone needs support that goes beyond what a learning community can provide. This guide helps recognize when:
+- Someone might benefit from therapeutic support focused on building autonomy
+- Dependency patterns are interfering with learning and growth
+- The facilitator-student dynamic is becoming unsustainable
+
+**Purpose:** To help facilitators hold boundaries compassionately while supporting someone in accessing appropriate resources—not to diagnose or label.
+
 ### You Are Not a Diagnostician
 This guide helps you recognize patterns that may indicate someone needs additional support—not to diagnose them.
 

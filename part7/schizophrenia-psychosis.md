@@ -2,6 +2,16 @@
 
 ## Critical Context First
 
+### Why This Section Exists
+
+Occasionally, facilitators encounter someone who may be experiencing psychosis. This guide helps:
+- Recognize when someone might need immediate mental health support
+- Respond with care rather than fear or stigma
+- Make safety assessments without pathologizing
+- Connect people to appropriate resources while honoring their dignity and autonomy
+
+**Purpose:** To help facilitators navigate these situations compassionately and safely—not to diagnose or make clinical judgments.
+
 ### You Are Not a Diagnostician
 This guide helps you recognize when someone may be experiencing psychosis and might need support. You cannot and should not diagnose schizophrenia or any psychotic disorder.
 

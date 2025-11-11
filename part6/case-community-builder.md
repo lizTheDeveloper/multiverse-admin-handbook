@@ -1,5 +1,13 @@
 # Case Study: The Rapid Community Builder (Positive Outcome)
 
+## About This Case Study
+
+**This is a composite example, not a real person.** Elements are drawn from successful completions of the 90-Day Visionary Track, combined and anonymized to illustrate the process.
+
+**Purpose:** To show what it looks like when someone with a big vision does the grounding work and emerges with a sustainable project—demonstrating that the 90-Day requirement isn't about crushing dreams, but about preparing people to actually achieve them.
+
+---
+
 ## Overview
 
 This case study illustrates **what success looks like** when a student with big visions completes the 90-Day Visionary Incubation Track. It shows how proper grounding transforms grandiosity into sustainable leadership—through a liberatory pedagogy lens.

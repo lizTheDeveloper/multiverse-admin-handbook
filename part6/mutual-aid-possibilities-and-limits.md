@@ -181,33 +181,43 @@ As a facilitator, you need to understand:
 
 ## Navigating This as a Facilitator
 
-### Triage: Who Can You Help?
+### Assessing Capacity and Fit
 
-**You cannot help everyone. Choose wisely.**
+**You cannot help everyone. Your capacity is finite.**
 
-**Prioritize:**
-1. **Temporarily displaced capable people**
-   - Fleeing and need bridge support
-   - Have plan, working on it
-   - Will stabilize with short-term help
+Understanding this reality helps you make sustainable decisions about where mutual aid will actually work versus where it might enable harm.
 
-2. **Community members actively contributing**
-   - They're participating, building, helping others
-   - Hit crisis, need temporary support
-   - Reciprocity exists
+**When mutual aid is most effective:**
 
-3. **People using all available resources**
-   - Applying for benefits
-   - Seeing professionals
-   - Not relying solely on community
+1. **People experiencing temporary crisis who are actively working on their situation**
+   - They have a plan and are taking steps toward stability
+   - They need bridge support, not indefinite care
+   - Short-term help will make a meaningful difference
 
-**Deprioritize (or refuse):**
-1. **People refusing professional help while demanding community replace it**
-2. **People violating boundaries repeatedly**
-3. **Chronic dependency with no progress**
-4. **People not working on their situation**
+2. **Community members who participate reciprocally**
+   - They contribute when they can, receive when they need
+   - There's genuine mutual aid (not one-directional help)
+   - They're part of the fabric, not just consumers of support
 
-**This is hard. This feels cruel. But you have finite capacity.**
+3. **People accessing multiple forms of support**
+   - They're applying for benefits, seeing professionals, using available resources
+   - Community supplements but doesn't replace other support systems
+   - They understand the community's limitations
+
+**When community support alone isn't enough:**
+
+Some situations indicate someone needs more intensive support than a learning community can provide:
+
+- **Someone refusing professional help while expecting community to replace therapy/case management/crisis services** — This prevents them from getting what they actually need
+- **Repeated boundary violations after clear communication** — This harms the person doing the violating AND the community
+- **Chronic patterns with no movement toward change** — This suggests needs that require specialized intervention
+- **Someone not taking steps toward their own stability** — Mutual aid works when people are working on their situation; it fails when it becomes enabling
+
+**This isn't about worthiness. It's about fit and capacity.**
+
+Not everyone is a good fit for what this space offers. That doesn't mean they're bad people—it means they need something we can't provide. Acknowledging this protects both them (by directing them to real support) and the community (by preserving capacity for sustainable mutual aid).
+
+**Yes, this is hard. Yes, it can feel cruel.** But pretending you can save everyone ultimately helps no one.
 
 ---
 
