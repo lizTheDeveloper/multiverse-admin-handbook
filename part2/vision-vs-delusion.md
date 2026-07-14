@@ -118,7 +118,7 @@ This is a common confusion point. Both can look like intense, driven, "unstoppab
 - Rushed timeline
 - Recruiting others before planning
 
-**Your response:** Refer to **90-Day Visionary Pause Policy**. "I love your enthusiasm. We have a 90-day incubation track to help ground big visions. You'll need to complete that before recruiting or launching."
+**Your response:** Refer to **The Grounded Visionary Path**. "I love your enthusiasm. We have a 90-day incubation track to help ground big visions. You'll need to complete that before recruiting or launching."
 
 ---
 
@@ -158,7 +158,7 @@ This is a common confusion point. Both can look like intense, driven, "unstoppab
 
 ## The 90-Day Pause: Why It Works
 
-The **90-Day Visionary Pause Policy** helps by:
+**The Grounded Visionary Path** helps by:
 1. **Creating distance** between impulse and action
 2. **Testing sustainability** — If they can't follow through on the 90-day process, they can't lead a project
 3. **Building skills** — The incubation track teaches planning, budgeting, safety

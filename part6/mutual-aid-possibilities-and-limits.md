@@ -505,8 +505,8 @@ Not everyone is a good fit for what this space offers. That doesn't mean they're
 ---
 
 **See Also:**
-- [Vision vs. Delusion](vision-vs-delusion.md) - Recognizing when someone isn't a good fit
+- [Vision vs. Delusion](../part2/vision-vs-delusion.md) - Recognizing when someone isn't a good fit
 - [Decolonizing Entitled Learners](decolonizing-entitled-learners.md) - Boundary violations
 - [When to Disengage](when-to-disengage.md) - Knowing when to step back
-- [Burnout Prevention](../part5/burnout-and-community-sustainability.md) - Protecting yourself
+- [Burnout Prevention](../part5/burnout-prevention.md) - Protecting yourself
 - Student handbook: [Recognizing Dependency](../../multiverse_student_handbook/part2/recognizing-dependency.md)

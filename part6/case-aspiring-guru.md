@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study illustrates how to recognize premature transcendence, apply the 90-Day Visionary Pause Policy, and handle escalation when boundaries are violated—through a liberatory pedagogy lens.
+This case study illustrates how to recognize premature transcendence, apply The Grounded Visionary Path, and handle escalation when boundaries are violated—through a liberatory pedagogy lens.
 
 **Key Lessons:**
 - Early intervention prevents harm

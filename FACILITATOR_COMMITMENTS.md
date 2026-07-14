@@ -138,7 +138,7 @@ This document outlines what Multiverse facilitators commit to in our practice. T
 
 **What this means in practice:**
 
-- **We consult when uncertain** — We don't make major decisions (like removing someone) in isolation. We seek input from co-facilitators or advisors.
+- **We consult when uncertain** — We don't make major decisions (like removing someone) in isolation. We seek input from co-facilitators or advisors, though the founder/instructor holds final say on removals.
 
 - **We give clear warnings before removal** — You'll know if patterns are concerning. We won't suddenly remove you without having addressed the issues first (except in genuine safety emergencies).
 

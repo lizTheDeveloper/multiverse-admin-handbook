@@ -72,7 +72,7 @@ Sam posts:
 ### Teacher Intervention (Immediate)
 
 **Teacher (Alex) responds in thread:**
-> "Sam, I love your enthusiasm! This is exactly the kind of vision the 90-Day Visionary Pause Policy is designed for. Before you recruit or launch anything, you'd need to complete the 90-Day Incubation Track.
+> "Sam, I love your enthusiasm! This is exactly the kind of vision The Grounded Visionary Path is designed for. Before you recruit or launch anything, you'd need to complete the 90-Day Incubation Track.
 >
 > Here's the guide: [links to "So You Want to Build a School"]
 >
