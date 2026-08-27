@@ -105,16 +105,53 @@ teachers, also share any folders relevant to their classes or duties.
 The `students` table is the users table for everyone who logs in, not just
 enrolled students. The new staff member needs a row here.
 
-1. Have them visit [themultiverse.school](https://themultiverse.school) and
-   request a magic link login using their new `@themultiverse.school` email.
-   This creates their account automatically.
-2. Alternatively, create the account directly in the database:
+The easiest way is to have them log in for the first time — that creates
+their account automatically. Walk them through this:
+
+#### Magic link login walkthrough
+
+**Step 1.** Open a browser and go to
+**[https://themultiverse.school/login](https://themultiverse.school/login)**.
+
+You will see the login page with two tabs: **Magic Link** (selected by
+default) and **Password**. Leave it on Magic Link.
+
+![Login page — Magic Link tab selected](images/login-step1-page.png)
+
+**Step 2.** In the **Your Email** field, type the email address they will
+use for their account (e.g. `ivyjenniferg@gmail.com` — whatever personal
+email they use, or their `@themultiverse.school` address if they have one).
+
+Then click **Send Magic Link**.
+
+![Email entered in the field](images/login-step2-email.png)
+
+**Step 3.** The page will show a **"Magic Link Sent!"** confirmation with
+the email address it was sent to.
+
+![Confirmation — check your email](images/login-step3-confirmation.png)
+
+**Step 4.** Check the inbox for that email address (and the spam/junk
+folder). Look for an email from **aethrix@themultiverse.school**. Click
+the link in the email — it logs you in and creates the account if it does
+not already exist.
+
+If the email does not arrive within a few minutes, check that the address
+was typed correctly (no typos, all lowercase) and try again.
+
+#### Alternative: create the account directly in the database
+
+If you have database access, you can create the row without the magic link
+flow:
 
 ```sql
 INSERT INTO students (email, name, created_at)
-VALUES ('firstname@themultiverse.school', 'First Last', NOW())
+VALUES ('their_email@example.com', 'First Last', NOW())
 ON CONFLICT (email) DO NOTHING;
 ```
+
+They will still need to use the magic link login to sign in — this just
+pre-creates their row so you can set flags on it.
 
 **Verify:** They can log in to the site and see their dashboard.
 
