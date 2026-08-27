@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [Introduction](README.md)
+* [Staff Account Setup Checklist](staff-account-setup.md)
 
 ## Part I: Understanding Our Students
 
