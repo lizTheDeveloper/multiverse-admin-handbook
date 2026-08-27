@@ -27,7 +27,7 @@ teaching, tick both columns.
 | 4 | [Create their site account](#4-create-their-site-account) | x | | | |
 | 5 | [Create their Matrix account and join staff rooms](#5-create-their-matrix-account-and-join-staff-rooms) | x | | | |
 | 6 | [Add to GitHub org](#6-add-to-github-org) | | x | | x |
-| 7 | [Set `is_faculty` flag](#7-set-is_faculty-flag) | | | x | |
+| 7 | [Set `faculty` flag](#7-set-faculty-flag) | | | x | |
 | 8 | [Set `admin` flag](#8-set-admin-flag) | | x | | x |
 | 9 | [Delegate `aethrix@` mailbox access](#9-delegate-aethrix-mailbox-access) | | x | | |
 | 10 | [Invite to Stripe dashboard](#10-invite-to-stripe-dashboard) | | x | | |
@@ -155,7 +155,7 @@ pre-creates their row so you can set flags on it.
 
 **Verify:** They can log in to the site and see their dashboard.
 
-**Note:** This step must happen before setting the `admin` or `is_faculty`
+**Note:** This step must happen before setting the `admin` or `faculty`
 flags (steps 7-8), since those flags are columns on this row.
 
 ---
@@ -209,7 +209,7 @@ write access to repos.
 
 ---
 
-### 7. Set `is_faculty` flag
+### 7. Set `faculty` flag
 
 **Roles:** Teacher
 
@@ -218,7 +218,7 @@ admin pages, HedgeDoc access.
 
 ```sql
 UPDATE students
-SET is_faculty = true
+SET faculty = true
 WHERE email = 'firstname@themultiverse.school';
 ```
 
@@ -432,7 +432,7 @@ access first.
 | 6 | Remove from GitHub org | Remove from the org or downgrade to no access. |
 | 7 | Remove from Stripe dashboard | Settings > Team > remove. |
 | 8 | Remove from SendGrid | Settings > Teammates > remove. |
-| 9 | Set `admin = false`, `is_faculty = false` | `UPDATE students SET admin = false, is_faculty = false WHERE email = '...';` |
+| 9 | Set `admin = false`, `faculty = false` | `UPDATE students SET admin = false, faculty = false WHERE email = '...';` |
 | 10 | Remove from Matrix staff rooms | Kick from staff rooms. Optionally deactivate the Matrix account. |
 | 11 | Unshare Google Calendar and Drive | Remove their address from sharing settings. |
 | 12 | Remove from guard test | If their address is in `tests/test_advertised_addresses.py`, move it to the retired list. |
@@ -448,7 +448,7 @@ These are things to decide and fill in as the team grows:
   the top level?
 - **2FA policy:** Should all staff Workspace accounts require 2FA? (Recommended
   yes.)
-- **Admin UI for permission flags:** Setting `admin` and `is_faculty` currently
+- **Admin UI for permission flags:** Setting `admin` and `faculty` currently
   requires a raw database update. If the team grows past a handful, an admin
   page for managing staff permissions would reduce the bus factor.
 - **SendGrid sender verification:** If a new staff address will appear on
