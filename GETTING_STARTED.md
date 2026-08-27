@@ -8,6 +8,10 @@ Welcome to The Multiverse School Teacher & Moderator Handbook. This guide will h
 
 ## First Day? Start Here
 
+### System Access
+Before anything else, make sure your accounts are set up:
+**[Staff Account Setup Checklist](staff-account-setup.md)** - Google Workspace email, site access, Matrix, and everything else you need. Walk the checklist with whoever is onboarding you.
+
 ### Essential Reading (1-2 hours)
 1. **[Introduction](README.md)** - Understanding our approach and values
 2. **[Who We Serve: Student Profile](part1/student-profile.md)** - Know your students
