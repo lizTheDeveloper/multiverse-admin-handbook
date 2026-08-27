@@ -119,8 +119,8 @@ default) and **Password**. Leave it on Magic Link.
 ![Login page — Magic Link tab selected](images/login-step1-page.png)
 
 **Step 2.** In the **Your Email** field, type the email address they will
-use for their account (e.g. `ivyjenniferg@gmail.com` — whatever personal
-email they use, or their `@themultiverse.school` address if they have one).
+use for their account (whatever personal email they use, or their
+`@themultiverse.school` address if they have one).
 
 Then click **Send Magic Link**.
 
