@@ -45,7 +45,7 @@ These aren't tests. They're things to try so you've seen them before a student a
 - [ ] **Send yourself a durable classroom link and click it** — See what the student sees — the airlock page, the destination options. This is the link you'll send people constantly.
 - [ ] **Find a class recording the way a student would** — Open a class's curriculum page and watch a video from it. Then open one that has *no* videos, so you know both shapes before someone describes one to you.
 - [ ] **Draft a reply to a current email and run it by someone** — Pick one that looks interesting — a prospective student question, an access problem, whatever catches your eye. Share your draft in the operations channel before sending.
-- [ ] **Read through the escalation paths in the [handbook](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md)** — Refunds go to Megs or Liz (Liz processes them). Campus issues go to Neek. Crisis disclosures have a specific procedure (section 4). You don't need to memorize this — it's all in the Quick Ref and Triage sections here.
+- [ ] **Read through the escalation paths in the [handbook](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md)** — Refunds go to Megs or Liz (Liz processes them). Campus issues go to Neek. Partnerships, enterprise requests, or custom classes go to Spencer. Crisis disclosures have a specific procedure (section 4). You don't need to memorize this — it's all in the Quick Ref and Triage sections here.
 
 ### Settling in
 
@@ -263,9 +263,9 @@ Areas are assigned, not issues. When something needs to go to someone else, send
 | **Megs** | Money & enrollment. Community, mutual aid & comms. The enrollment pipeline, purchases, scholarship slots, receipts, the funnel. Contributor flows, outbound comms. |
 | **Neek** | Auth, sessions & security. Jobs, infra & monitoring. Campus & game. The world, calls, agents, quests, deploys. |
 | **Liz** | Curriculum & content. Site front end. Processes refunds, scholarship eligibility, merges, deletions, anything irreversible. |
-| **Spencer** | New revenue. Anything that opens a new money path rather than fixing an existing one. |
+| **Spencer** | New revenue, partnerships & enterprise. Custom class requests, enterprise inquiries, anything that opens a new money path rather than fixing an existing one. |
 
-> **The short version:** Money → Megs or Liz (Liz processes refunds). Campus broken → Neek. Content → Liz. Everything else → Megs first, who'll redirect if needed.
+> **The short version:** Money → Megs or Liz (Liz processes refunds). Campus broken → Neek. Content → Liz. Partnerships, enterprise, or custom classes → Spencer. Everything else → Megs first, who'll redirect if needed.
 
 ### Key Addresses
 
