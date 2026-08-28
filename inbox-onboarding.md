@@ -10,7 +10,7 @@ Ask for all of this at once, on day one. Half of it requires someone else to act
 
 - [ ] **`liz@` mailbox access** — This *is* the inbox. Student mail, refund requests, escalations, the weekly schedule. The primary address you'll be working from. *Verify: You can read liz@ and compose as it*
 - [ ] **`aethrix@` mailbox access** — Automated student mail lands here — receipts, enrollment, magic links, digests. The second monitored address. *Verify: You can read aethrix@ and compose as it*
-- [ ] **Site account with admin flag** — Log in via magic link at `themultiverse.school/login`. Once your account exists, Liz sets `admin = true` on your row so every `/admin/*` page works. *Verify: /admin/dashboard loads*
+- [ ] **Site account with admin flag** — Log in via magic link at [themultiverse.school/login](https://themultiverse.school/login). Once your account exists, Liz sets `admin = true` on your row so every `/admin/*` page works. *Verify: [/admin/dashboard](https://themultiverse.school/admin/dashboard) loads*
 - [ ] **Matrix account + staff rooms** — Where students and staff actually talk. Sign in via Element, homeserver `matrix.themultiverse.school`. *Verify: You're in the staff room and can send a message*
 - [ ] **Stripe dashboard (read-only)** — Confirming what someone actually paid, and under which email. Ask Liz for an Analyst invite. *Verify: You can find a charge from an email address*
 - [ ] **Google Drive & Calendar** — Approving recording access requests and checking class times. *Verify: You can open a class recording folder and see this week's classes*
@@ -23,14 +23,14 @@ Ask for all of this at once, on day one. Half of it requires someone else to act
 
 Read in this order — each one assumes the last. The point is the takeaway, not finishing the document.
 
-- [ ] **INBOX_HANDBOOK.md, sections 1–4** — What "done" means, which addresses are real, the five-minute mental model, and what to do when the mail isn't a support ticket. Section 4 is the one to have read before you need it.
-- [ ] **INBOX_HANDBOOK.md, sections 5–9** — The FAQ, the lookup table, the escalation tree, and the map. Skim now, return constantly.
-- [ ] **MATRIX_STUDENT_SUPPORT.md** — The privacy ceiling and the two meanings of "verified". Also the best example of what a good runbook looks like.
-- [ ] **Student handbook repo** — Skim the code of conduct and the emergency flowchart. Know it exists and roughly what's in it.
-- [ ] **Terms page & /forms/scholarship** — Read what we have actually promised students, in the words they read.
-- [ ] **OWNERSHIP_AREAS.md** — Who to hand a thing to.
-- [ ] **GDPR_DATA_RETENTION.md** — What deletion deletes and what it keeps.
-- [ ] **A tour of /admin/*** — Open every page in the handbook's lookup table once, so you've seen them before you need one in a hurry.
+- [ ] **[INBOX_HANDBOOK.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md), sections 1–4** — What "done" means, which addresses are real, the five-minute mental model, and what to do when the mail isn't a support ticket. Section 4 is the one to have read before you need it.
+- [ ] **[INBOX_HANDBOOK.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md), sections 5–9** — The FAQ, the lookup table, the escalation tree, and the map. Skim now, return constantly.
+- [ ] **[MATRIX_STUDENT_SUPPORT.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/MATRIX_STUDENT_SUPPORT.md)** — The privacy ceiling and the two meanings of "verified". Also the best example of what a good runbook looks like.
+- [ ] **[Student handbook repo](https://github.com/lizTheDeveloper/multiverse-admin-handbook)** — Skim the code of conduct and the emergency flowchart. Know it exists and roughly what's in it.
+- [ ] **[Terms page](https://themultiverse.school/terms) & [/forms/scholarship](https://themultiverse.school/forms/scholarship)** — Read what we have actually promised students, in the words they read.
+- [ ] **[OWNERSHIP_AREAS.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/OWNERSHIP_AREAS.md)** — Who to hand a thing to.
+- [ ] **[GDPR_DATA_RETENTION.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/GDPR_DATA_RETENTION.md)** — What deletion deletes and what it keeps.
+- [ ] **A tour of [/admin/*](https://themultiverse.school/admin/dashboard)** — Open every page in the handbook's lookup table once, so you've seen them before you need one in a hurry.
 
 ---
 
@@ -40,12 +40,12 @@ These aren't tests. They're things to try so you've seen them before a student a
 
 > **Be curious.** Poke around the admin pages, look up real students, click the links students click. The whole point of the docs and tools is that you don't have to memorize anything — you just need to know where to look.
 
-- [ ] **Look up a real student in `/admin/student/<id>/crm`** — Get a feel for what's there: what they bought, what they're enrolled in, what they can access. This is the page you'll live in.
+- [ ] **Look up a real student in [`/admin/student/<id>/crm`](https://themultiverse.school/admin/dashboard)** — Get a feel for what's there: what they bought, what they're enrolled in, what they can access. This is the page you'll live in.
 - [ ] **Find a charge in Stripe from an email address** — Then find the same person in the CRM page. Getting comfortable moving between Stripe and our admin is the core skill.
 - [ ] **Send yourself a durable classroom link and click it** — See what the student sees — the airlock page, the destination options. This is the link you'll send people constantly.
 - [ ] **Find a class recording the way a student would** — Open a class's curriculum page and watch a video from it. Then open one that has *no* videos, so you know both shapes before someone describes one to you.
 - [ ] **Draft a reply to a current email and run it by someone** — Pick one that looks interesting — a prospective student question, an access problem, whatever catches your eye. Share your draft in the operations channel before sending.
-- [ ] **Read through the escalation paths in the handbook** — Refunds go to Megs or Liz (Liz processes them). Campus issues go to Neek. Crisis disclosures have a specific procedure (section 4). You don't need to memorize this — it's all in the Quick Ref and Triage sections here.
+- [ ] **Read through the escalation paths in the [handbook](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md)** — Refunds go to Megs or Liz (Liz processes them). Campus issues go to Neek. Crisis disclosures have a specific procedure (section 4). You don't need to memorize this — it's all in the Quick Ref and Triage sections here.
 
 ### Settling in
 
@@ -88,19 +88,19 @@ All require admin on your account. In roughly the order you'll reach for them.
 
 | What you need | Where |
 |---|---|
-| Everything about one student | `/admin/student/<id>/crm` |
-| Their notes | `/admin/student/<id>/notes` |
-| Did enrollment complete | `/admin/enrollment-status?student_id=<id>` |
+| Everything about one student | [`/admin/student/<id>/crm`](https://themultiverse.school/admin/dashboard) |
+| Their notes | [`/admin/student/<id>/notes`](https://themultiverse.school/admin/dashboard) |
+| Did enrollment complete | [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) |
 | Resend a receipt | `/admin/student/<id>/resend-receipt` |
 | Send a payment link | `/admin/student/<id>/send-payment-link` |
 | Re-trigger enrollment email | `/admin/api/student/<id>/retrigger-email` |
-| Enroll or unenroll by hand | `/admin/enroll_student` |
-| Scholarships | `/admin/scholarships` |
-| Form submissions that failed to save | `/admin/form-fallback` |
-| Two accounts for one human | `/admin/students/merge` |
+| Enroll or unenroll by hand | [`/admin/enroll_student`](https://themultiverse.school/admin/enroll_student) |
+| Scholarships | [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) |
+| Form submissions that failed to save | [`/admin/form-fallback`](https://themultiverse.school/admin/form-fallback) |
+| Two accounts for one human | [`/admin/students/merge`](https://themultiverse.school/admin/students/merge) |
 | Deletion request | `/admin/student/<id>/gdpr-delete` |
-| Mutual aid queue | `/admin/unmet-needs` |
-| Class and schedule admin | `/admin/dashboard` |
+| Mutual aid queue | [`/admin/unmet-needs`](https://themultiverse.school/admin/unmet-needs) |
+| Class and schedule admin | [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) |
 
 > **The admin dashboard has a database assistant tool.** If you need to look something up that isn't on one of the admin pages above, you can ask it a question in plain language and it will query the database for you.
 
@@ -125,9 +125,9 @@ Ordered by how much mail each actually generates.
 
 **What actually happened:** Checkout autofilled a different email than the one they use with us. Stripe is the source of truth, so enrollment attached to *that* email and created a second account.
 
-**How to check:** Look them up by both addresses in `/admin/student/<id>/crm`, and search Stripe by the payment email. Two accounts, one human.
+**How to check:** Look them up by both addresses in [`/admin/student/<id>/crm`](https://themultiverse.school/admin/dashboard), and search Stripe by the payment email. Two accounts, one human.
 
-**The fix:** Update the email on the existing account, or move the enrollment to the right account. `/admin/students/merge` when there are genuinely two records. Don't tell them to make a new account.
+**The fix:** Update the email on the existing account, or move the enrollment to the right account. [`/admin/students/merge`](https://themultiverse.school/admin/students/merge) when there are genuinely two records. Don't tell them to make a new account.
 
 **Paste-ready reply:**
 > "It looks like when you checked out, the payment was tied to [other address] — that created a second account. I've moved your enrollment onto [right address] and your class materials should be there now. You can log in at https://themultiverse.school/login. See you in the Multiverse~"
@@ -136,7 +136,7 @@ Ordered by how much mail each actually generates.
 
 Sometimes this is the email mismatch above. Sometimes it's the batch job, which sweeps every ~10 minutes.
 
-**Check `/admin/enrollment-status?student_id=<id>` before doing anything.** If it stalled, `/admin/api/student/<id>/retrigger-email` resends.
+**Check [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) before doing anything.** If it stalled, `/admin/api/student/<id>/retrigger-email` resends.
 
 Enrollment mail lands in spam often enough that "check your junk folder" is a real first question, not a brush-off.
 
@@ -164,8 +164,8 @@ When a recording hasn't been attached yet and a student hits a "request access" 
 
 Largest label by volume, and mostly replies to automated mail, not applications.
 
-- **"How do I join?"** → the scholarship form at `/forms/scholarship`. Nobody is turned away for lack of funds.
-- **"No scholarship seats available"** is deliberate friction. A student writing in about it has done the intended thing, not hit a wall. See section 8 of the handbook.
+- **"How do I join?"** → the scholarship form at [`/forms/scholarship`](https://themultiverse.school/forms/scholarship). Nobody is turned away for lack of funds.
+- **"No scholarship seats available"** is deliberate friction. A student writing in about it has done the intended thing, not hit a wall. See section 8 of the [handbook](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md).
 - **"I applied but was given standups"** — standups are the default scholarship award. Say so plainly; it reads as a mistake otherwise.
 - **Payment plans** — flexibility: shift the date, or waive it. **Waivers and refunds go to Megs or Liz; Liz processes them.**
 - **The contract's likeness clause** frightens people. Answer it warmly and quickly — students have sat blocked on this for weeks.
@@ -183,7 +183,7 @@ Largest label by volume, and mostly replies to automated mail, not applications.
 
 ### Matrix and Element
 
-Full runbook: `docs/MATRIX_STUDENT_SUPPORT.md`. Three things to know:
+Full runbook: [MATRIX_STUDENT_SUPPORT.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/MATRIX_STUDENT_SUPPORT.md). Three things to know:
 
 - **"I can't get verified"** almost always means Element's encryption prompt, not us checking their enrollment.
 - **Class rooms are unencrypted; DMs are encrypted.** A student who can't read DMs can still use class chat — and can't be helped by DM either.
@@ -280,15 +280,15 @@ Areas are assigned, not issues. When something needs to go to someone else, send
 
 ### Key Docs Map
 
-All of these live in the `docs/` directory of the school repo.
+All of these live in the `docs/` directory of the [school repo](https://github.com/lizTheDeveloper/themultiverse.school/tree/production/docs).
 
 | Doc | Use it for |
 |---|---|
-| `INBOX_HANDBOOK.md` | The daily reference. FAQ, lookups, voice, escalation. |
-| `ENROLLMENT_ARCHITECTURE.md` | Why enrollment is fragile and the three paths. |
-| `MATRIX_STUDENT_SUPPORT.md` | Matrix/Element runbook. |
-| `BAD_FAITH_TRIAGE.md` | When you start suspecting the person. |
-| `OWNERSHIP_AREAS.md` | Who to hand a thing to. |
-| `GDPR_DATA_RETENTION.md` | What deletion deletes. |
-| `CLASSROOM_DURABLE_LINK.md` | The permanent classroom link. |
-| `AUTHENTICATION.md` | Magic links, sessions, how login works. |
+| [INBOX_HANDBOOK.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md) | The daily reference. FAQ, lookups, voice, escalation. |
+| [ENROLLMENT_ARCHITECTURE.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/ENROLLMENT_ARCHITECTURE.md) | Why enrollment is fragile and the three paths. |
+| [MATRIX_STUDENT_SUPPORT.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/MATRIX_STUDENT_SUPPORT.md) | Matrix/Element runbook. |
+| [BAD_FAITH_TRIAGE.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/BAD_FAITH_TRIAGE.md) | When you start suspecting the person. |
+| [OWNERSHIP_AREAS.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/OWNERSHIP_AREAS.md) | Who to hand a thing to. |
+| [GDPR_DATA_RETENTION.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/GDPR_DATA_RETENTION.md) | What deletion deletes. |
+| [CLASSROOM_DURABLE_LINK.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/CLASSROOM_DURABLE_LINK.md) | The permanent classroom link. |
+| [AUTHENTICATION.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/AUTHENTICATION.md) | Magic links, sessions, how login works. |
