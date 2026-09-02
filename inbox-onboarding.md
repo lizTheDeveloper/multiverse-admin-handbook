@@ -160,6 +160,29 @@ Recordings live inside the class's curriculum page at `/curriculum/<slug>/`. The
 
 When a recording hasn't been attached yet and a student hits a "request access" wall on Drive: a non-Google email cannot be granted Drive access at all. Send the file another way, and get the recording attached to the materials.
 
+### Purchasing past class recordings
+
+Someone wants to pay for access to a class that has already finished — they want the recordings and curriculum materials, not a live seat.
+
+**The process:**
+1. Go to `/admin/classes/[class_id]/edit` → Pricing section → copy the **Stripe Payment Link** URL.
+2. Send them the link. The checkout page is PWYC — they can adjust the amount down to the minimum (50% of suggested price, floor $100).
+3. After payment, the Stripe webhook auto-enrolls them (even for past classes). Verify at `/student_list`.
+4. If the webhook didn't fire (rare), enroll manually at [`/admin/enroll_student`](https://themultiverse.school/admin/enroll_student).
+
+**Paste-ready reply:**
+> "Great news — recordings and curriculum materials are available for [Class Name]. Recording access is Pay What You Can — you can adjust the amount on the checkout page. Here's your link:
+>
+> [Stripe payment link from /admin/classes/[id]/edit]
+>
+> Once your payment goes through, you'll be set up automatically and can access everything right away.
+>
+> See ya in the Multiverse~"
+
+**Already paid?** Skip payment — enroll them at `/admin/enroll_student`. **Scholarship student?** Enroll them free. **Want multiple past classes?** Suggest the pathway subscription ($250/mo) which includes all recordings.
+
+Full process doc: [Students Purchasing Past Class Recordings](https://claude.ai/code/artifact/e749a18f-3bc1-4241-9bf4-b563d1a51f7a). Self-serve feature tracked in [#1287](https://github.com/lizTheDeveloper/themultiverse.school/issues/1287).
+
 ### Scholarships
 
 Largest label by volume, and mostly replies to automated mail, not applications.
