@@ -60,7 +60,7 @@ Before anything else, make sure your accounts are set up:
 4. Legal considerations (when available)
 5. Removal & re-entry guidelines (when available)
 
-**System Operations:**
+**System Operations:** (see the full **[Operations Guide](OPERATIONS_GUIDE.md)** for step-by-step instructions on each tool)
 
 The admin dashboard is at `/admin/dashboard` on [themultiverse.school](https://themultiverse.school). You need the `admin` flag on your student record to access it. Key pages:
 

@@ -44,7 +44,7 @@ This handbook helps facilitators navigate the complex, rewarding work of support
 
 ## 🔧 Operations Quick Reference
 
-The philosophical framework above guides *how* we work. This section covers *where* to do it in the system.
+The philosophical framework above guides *how* we work. This section covers *where* to do it in the system. For step-by-step guides on each tool, see the **[Operations Guide](OPERATIONS_GUIDE.md)**.
 
 ### Admin Dashboard
 
