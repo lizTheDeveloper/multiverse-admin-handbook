@@ -140,7 +140,7 @@ This document outlines what Multiverse facilitators commit to in our practice. T
 
 - **We consult when uncertain** — We don't make major decisions (like removing someone) in isolation. We seek input from co-facilitators or advisors, though the founder/instructor holds final say on removals.
 
-- **We give clear warnings before removal** — You'll know if patterns are concerning. We won't suddenly remove you without having addressed the issues first (except in genuine safety emergencies).
+- **We give clear warnings before removal** — You'll know if patterns are concerning. We won't suddenly remove you without having addressed the issues first (except in genuine safety emergencies). *In the system, removal is the `is_expelled` field on the student record.*
 
 - **We separate person from fit** — "You're not a good fit for this space right now" ≠ "You're a bad person."
 
@@ -343,3 +343,5 @@ That's the standard.
 - [Documentation Practices](part5/documentation-practices.md) - How we document with dignity
 - [Teacher Boundaries](part5/teacher-boundaries.md) - How we hold boundaries with care
 - [Liberatory Framework](LIBERATORY_FRAMEWORK.md) - The pedagogy that guides all of this
+- [Good Faith Bench](https://themultiverse.school/tools/good-faith-bench) - Structured triage tool for distinguishing genuine difficulty from bad-faith behavior
+- [Bad Faith Triage Framework](../docs/BAD_FAITH_TRIAGE.md) - Full decision framework behind the Good Faith Bench

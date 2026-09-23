@@ -60,6 +60,21 @@ Before anything else, make sure your accounts are set up:
 4. Legal considerations (when available)
 5. Removal & re-entry guidelines (when available)
 
+**System Operations:**
+
+The admin dashboard is at `/admin/dashboard` on [themultiverse.school](https://themultiverse.school). You need the `admin` flag on your student record to access it. Key pages:
+
+- **Student records** — Search and manage students from the dashboard. The `students` table is the users table for everyone, not just enrolled students.
+- **Scholarships** (`/admin/scholarships`) — Review applications, grant awards. Scholarship students have attendance gates:
+  - They must participate in Job Search standup (or Learn to Code drop-in) to maintain access
+  - "Good standing" requires a minimum number of attendance days in a trailing window
+  - Students who fall below the threshold get `scholarship_suspended` — their access pauses until they re-engage
+  - Granting a scholarship also awards a pathway-scoped track pass when a pathway can be resolved
+- **Good Faith Bench** (`/tools/good-faith-bench`) — Use this for the triage work described in the case studies. It operationalizes the escalation protocols with structured assessment. The full decision framework is in `docs/BAD_FAITH_TRIAGE.md`.
+- **Removal** — When removal is the right decision (see [Student Removal & Re-entry](part4/removal-reentry.md)), the system field is `is_expelled` on the student record. This is the mechanism behind the process described in Facilitator Commitment #7.
+- **Class setup** — Before publishing a new class, walk through `docs/TEACHER_CLASS_SETUP_CHECKLIST.md`.
+- **Job monitoring** (`/admin/jobs`) — Watch background jobs (enrollment pipeline, email sends, calendar syncs). The enrollment system has three paths and is fragile — see `docs/ENROLLMENT_ARCHITECTURE.md` before touching anything.
+
 ---
 
 ## By Situation
@@ -152,9 +167,9 @@ Research, resources, and reference materials
 
 ### Who to Contact
 - **Immediate crisis:** 988 Lifeline, Crisis Text Line
-- **Student safety concern:** [Admin contact]
-- **Policy questions:** [Admin contact]
-- **Peer support:** [Teacher channel/forum]
+- **Student safety concern:** liz@themultiverse.school
+- **Policy questions:** aethrix@themultiverse.school
+- **Peer support:** Matrix ([matrix.themultiverse.school](https://matrix.themultiverse.school))
 
 ### When to Escalate
 - Any mention of suicide or violence
@@ -175,17 +190,22 @@ This handbook is a living document. If you:
 - Notice outdated information
 - Want to contribute a case study (anonymized)
 
-Please contact [admin/handbook maintainer].
+Please contact liz@themultiverse.school.
 
 ---
 
 ## Version History
 
+**Version 2.0** (September 2026)
+- Added system operations guidance for administrators
+- Fixed placeholder contacts
+- Added Good Faith Bench, scholarship attendance gates, enrollment architecture references
+- Connected case studies to operational tools
+
 **Version 1.0** (November 2025)
 - Initial release
 - Core protocols established
 - Research-backed, neurodivergent-affirming approach
-- Some sections still in development
 
 ---
 

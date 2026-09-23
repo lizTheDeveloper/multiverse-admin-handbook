@@ -42,6 +42,72 @@ This handbook helps facilitators navigate the complex, rewarding work of support
 
 ---
 
+## 🔧 Operations Quick Reference
+
+The philosophical framework above guides *how* we work. This section covers *where* to do it in the system.
+
+### Admin Dashboard
+
+All admin pages live at `/admin/*` in the main app ([themultiverse.school](https://themultiverse.school)). Log in with your admin account and navigate to any of these:
+
+| Page | What it's for |
+|---|---|
+| `/admin/dashboard` | Main overview — students, classes, enrollment status |
+| `/admin/scholarships` | Review scholarship applications, grant awards, track attendance gates |
+| `/admin/community/submissions` | Moderate community resource submissions |
+| `/admin/jobs` | Background job monitoring — enrollment pipeline, email sends, calendar syncs |
+| `/admin/capstones` | Manage capstone ritual events (comedy nights, showcases) |
+| `/admin/skill-map` | Visual map of curriculum skills and dependencies |
+| `/admin/db-api-tokens` | Manage developer database access tokens |
+
+### Student Records
+
+The `students` table is the users table — everyone who logs in has a row, whether or not they're enrolled in classes. Key fields facilitators should know about:
+
+- **`admin`** — Grants admin dashboard access
+- **`researcher`** — Grants research-level curriculum access (all materials)
+- **`scholarship`** — Marks scholarship recipients. These students have attendance gates: they must maintain participation in Job Search standup (or Learn to Code drop-in) to keep access. See the scholarship section in GETTING_STARTED.md for details.
+- **`is_expelled`** — Removal from the platform. This is the system mechanism for the removal decisions described in [Student Removal & Re-entry](part4/removal-reentry.md) and Commitment #7 in [Facilitator Commitments](FACILITATOR_COMMITMENTS.md).
+- **`membership_level`** / **`support_tier`** — Subscription status. Support tiers (supporter/sustainer/patron) grant curriculum access at different levels.
+
+### Good Faith Bench
+
+The [Good Faith Bench](/tools/good-faith-bench) is the operational tool for the triage and escalation work described throughout this handbook's case studies. It helps facilitators distinguish between genuine difficulty and bad-faith behavior using structured assessment rather than vibes.
+
+Full decision framework: `docs/BAD_FAITH_TRIAGE.md` in the school repo.
+
+### Enrollment Architecture
+
+Enrollment has three coexisting paths — a real-time Stripe webhook, a connected account webhook (for teacher marketplace payments), and a batch job that runs every ~10 minutes as a safety net. **This system is fragile.** All three paths must be understood before making changes.
+
+**Do NOT manually edit enrollment tables** (`student_classes`, `purchases`). Stripe is the source of truth — manual changes will be overwritten.
+
+Full documentation: `docs/ENROLLMENT_ARCHITECTURE.md` in the school repo.
+
+### Communication Channels
+
+- **Matrix** ([matrix.themultiverse.school](https://matrix.themultiverse.school)) — Community chat. Class rooms use a two-tier structure: a private cohort room (invite-only, for enrolled students) and a public alias (for discovery).
+- **Email** — Sent via SendGrid. Welcome emails, weekly schedules, and calendar invites are automated through the enrollment pipeline.
+- **Support inbox** — aethrix@themultiverse.school — for student support, transfers, and account issues.
+
+### Class Setup
+
+Before publishing a new class, use the teacher-facing checklist: `docs/TEACHER_CLASS_SETUP_CHECKLIST.md` in the school repo.
+
+### Paths, Tracks & Programs
+
+The school organizes learning into:
+- **Tracks** — Thematic groupings of classes (e.g., Defender, Independence). $250/month per track.
+- **Paths** — Student-facing learning journeys with dashboards at `/paths`.
+- **Programs** — Data-driven pages at `/programs/<slug>` with curriculum summaries and schedules.
+- **Support tiers** — $60 (interest), $250 (learning), $500 (full access) monthly subscriptions.
+
+### Where This Handbook Lives
+
+> **Note:** This handbook is currently a standalone git repo with no route in the app. Admins access it by reading these files directly. Adding a served route (similar to the student handbook at `/handbook`) is a known gap to address separately.
+
+---
+
 ## 🚨 Crisis Response
 
 **Dealing with an emergency right now?**
@@ -116,4 +182,4 @@ This handbook represents years of lived experience, mistakes, course-corrections
 
 ---
 
-**Version 1.0** | Last Updated: November 2025 | Maintained by Liz Howard
+**Version 2.0** | Last Updated: September 2026 | Maintained by Liz Howard
