@@ -50,6 +50,8 @@ The philosophical framework above guides *how* we work. This section covers *whe
 
 All admin pages live at `/admin/*` in the main app ([themultiverse.school](https://themultiverse.school)). Log in with your admin account and navigate to any of these:
 
+![Dashboard overview — stats and tab navigation](screenshots/dashboard-overview.jpg)
+
 | Page | What it's for |
 |---|---|
 | `/admin/dashboard` | Main overview — students, classes, enrollment status |
@@ -59,6 +61,20 @@ All admin pages live at `/admin/*` in the main app ([themultiverse.school](https
 | `/admin/capstones` | Manage capstone ritual events (comedy nights, showcases) |
 | `/admin/skill-map` | Visual map of curriculum skills and dependencies |
 | `/admin/db-api-tokens` | Manage developer database access tokens |
+
+The dashboard has three tabs:
+
+**Teachers** — Class catalog, curriculum editor, exercises, skill map, program manager, schedules, and the Bazaar.
+
+![Teachers tab — Teaching Tools](screenshots/dashboard-teachers.jpg)
+
+**Admin** — Operations & configuration: class health, financials, enrollment, student management, scholarships, experiments, and the admin handbook.
+
+![Admin tab — Operations & Configuration](screenshots/dashboard-admin.jpg)
+
+**Community** — Community programs, mutual aid, volunteers, unmet needs, resource moderation.
+
+![Community tab — Community Programs & Support](screenshots/dashboard-community.jpg)
 
 ### Student Records
 
