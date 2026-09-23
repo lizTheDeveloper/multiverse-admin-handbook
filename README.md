@@ -104,7 +104,7 @@ The school organizes learning into:
 
 ### Where This Handbook Lives
 
-> **Note:** This handbook is currently a standalone git repo with no route in the app. Admins access it by reading these files directly. Adding a served route (similar to the student handbook at `/handbook`) is a known gap to address separately.
+This handbook is served at [`/admin/handbook`](https://themultiverse.school/admin/handbook) in the school app (admin login required). It's also a standalone git repo at [github.com/lizTheDeveloper/multiverse-admin-handbook](https://github.com/lizTheDeveloper/multiverse-admin-handbook).
 
 ---
 
