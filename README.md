@@ -82,7 +82,7 @@ The `students` table is the users table — everyone who logs in has a row, whet
 
 - **`admin`** — Grants admin dashboard access
 - **`researcher`** — Grants research-level curriculum access (all materials)
-- **`scholarship`** — Marks scholarship recipients. These students have attendance gates: they must maintain participation in Job Search standup (or Learn to Code drop-in) to keep access. See the scholarship section in GETTING_STARTED.md for details.
+- **`scholarship`** — Marks scholarship recipients. These students have attendance gates: they must maintain participation in Go to Market standup (or Make and Do Hour) to keep access. See the scholarship section in GETTING_STARTED.md for details.
 - **`is_expelled`** — Removal from the platform. This is the system mechanism for the removal decisions described in [Student Removal & Re-entry](part4/removal-reentry.md) and Commitment #7 in [Facilitator Commitments](FACILITATOR_COMMITMENTS.md).
 - **`membership_level`** / **`support_tier`** — Subscription status. Support tiers (supporter/sustainer/patron) grant curriculum access at different levels.
 

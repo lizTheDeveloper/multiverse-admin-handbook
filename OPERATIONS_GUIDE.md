@@ -153,9 +153,11 @@ When you approve and grant a scholarship:
 ### Attendance gates
 
 Scholarship students have participation requirements:
-- They need to attend Job Search standup (or Learn to Code drop-in) regularly
+- They need to attend **Go to Market** standup (or **Make and Do Hour**) regularly
 - Falling below the attendance threshold → `scholarship_suspended = TRUE` → access pauses
 - They get back in by re-engaging
+
+> **Code note**: The env vars still say `JOB_SEARCH` and `LEARN_TO_CODE` — those are internal code names. The student-facing programs are "Go to Market" and "Make and Do Hour". The system checks attendance against whichever class IDs are configured in `SCHOLARSHIP_JOB_SEARCH_CLASS_IDS` and `SCHOLARSHIP_LEARN_TO_CODE_CLASS_IDS`, regardless of what the classes are named.
 
 The dashboard shows attendance data. Suspension logic runs automatically in background jobs — you don't need to manually suspend anyone.
 
@@ -191,6 +193,70 @@ Failed enrollments can be retried from this page. The retry re-processes the fai
 - When a student reports they never got their welcome email or class links
 - When the enrollment batch job reports failures
 - As a daily health check
+
+---
+
+## Paths, Tracks & Programs
+
+### What's what
+
+These three terms refer to different layers of the same structure:
+
+| Term | What it is | Where students see it |
+|---|---|---|
+| **Track** | The admin/data model. A group of related classes with a monthly subscription price. Lives in the `tracks` table. | Students don't see the word "track" much. |
+| **Path** | The student-facing presentation of a track. Shows progress, upcoming classes, and what's next. | `/paths` — the main student navigation for their learning journey. |
+| **Program** | A marketing/landing page for a track. Curriculum summaries, schedules, Bazaar stats. | `/programs/<slug>` — discovery and sales pages. |
+
+**Path and track are the same thing viewed from different angles.** Tracks are how you manage it; paths are how students experience it.
+
+### Current active tracks
+
+- **Independence** — build the skills to work for yourself
+- **Defender** — counter-harassment, digital safety, security
+- **Build AI Systems** — AI/ML engineering
+- **Creative Automation** — using AI for creative work
+- And more — browse all at `/paths`
+
+### How track access works
+
+Students get curriculum access through tracks in two ways:
+
+1. **Track subscription** ($250/mo) — grants access to all classes and curriculum in one track for the subscription period
+2. **Track pass** — a time-limited grant (from scholarship, admin, or Stripe) stored in `student_track_passes`
+
+There's also a **completed-material entitlement** — if a student attends every session of a class, they get permanent access to that class's curriculum forever, even if they cancel their subscription.
+
+### The full access check (7 paths, first match wins)
+
+When a student tries to access curriculum, the system checks in this order:
+1. Admin → instant access
+2. Researcher → instant access
+3. Scholarship (not suspended) → access
+4. Active support tier (supporter/sustainer/patron at $60/$250/$500) → access
+5. Legacy membership level → access
+6. Completed-material entitlement → permanent per-class access
+7. Track pass → access if the pass covers the track this curriculum belongs to
+8. Enrollment fallback → access if enrolled in any class with matching curriculum
+
+### What admins need to know
+
+- **Track passes are the mechanism behind $250/mo subscriptions.** When someone subscribes, they get a track pass.
+- **Don't confuse paths with Founding Federation.** FF is a specific program with daily drop-ins; paths are the broader learning journey structure.
+- **The `pathway_id` on track passes must NEVER have a foreign key constraint.** This is deliberate — republishing the vault would cascade-delete access.
+
+### Founding Federation (FF)
+
+The Founding Federation is the school's intensive drop-in program. After a shared orientation week, students choose between two parallel tracks:
+
+- **Go to Market (GTM)** — daily standup focused on launching, business, and getting to revenue
+- **Make and Do Hour** — daily session focused on building, creating, and learning the craft
+
+Students are guided to one track based on their goals (8 archetypes map to one track or the other). Both run Mon–Thu as daily drop-ins.
+
+**Scholarship attendance gates** check participation in these sessions. The system uses env vars `SCHOLARSHIP_JOB_SEARCH_CLASS_IDS` (for Go to Market) and `SCHOLARSHIP_LEARN_TO_CODE_CLASS_IDS` (for Make and Do Hour) to know which class IDs to track.
+
+The FF admin page at `/admin/drop-in-programs` manages the daily schedule, anchor Monday structure, and per-day curriculum.
 
 ---
 

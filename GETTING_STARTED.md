@@ -66,7 +66,7 @@ The admin dashboard is at `/admin/dashboard` on [themultiverse.school](https://t
 
 - **Student records** — Search and manage students from the dashboard. The `students` table is the users table for everyone, not just enrolled students.
 - **Scholarships** (`/admin/scholarships`) — Review applications, grant awards. Scholarship students have attendance gates:
-  - They must participate in Job Search standup (or Learn to Code drop-in) to maintain access
+  - They must participate in Go to Market standup (or Make and Do Hour) to maintain access
   - "Good standing" requires a minimum number of attendance days in a trailing window
   - Students who fall below the threshold get `scholarship_suspended` — their access pauses until they re-engage
   - Granting a scholarship also awards a pathway-scoped track pass when a pathway can be resolved
