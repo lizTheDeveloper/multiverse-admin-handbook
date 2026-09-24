@@ -118,6 +118,12 @@ The school organizes learning into:
 - **Programs** — Data-driven pages at `/programs/<slug>` with curriculum summaries and schedules.
 - **Support tiers** — $60 (interest), $250 (learning), $500 (full access) monthly subscriptions.
 
+### Campus (the Spatial World)
+
+Campus ([campus.themultiverse.school](https://campus.themultiverse.school)) is the 2D pixel-art virtual world where students walk around as avatars, video chat by proximity, interact with AI agents, do quests, and attend live classes. It shares login and database with the school but has its own admin tools (in-world, not a web dashboard).
+
+**Full guide:** [Campus Guide](CAMPUS_GUIDE.md)
+
 ### Where This Handbook Lives
 
 This handbook is served at [`/admin/handbook`](https://themultiverse.school/admin/handbook) in the school app (admin login required). It's also a standalone git repo at [github.com/lizTheDeveloper/multiverse-admin-handbook](https://github.com/lizTheDeveloper/multiverse-admin-handbook).
