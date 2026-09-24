@@ -54,13 +54,13 @@ All admin pages live at `/admin/*` in the main app ([themultiverse.school](https
 
 | Page | What it's for |
 |---|---|
-| `/admin/dashboard` | Main overview — students, classes, enrollment status |
-| `/admin/scholarships` | Review scholarship applications, grant awards, track attendance gates |
-| `/admin/community/submissions` | Moderate community resource submissions |
-| `/admin/jobs` | Background job monitoring — enrollment pipeline, email sends, calendar syncs |
-| `/admin/capstones` | Manage capstone ritual events (comedy nights, showcases) |
-| `/admin/skill-map` | Visual map of curriculum skills and dependencies |
-| `/admin/db-api-tokens` | Manage developer database access tokens |
+| [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) | Main overview — students, classes, enrollment status |
+| [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) | Review scholarship applications, grant awards, track attendance gates |
+| [`/admin/community/submissions`](https://themultiverse.school/admin/community/submissions) | Moderate community resource submissions |
+| [`/admin/jobs`](https://themultiverse.school/admin/jobs) | Background job monitoring — enrollment pipeline, email sends, calendar syncs |
+| [`/admin/capstones`](https://themultiverse.school/admin/capstones) | Manage capstone ritual events (comedy nights, showcases) |
+| [`/admin/skill-map`](https://themultiverse.school/admin/skill-map) | Visual map of curriculum skills and dependencies |
+| [`/admin/db-api-tokens`](https://themultiverse.school/admin/db-api-tokens) | Manage developer database access tokens |
 
 The dashboard has three tabs:
 
@@ -104,7 +104,7 @@ Full documentation: `docs/ENROLLMENT_ARCHITECTURE.md` in the school repo.
 
 - **Matrix** ([matrix.themultiverse.school](https://matrix.themultiverse.school)) — Community chat. Class rooms use a two-tier structure: a private cohort room (invite-only, for enrolled students) and a public alias (for discovery).
 - **Email** — Sent via SendGrid. Welcome emails, weekly schedules, and calendar invites are automated through the enrollment pipeline.
-- **Support inbox** — aethrix@themultiverse.school — for student support, transfers, and account issues.
+- **Support inbox** — [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school) — for student support, transfers, and account issues.
 
 ### Class Setup
 
@@ -114,8 +114,8 @@ Before publishing a new class, use the teacher-facing checklist: `docs/TEACHER_C
 
 The school organizes learning into:
 - **Tracks** — Thematic groupings of classes (e.g., Defender, Independence). $250/month per track.
-- **Paths** — Student-facing learning journeys with dashboards at `/paths`.
-- **Programs** — Data-driven pages at `/programs/<slug>` with curriculum summaries and schedules.
+- **Paths** — Student-facing learning journeys with dashboards at [`/paths`](https://themultiverse.school/paths).
+- **Programs** — Data-driven pages at `/programs/<slug>` with curriculum summaries and schedules. See the [student handbook](https://themultiverse.school/handbook) for how students experience them.
 - **Support tiers** — $60 (interest), $250 (learning), $500 (full access) monthly subscriptions.
 
 ### Campus (the Spatial World)
@@ -155,6 +155,7 @@ This handbook is served at [`/admin/handbook`](https://themultiverse.school/admi
 ## 📋 Policies & Guidelines
 
 - [The Multiverse School Code of Conduct](part4/multiverse-code-of-conduct.md)
+- [Terms of Service](https://themultiverse.school/terms) · [Privacy Policy](https://themultiverse.school/privacy)
 - [Mentoring Guidelines](part4/mentoring-guidelines.md)
 - [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md)
 - [Cohabitation Policy](part4/cohabitation-policy.md)

@@ -8,7 +8,7 @@ This is the hands-on companion to the rest of the handbook. It covers what each 
 
 ## Student List
 
-**Where**: `/student_list` (from the Admin tab → "Student List")
+**Where**: [`/student_list`](https://themultiverse.school/student_list) (from the Admin tab → "Student List")
 
 ### Finding students
 
@@ -54,7 +54,7 @@ Students can log in with multiple email addresses. They add new ones from their 
 
 ## DB Assistant
 
-**Where**: `/admin/db-assistant` (from the Admin tab → "DB Assistant")
+**Where**: [`/admin/db-assistant`](https://themultiverse.school/admin/db-assistant) (from the Admin tab → "DB Assistant")
 
 ### What it is
 
@@ -82,7 +82,7 @@ Use the DB Assistant when you need information that isn't on a dashboard, or whe
 
 ## Financial Dashboard
 
-**Where**: `/admin/financials` (from the Admin tab → "Financial Transparency")
+**Where**: [`/admin/financials`](https://themultiverse.school/admin/financials) (from the Admin tab → "Financial Transparency")
 
 Faculty and admins both have access. Admins also get the costs editor.
 
@@ -114,7 +114,7 @@ Faculty and admins both have access. Admins also get the costs editor.
 
 ### Costs editor (admin only)
 
-At `/admin/financials/costs`, admins can manage:
+At [`/admin/financials/costs`](https://themultiverse.school/admin/financials/costs), admins can manage:
 - **Compensation** — payroll and contractor payments
 - **Platform costs** — SaaS subscriptions (hosting, email, etc.)
 - **Other income** — revenue from sources other than Stripe
@@ -124,7 +124,7 @@ At `/admin/financials/costs`, admins can manage:
 
 ## Scholarship Queue
 
-**Where**: `/admin/scholarships` (from the Admin tab → "Scholarship Queue")
+**Where**: [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) (from the Admin tab → "Scholarship Queue")
 
 ### Reviewing applications
 
@@ -169,7 +169,7 @@ The capacity panel shows paid vs. scholarship counts per class and how many fund
 
 ## Enrollment Status
 
-**Where**: `/admin/enrollment-status` (from the Admin tab → "Enrollment Status")
+**Where**: [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) (from the Admin tab → "Enrollment Status")
 
 ### Global health view (default)
 
@@ -216,7 +216,7 @@ These three terms refer to different layers of the same structure:
 - **Defender** — counter-harassment, digital safety, security
 - **Build AI Systems** — AI/ML engineering
 - **Creative Automation** — using AI for creative work
-- And more — browse all at `/paths`
+- And more — browse all at [`/paths`](https://themultiverse.school/paths)
 
 ### How track access works
 
@@ -256,13 +256,13 @@ Students are guided to one track based on their goals (8 archetypes map to one t
 
 **Scholarship attendance gates** check participation in these sessions. The system uses env vars `SCHOLARSHIP_JOB_SEARCH_CLASS_IDS` (for Go to Market) and `SCHOLARSHIP_LEARN_TO_CODE_CLASS_IDS` (for Make and Do Hour) to know which class IDs to track.
 
-The FF admin page at `/admin/drop-in-programs` manages the daily schedule, anchor Monday structure, and per-day curriculum.
+The FF admin page at [`/admin/drop-in-programs`](https://themultiverse.school/admin/drop-in-programs) manages the daily schedule, anchor Monday structure, and per-day curriculum.
 
 ---
 
 ## Class Creation
 
-**Where**: `/admin/create_class` (from the Teachers tab → "Create Class")
+**Where**: [`/admin/create_class`](https://themultiverse.school/admin/create_class) (from the Teachers tab → "Create Class")
 
 Both faculty and admins can create classes. Faculty only see their own previous classes for reposting; admins see all.
 
@@ -289,7 +289,7 @@ Use the [Class Health](#class-health) page to verify everything's set up.
 
 ## Community Resource Submissions
 
-**Where**: `/admin/community/submissions` (from the Community tab)
+**Where**: [`/admin/community/submissions`](https://themultiverse.school/admin/community/submissions) (from the Community tab)
 
 ### What you see
 
@@ -311,7 +311,7 @@ The page also shows **open flags** — issues community members reported with ex
 
 ## Manual Enrollment
 
-**Where**: `/admin/enroll_student` (from the Admin tab → "Manual Enrollment")
+**Where**: [`/admin/enroll_student`](https://themultiverse.school/admin/enroll_student) (from the Admin tab → "Manual Enrollment")
 
 Enter an email address and optionally select a class:
 - **Email only** — creates the student account (if it doesn't exist)
@@ -332,7 +332,7 @@ Manual enrollment bypasses Stripe. The student won't have a purchase record, whi
 
 ## Merge Duplicates
 
-**Where**: `/admin/students/merge` (from the Admin tab → "Merge Duplicates")
+**Where**: [`/admin/students/merge`](https://themultiverse.school/admin/students/merge) (from the Admin tab → "Merge Duplicates")
 
 ### When to use it
 
@@ -351,7 +351,7 @@ The lower ID always wins. Its field values are kept; blanks get filled from the 
 
 ## Class Health
 
-**Where**: `/admin/program-health` (from the Admin tab → "Class Health")
+**Where**: [`/admin/program-health`](https://themultiverse.school/admin/program-health) (from the Admin tab → "Class Health")
 
 ### What it checks
 
@@ -376,7 +376,7 @@ Status is either `ready` (all good) or `warnings` (something's missing).
 
 ## Orientation Videos
 
-**Where**: `/admin/orientation`
+**Where**: [`/admin/orientation`](https://themultiverse.school/admin/orientation)
 
 Each learning path can have its own orientation video. Students see their path's video (or a general fallback) on their dashboard and at URLs like `/orientation/build-ai-systems`.
 
@@ -386,7 +386,7 @@ Just paste a Loom video ID — changes take effect immediately, no deploy needed
 
 ## Job Monitor
 
-**Where**: `/admin/jobs` (from the Admin tab)
+**Where**: [`/admin/jobs`](https://themultiverse.school/admin/jobs) (from the Admin tab)
 
 ### What it shows
 
@@ -409,21 +409,21 @@ The job monitor tracks every background job in the system — the enrollment pip
 
 | Task | Where to go |
 |---|---|
-| Find a student | `/student_list` → search by name or email |
-| Check if someone is enrolled | Student list → click student → view enrollments |
-| Enroll someone for free | `/admin/enroll_student` → enter email + class |
-| Grant a scholarship | `/admin/scholarships` → find application → grant |
-| Check why enrollment failed | `/admin/enrollment-status` → look at failing phases |
-| See revenue this month | `/admin/financials` → top summary (MTD) |
-| Check if a class is ready to run | `/admin/program-health` → check readiness status |
-| Merge duplicate accounts | `/admin/students/merge` → enter two IDs → preview → confirm |
-| Moderate a community resource | `/admin/community/submissions` → accept/reject |
-| Ask a data question | `/admin/db-assistant` → type your question |
-| Remove a harmful student | Student list → find student → expel (with reason) |
-| Check scholarship attendance | `/admin/scholarships` → view student's attendance data |
-| Create a new class cohort | `/admin/create_class` → repost from existing |
-| Set an orientation video | `/admin/orientation` → paste Loom ID |
-| Check background jobs | `/admin/jobs` → view run history and active jobs |
+| Find a student | [`/student_list`](https://themultiverse.school/student_list) → search by name or email |
+| Check if someone is enrolled | [Student list](https://themultiverse.school/student_list) → click student → view enrollments |
+| Enroll someone for free | [`/admin/enroll_student`](https://themultiverse.school/admin/enroll_student) → enter email + class |
+| Grant a scholarship | [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) → find application → grant |
+| Check why enrollment failed | [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) → look at failing phases |
+| See revenue this month | [`/admin/financials`](https://themultiverse.school/admin/financials) → top summary (MTD) |
+| Check if a class is ready to run | [`/admin/program-health`](https://themultiverse.school/admin/program-health) → check readiness status |
+| Merge duplicate accounts | [`/admin/students/merge`](https://themultiverse.school/admin/students/merge) → enter two IDs → preview → confirm |
+| Moderate a community resource | [`/admin/community/submissions`](https://themultiverse.school/admin/community/submissions) → accept/reject |
+| Ask a data question | [`/admin/db-assistant`](https://themultiverse.school/admin/db-assistant) → type your question |
+| Remove a harmful student | [Student list](https://themultiverse.school/student_list) → find student → expel (with reason) |
+| Check scholarship attendance | [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) → view student's attendance data |
+| Create a new class cohort | [`/admin/create_class`](https://themultiverse.school/admin/create_class) → repost from existing |
+| Set an orientation video | [`/admin/orientation`](https://themultiverse.school/admin/orientation) → paste Loom ID |
+| Check background jobs | [`/admin/jobs`](https://themultiverse.school/admin/jobs) → view run history and active jobs |
 
 ---
 

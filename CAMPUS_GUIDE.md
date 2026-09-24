@@ -120,7 +120,7 @@ When you add a new class or community space, you create a building for it. The b
 Faculty start lectures from inside buildings. The admin role lets you manage the lecture system settings, recordings, and transcription.
 
 ### Moderation
-Same principles as the [Facilitator Commitments](FACILITATOR_COMMITMENTS.md) and [Good Faith Bench](/tools/good-faith-bench) — but inside the spatial world. Muting, handling reports, and if needed, using the school-side `is_expelled` to remove someone (which blocks them from both systems via shared SSO).
+Same principles as the [Facilitator Commitments](FACILITATOR_COMMITMENTS.md) and [Good Faith Bench](https://themultiverse.school/tools/good-faith-bench) — but inside the spatial world. Muting, handling reports, and if needed, using the school-side `is_expelled` to remove someone (which blocks them from both systems via shared SSO).
 
 ---
 
@@ -128,12 +128,12 @@ Same principles as the [Facilitator Commitments](FACILITATOR_COMMITMENTS.md) and
 
 Don't look for these in Campus — they're all school-side:
 
-- **Enrollment & payments** — Stripe, enrollment pipeline, all at themultiverse.school
+- **Enrollment & payments** — Stripe, enrollment pipeline, all at [themultiverse.school](https://themultiverse.school)
 - **Curriculum** — course materials are on the school site, not in campus
-- **Student records** — the `/student_list`, scholarship queue, financial dashboard, all admin pages
+- **Student records** — the [`/student_list`](https://themultiverse.school/student_list), [scholarship queue](https://themultiverse.school/admin/scholarships), [financial dashboard](https://themultiverse.school/admin/financials), all admin pages
 - **Email** — welcome emails, weekly schedules, calendar invites
-- **Paths & tracks** — the learning journey structure
-- **Community Resource Commons** — mutual aid resources
+- **Paths & tracks** — the learning journey structure at [`/paths`](https://themultiverse.school/paths)
+- **Community Resource Commons** — [mutual aid resources](https://themultiverse.school/resources)
 
 Campus is the **experience**. The school is the **operations**.
 

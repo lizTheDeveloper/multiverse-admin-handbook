@@ -62,18 +62,18 @@ Before anything else, make sure your accounts are set up:
 
 **System Operations:** (see the full **[Operations Guide](OPERATIONS_GUIDE.md)** for step-by-step instructions on each tool)
 
-The admin dashboard is at `/admin/dashboard` on [themultiverse.school](https://themultiverse.school). You need the `admin` flag on your student record to access it. Key pages:
+The admin dashboard is at [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) on [themultiverse.school](https://themultiverse.school). You need the `admin` flag on your student record to access it. Key pages:
 
 - **Student records** — Search and manage students from the dashboard. The `students` table is the users table for everyone, not just enrolled students.
-- **Scholarships** (`/admin/scholarships`) — Review applications, grant awards. Scholarship students have attendance gates:
+- **Scholarships** ([`/admin/scholarships`](https://themultiverse.school/admin/scholarships)) — Review applications, grant awards. Scholarship students have attendance gates:
   - They must participate in Go to Market standup (or Make and Do Hour) to maintain access
   - "Good standing" requires a minimum number of attendance days in a trailing window
   - Students who fall below the threshold get `scholarship_suspended` — their access pauses until they re-engage
   - Granting a scholarship also awards a pathway-scoped track pass when a pathway can be resolved
-- **Good Faith Bench** (`/tools/good-faith-bench`) — Use this for the triage work described in the case studies. It operationalizes the escalation protocols with structured assessment. The full decision framework is in `docs/BAD_FAITH_TRIAGE.md`.
+- **Good Faith Bench** ([`/tools/good-faith-bench`](https://themultiverse.school/tools/good-faith-bench)) — Use this for the triage work described in the case studies. It operationalizes the escalation protocols with structured assessment. The full decision framework is in `docs/BAD_FAITH_TRIAGE.md`.
 - **Removal** — When removal is the right decision (see [Student Removal & Re-entry](part4/removal-reentry.md)), the system field is `is_expelled` on the student record. This is the mechanism behind the process described in Facilitator Commitment #7.
 - **Class setup** — Before publishing a new class, walk through `docs/TEACHER_CLASS_SETUP_CHECKLIST.md`.
-- **Job monitoring** (`/admin/jobs`) — Watch background jobs (enrollment pipeline, email sends, calendar syncs). The enrollment system has three paths and is fragile — see `docs/ENROLLMENT_ARCHITECTURE.md` before touching anything.
+- **Job monitoring** ([`/admin/jobs`](https://themultiverse.school/admin/jobs)) — Watch background jobs (enrollment pipeline, email sends, calendar syncs). The enrollment system has three paths and is fragile — see `docs/ENROLLMENT_ARCHITECTURE.md` before touching anything.
 
 ---
 
@@ -167,8 +167,8 @@ Research, resources, and reference materials
 
 ### Who to Contact
 - **Immediate crisis:** 988 Lifeline, Crisis Text Line
-- **Student safety concern:** liz@themultiverse.school
-- **Policy questions:** aethrix@themultiverse.school
+- **Student safety concern:** [liz@themultiverse.school](mailto:liz@themultiverse.school)
+- **Policy questions:** [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school)
 - **Peer support:** Matrix ([matrix.themultiverse.school](https://matrix.themultiverse.school))
 
 ### When to Escalate
@@ -190,7 +190,7 @@ This handbook is a living document. If you:
 - Notice outdated information
 - Want to contribute a case study (anonymized)
 
-Please contact liz@themultiverse.school.
+Please contact [liz@themultiverse.school](mailto:liz@themultiverse.school).
 
 ---
 
