@@ -46,21 +46,26 @@ This handbook helps facilitators navigate the complex, rewarding work of support
 
 The philosophical framework above guides *how* we work. This section covers *where* to do it in the system. For step-by-step guides on each tool, see the **[Operations Guide](OPERATIONS_GUIDE.md)**.
 
+### Answering student email? Start here
+
+**[Inbox Playbook](inbox-playbook.md)** — find the email you got, follow the steps. Where to click, what you should see, what to write back, and when to hand it off.
+
+| Common task | How |
+|---|---|
+| Student paid but can't see their class | [Paid but no class](inbox-playbook.md#paid-but-no-class) |
+| Paid with a different email / two accounts | [Two emails, two accounts](inbox-playbook.md#two-emails-two-accounts) |
+| Can't log in | [Can't log in](inbox-playbook.md#cant-log-in) |
+| Needs the link to join class | [Class link](inbox-playbook.md#class-link) |
+| Resend a receipt | [Resend a receipt](inbox-playbook.md#resend-a-receipt) |
+| Add or remove someone from a class | [Add](inbox-playbook.md#add-someone-to-a-class) · [Remove](inbox-playbook.md#remove-someone-from-a-class) |
+| Scholarship questions | [Scholarships](inbox-playbook.md#scholarships) |
+| Refunds and deletions | [Refunds](inbox-playbook.md#refunds) · [Delete an account](inbox-playbook.md#delete-an-account) |
+
 ### Admin Dashboard
 
-All admin pages live at `/admin/*` in the main app ([themultiverse.school](https://themultiverse.school)). Log in with your admin account and navigate to any of these:
+Everything starts at the [Admin Dashboard](https://themultiverse.school/admin/dashboard). Log in with your admin account.
 
 ![Dashboard overview — stats and tab navigation](screenshots/dashboard-overview.jpg)
-
-| Page | What it's for |
-|---|---|
-| [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) | Main overview — students, classes, enrollment status |
-| [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) | Review scholarship applications, grant awards, track attendance gates |
-| [`/admin/community/submissions`](https://themultiverse.school/admin/community/submissions) | Moderate community resource submissions |
-| [`/admin/jobs`](https://themultiverse.school/admin/jobs) | Background job monitoring — enrollment pipeline, email sends, calendar syncs |
-| [`/admin/capstones`](https://themultiverse.school/admin/capstones) | Manage capstone ritual events (comedy nights, showcases) |
-| [`/admin/skill-map`](https://themultiverse.school/admin/skill-map) | Visual map of curriculum skills and dependencies |
-| [`/admin/db-api-tokens`](https://themultiverse.school/admin/db-api-tokens) | Manage developer database access tokens |
 
 The dashboard has three tabs:
 
@@ -88,7 +93,7 @@ The `students` table is the users table — everyone who logs in has a row, whet
 
 ### Good Faith Bench
 
-The [Good Faith Bench](/tools/good-faith-bench) is the operational tool for the triage and escalation work described throughout this handbook's case studies. It helps facilitators distinguish between genuine difficulty and bad-faith behavior using structured assessment rather than vibes.
+The [Good Faith Bench](https://themultiverse.school/tools/good-faith-bench) is the operational tool for the triage and escalation work described throughout this handbook's case studies. It helps facilitators distinguish between genuine difficulty and bad-faith behavior using structured assessment rather than vibes.
 
 Full decision framework: [`docs/BAD_FAITH_TRIAGE.md`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/BAD_FAITH_TRIAGE.md) in the school repo.
 

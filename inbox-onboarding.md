@@ -2,6 +2,8 @@
 
 *Everything you need for your first days on inbox duty. Work through each section in order, and check things off as you go.*
 
+> **Have an email open right now?** Go to the [Inbox Playbook](inbox-playbook.md) — find the email you got and follow the steps.
+
 ---
 
 ## Part 1 — Access
@@ -40,7 +42,7 @@ These aren't tests. They're things to try so you've seen them before a student a
 
 > **Be curious.** Poke around the admin pages, look up real students, click the links students click. The whole point of the docs and tools is that you don't have to memorize anything — you just need to know where to look.
 
-- [ ] **Look up a real student in [`/admin/student/<id>/crm`](https://themultiverse.school/admin/dashboard)** — Get a feel for what's there: what they bought, what they're enrolled in, what they can access. This is the page you'll live in.
+- [ ] **Look up a real student's page ([Student List](https://themultiverse.school/student_list) → **CRM**)** — Get a feel for what's there: what they bought, what they're enrolled in, what they can access. This is the page you'll live in.
 - [ ] **Find a charge in Stripe from an email address** — Then find the same person in the CRM page. Getting comfortable moving between Stripe and our admin is the core skill.
 - [ ] **Send yourself a durable classroom link and click it** — See what the student sees — the airlock page, the destination options. This is the link you'll send people constantly.
 - [ ] **Find a class recording the way a student would** — Open a class's curriculum page and watch a video from it. Then open one that has *no* videos, so you know both shapes before someone describes one to you.
@@ -84,23 +86,23 @@ Two mailboxes are monitored. That is the whole list.
 
 ### How to Look Things Up
 
-All require admin on your account. In roughly the order you'll reach for them.
+**Step-by-step for each of these is in the [Inbox Playbook](inbox-playbook.md).** All require admin on your account. In roughly the order you'll reach for them.
 
 | What you need | Where |
 |---|---|
-| Everything about one student | [`/admin/student/<id>/crm`](https://themultiverse.school/admin/dashboard) |
-| Their notes | [`/admin/student/<id>/notes`](https://themultiverse.school/admin/dashboard) |
-| Did enrollment complete | [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) |
-| Resend a receipt | `/admin/student/<id>/resend-receipt` |
-| Send a payment link | `/admin/student/<id>/send-payment-link` |
-| Re-trigger enrollment email | `/admin/api/student/<id>/retrigger-email` |
-| Enroll or unenroll by hand | [`/admin/enroll_student`](https://themultiverse.school/admin/enroll_student) |
-| Scholarships | [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) |
-| Form submissions that failed to save | [`/admin/form-fallback`](https://themultiverse.school/admin/form-fallback) |
-| Two accounts for one human | [`/admin/students/merge`](https://themultiverse.school/admin/students/merge) |
-| Deletion request | `/admin/student/<id>/gdpr-delete` |
-| Mutual aid queue | [`/admin/unmet-needs`](https://themultiverse.school/admin/unmet-needs) |
-| Class and schedule admin | [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) |
+| Everything about one student | [Student List](https://themultiverse.school/student_list) → search → **CRM** link. [How](inbox-playbook.md#find-a-student) |
+| Their notes | Their student page → **Admin Notes** |
+| Did enrollment complete | [Enrollment Status](https://themultiverse.school/admin/enrollment-status). [How](inbox-playbook.md#paid-but-no-class) |
+| Resend a receipt | Their student page → **Purchases** → **Resend Receipt**. [How](inbox-playbook.md#resend-a-receipt) |
+| Send a payment link | Scholarship students only, from the [Scholarship Queue](https://themultiverse.school/admin/scholarships). Everyone else: ask Megs or Liz. [How](inbox-playbook.md#payment-links) |
+| Re-send the welcome email | No button yet. Send them the class link, then ask in Operations. [How](inbox-playbook.md#paid-but-no-class) |
+| Enroll or unenroll by hand | [Manual Enrollment](https://themultiverse.school/admin/enroll_student) / student page → **Unenroll**. [How](inbox-playbook.md#add-someone-to-a-class) |
+| Scholarships | [Scholarship Queue](https://themultiverse.school/admin/scholarships). [How](inbox-playbook.md#scholarships) |
+| Form submissions that failed to save | [Form submission recovery](https://themultiverse.school/admin/form-fallback) (not on the dashboard — bookmark it). [How](inbox-playbook.md#a-form-didnt-go-through) |
+| Two accounts for one human | [Merge Duplicates](https://themultiverse.school/admin/students/merge) — preview only; Liz merges. [How](inbox-playbook.md#two-emails-two-accounts) |
+| Deletion request | Liz handles it. [How](inbox-playbook.md#delete-an-account) |
+| Mutual aid queue | [Unmet Needs](https://themultiverse.school/admin/unmet-needs) |
+| Class and schedule admin | [Admin Dashboard](https://themultiverse.school/admin/dashboard) |
 
 > **The admin dashboard has a database assistant tool.** If you need to look something up that isn't on one of the admin pages above, you can ask it a question in plain language and it will query the database for you.
 
@@ -125,7 +127,7 @@ Ordered by how much mail each actually generates.
 
 **What actually happened:** Checkout autofilled a different email than the one they use with us. Stripe is the source of truth, so enrollment attached to *that* email and created a second account.
 
-**How to check:** Look them up by both addresses in [`/admin/student/<id>/crm`](https://themultiverse.school/admin/dashboard), and search Stripe by the payment email. Two accounts, one human.
+**How to check:** Look them up by both addresses in the [Student List](https://themultiverse.school/student_list), and search Stripe by the payment email. Two accounts, one human.
 
 **The fix:** Update the email on the existing account, or move the enrollment to the right account. [`/admin/students/merge`](https://themultiverse.school/admin/students/merge) when there are genuinely two records. Don't tell them to make a new account.
 
@@ -136,7 +138,7 @@ Ordered by how much mail each actually generates.
 
 Sometimes this is the email mismatch above. Sometimes it's the batch job, which sweeps every ~10 minutes.
 
-**Check [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) before doing anything.** If it stalled, `/admin/api/student/<id>/retrigger-email` resends.
+**Check [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) before doing anything.** If a step failed, click **Retry All Failed**. There's no button to re-send the welcome email yet, so send them the class link yourself and ask in Operations. Full steps: [Paid but no class](inbox-playbook.md#paid-but-no-class).
 
 Enrollment mail lands in spam often enough that "check your junk folder" is a real first question, not a brush-off.
 
