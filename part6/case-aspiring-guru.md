@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study illustrates how to recognize premature transcendence, apply The Grounded Visionary Path, and handle escalation when boundaries are violated—through a liberatory pedagogy lens.
+This case study illustrates how to recognize premature transcendence, apply [The Grounded Visionary Path](../90_day_grounded_visionary_path.md), and handle escalation when boundaries are violated—through a liberatory pedagogy lens.
 
 **Key Lessons:**
 - Early intervention prevents harm

@@ -10,7 +10,7 @@ Student mentions:
 - Psychotic break with risk
 
 **ACTION:**
-1. Call 988 or provide crisis resources immediately
+1. Call [988](tel:988) or provide [crisis resources](../crisis_resource_appendix.md) immediately
 2. Do not attempt intervention alone
 3. Document everything thoroughly (timestamp, exact words, your response)
 4. Inform co-facilitators immediately if you have them
@@ -27,7 +27,7 @@ Student showing:
 
 **ACTION:**
 1. Use grounding language: "Are you safe right now?"
-2. Provide crisis resources (988, Crisis Text Line)
+2. Provide [crisis resources](../crisis_resource_appendix.md) ([988](https://988lifeline.org), [Crisis Text Line](https://www.crisistextline.org))
 3. Do not provide therapy
 4. Document the situation
 5. Inform co-facilitators if you have them, or consult with peer advisor

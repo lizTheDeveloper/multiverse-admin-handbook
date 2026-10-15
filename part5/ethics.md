@@ -349,7 +349,7 @@ Ask yourself:
 
 **However, you still have ethical obligations:**
 - Take suicidal ideation seriously
-- Refer to crisis resources (988)
+- Refer to crisis resources ([988](tel:988))
 - Document what was disclosed
 - Inform co-facilitators if you have them
 - Assess whether you believe person is in immediate danger
@@ -507,7 +507,7 @@ Ask yourself:
 
 **Ethical obligations:**
 1. Take it seriously
-2. Refer to crisis support (988)
+2. Refer to crisis support ([988](tel:988))
 3. Assess imminent risk
 4. Document
 5. Don't promise confidentiality you can't keep

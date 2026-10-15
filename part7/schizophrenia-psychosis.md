@@ -137,7 +137,7 @@ Students may show subtle changes weeks or months before obvious psychosis:
 
 **Not psychosis:** Spiritual experiences within cultural context, metaphorical language, or neurodivergent intensity. Psychosis involves loss of insight (can't consider they might be wrong) and functional impairment.
 
-**Overlap with mania:** See "When Vision Becomes Delusion" guide. Mania and psychosis can co-occur.
+**Overlap with mania:** See ["When Vision Becomes Delusion" guide](../part2/vision-vs-delusion.md). Mania and psychosis can co-occur.
 
 ---
 
@@ -206,7 +206,7 @@ Students may show subtle changes weeks or months before obvious psychosis:
 - "When did you last sleep/eat?"
 
 **If YES to harm:**
-- Immediate action (988, crisis services, possibly 911)
+- Immediate action ([988](https://988lifeline.org), crisis services, possibly 911)
 - Don't try to manage alone
 - Document thoroughly and inform co-facilitators if you have them
 
@@ -220,8 +220,8 @@ Students may show subtle changes weeks or months before obvious psychosis:
 ### Step 3: Provide Resources & Document
 
 **Provide:**
-- 988 Suicide & Crisis Lifeline (trained for psychosis)
-- Crisis Text Line: text HOME to 741741
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org) (trained for psychosis)
+- [Crisis Text Line](https://www.crisistextline.org): text HOME to [741741](sms:741741)
 - Local psychiatric emergency services
 - Encourage contacting family, therapist, or doctor
 
@@ -360,11 +360,11 @@ Many students with psychosis, including schizophrenia, return to education succe
 
 ### Peer Support
 - **Students With Psychosis (SWP)** — Global nonprofit for students (sws.ngo)
-- **NAMI** — Family and peer support groups
-- **Hearing Voices Network** — Peer support for people who hear voices
+- **[NAMI](https://nami.org)** — Family and peer support groups
+- **[Hearing Voices Network](https://hearing-voices.org)** — Peer support for people who hear voices
 
 ### Non-Medical Approaches
-- **ISPS-US** (International Society for Psychological and Social Approaches to Psychosis)
+- **[ISPS-US](https://isps-us.org)** (International Society for Psychological and Social Approaches to Psychosis)
 - Open Dialogue, Soteria models
 - Emphasize relationship, meaning-making, and recovery
 
@@ -482,7 +482,7 @@ Then involuntary intervention may become necessary—but this should be a last r
 ## Resources
 
 ### For Students
-- **988 Suicide & Crisis Lifeline:** Call or text 988
+- **[988 Suicide & Crisis Lifeline](https://988lifeline.org):** Call or text [988](tel:988)
 - **Strong 365:** First episode psychosis support [strong365.org](https://strong365.org)
 - **Students With Psychosis (SWP):** [sws.ngo](https://sws.ngo)
 - **NAMI:** Education and support groups [nami.org](https://nami.org)

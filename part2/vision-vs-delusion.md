@@ -118,7 +118,7 @@ This is a common confusion point. Both can look like intense, driven, "unstoppab
 - Rushed timeline
 - Recruiting others before planning
 
-**Your response:** Refer to **The Grounded Visionary Path**. "I love your enthusiasm. We have a 90-day incubation track to help ground big visions. You'll need to complete that before recruiting or launching."
+**Your response:** Refer to **[The Grounded Visionary Path](../90_day_grounded_visionary_path.md)**. "I love your enthusiasm. We have a 90-day incubation track to help ground big visions. You'll need to complete that before recruiting or launching."
 
 ---
 
@@ -158,7 +158,7 @@ This is a common confusion point. Both can look like intense, driven, "unstoppab
 
 ## The 90-Day Pause: Why It Works
 
-**The Grounded Visionary Path** helps by:
+**[The Grounded Visionary Path](../90_day_grounded_visionary_path.md)** helps by:
 1. **Creating distance** between impulse and action
 2. **Testing sustainability** — If they can't follow through on the 90-day process, they can't lead a project
 3. **Building skills** — The incubation track teaches planning, budgeting, safety
@@ -187,7 +187,7 @@ Many neurodivergent people have deep spiritual experiences. Some are having psyc
 - **Rigid:** Only one truth, no room for doubt
 - **Dangerous:** Making risky decisions based on visions/voices
 
-**Refer to:** Spiritual Emergence Network, AASPIRE crisis resources, 988 Lifeline
+**Refer to:** Spiritual Emergence Network, [AASPIRE](https://aaspire.org/) crisis resources, [988 Lifeline](https://988lifeline.org)
 
 ---
 
@@ -226,7 +226,7 @@ You are not a clinician. Refer to professionals when you observe:
 - Rapid personality changes
 - Loss of functioning (can't work, eat, maintain hygiene)
 
-**Crisis resources:** 988 Lifeline, Crisis Text Line (741741), AASPIRE mental health resources
+**Crisis resources:** [988 Lifeline](https://988lifeline.org), [Crisis Text Line](https://www.crisistextline.org) ([741741](sms:741741)), [AASPIRE](https://aaspire.org/) mental health resources
 
 ---
 

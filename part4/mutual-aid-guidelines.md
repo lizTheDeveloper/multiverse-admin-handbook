@@ -276,7 +276,7 @@ Mutual aid is a beautiful practice where community members support each other. I
 
 ### Scenario 2: Someone Needs a Place to Stay
 
-**Important:** See the Cohabitation Policy for additional rules about living together.
+**Important:** See the [Cohabitation Policy](cohabitation-policy.md) for additional rules about living together.
 
 **You can:**
 - Offer to host for a specific, limited time ("You can stay 1 week")
@@ -289,7 +289,7 @@ Mutual aid is a beautiful practice where community members support each other. I
 - Create a situation where they feel indebted to you
 
 **Critical boundary:**
-> If someone is staff, a teacher, a mentor, or in any formal power relationship with you, you CANNOT live with them. See Cohabitation Policy.
+> If someone is staff, a teacher, a mentor, or in any formal power relationship with you, you CANNOT live with them. See [Cohabitation Policy](cohabitation-policy.md).
 
 ---
 
@@ -383,7 +383,7 @@ Mutual aid is a beautiful practice where community members support each other. I
 - Ongoing financial support creating dependency
 - Romantic coercion through gifts
 - Teachers/mentors giving money to students/mentees
-- Cohabitation (see Cohabitation Policy)
+- Cohabitation (see [Cohabitation Policy](cohabitation-policy.md))
 
 ---
 
@@ -391,7 +391,7 @@ Mutual aid is a beautiful practice where community members support each other. I
 
 **Staff/Teachers/Mentors should NOT:**
 - Give money to students (creates obligation/power imbalance)
-- Live with students (see Cohabitation Policy)
+- Live with students (see [Cohabitation Policy](cohabitation-policy.md))
 - Create financial dependency
 - Use resources to gain influence
 

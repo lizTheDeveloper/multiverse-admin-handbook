@@ -267,7 +267,7 @@ Sam reads and summarizes codes of conduct from:
 
 ### Week 9: Safety Protocol
 Sam writes a protocol for:
-- Mental health crisis (refer to 988, not moderator responsibility)
+- Mental health crisis (refer to [988](https://988lifeline.org), not moderator responsibility)
 - Conflict between members (de-escalation process, timeout structure)
 - Harassment (immediate action, documentation, removal if needed)
 - Someone becomes unhoused/unstable (resources, not rescue)
@@ -432,7 +432,7 @@ Sam reflects:
 - Vision is ambitious but grounded in reality
 - Follows through on structured process
 
-### Mania (See "Aspiring Guru" case study)
+### Mania (See ["Aspiring Guru" case study](case-aspiring-guru.md))
 - Grandiose beliefs ("I'm chosen to transform education")
 - Can't pause or reflect—driven quality
 - Rejects feedback, gets defensive
