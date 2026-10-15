@@ -11,7 +11,7 @@ Ask for all of this at once, on day one. Half of it requires someone else to act
 - [ ] **`liz@` mailbox access** — This *is* the inbox. Student mail, refund requests, escalations, the weekly schedule. The primary address you'll be working from. *Verify: You can read liz@ and compose as it*
 - [ ] **`aethrix@` mailbox access** — Automated student mail lands here — receipts, enrollment, magic links, digests. The second monitored address. *Verify: You can read aethrix@ and compose as it*
 - [ ] **Site account with admin flag** — Log in via magic link at [themultiverse.school/login](https://themultiverse.school/login). Once your account exists, Liz sets `admin = true` on your row so every `/admin/*` page works. *Verify: [/admin/dashboard](https://themultiverse.school/admin/dashboard) loads*
-- [ ] **Matrix account + staff rooms** — Where students and staff actually talk. Sign in via Element, homeserver `matrix.themultiverse.school`. *Verify: You're in the staff room and can send a message*
+- [ ] **Matrix account + staff rooms** — Where students and staff actually talk. Sign in via Element, homeserver [`matrix.themultiverse.school`](https://matrix.themultiverse.school). *Verify: You're in the staff room and can send a message*
 - [ ] **Stripe dashboard (read-only)** — Confirming what someone actually paid, and under which email. Ask Liz for an Analyst invite. *Verify: You can find a charge from an email address*
 - [ ] **Google Drive & Calendar** — Approving recording access requests and checking class times. *Verify: You can open a class recording folder and see this week's classes*
 
@@ -26,7 +26,7 @@ Read in this order — each one assumes the last. The point is the takeaway, not
 - [ ] **[INBOX_HANDBOOK.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md), sections 1–4** — What "done" means, which addresses are real, the five-minute mental model, and what to do when the mail isn't a support ticket. Section 4 is the one to have read before you need it.
 - [ ] **[INBOX_HANDBOOK.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md), sections 5–9** — The FAQ, the lookup table, the escalation tree, and the map. Skim now, return constantly.
 - [ ] **[MATRIX_STUDENT_SUPPORT.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/MATRIX_STUDENT_SUPPORT.md)** — The privacy ceiling and the two meanings of "verified". Also the best example of what a good runbook looks like.
-- [ ] **[Student handbook repo](https://github.com/lizTheDeveloper/multiverse-admin-handbook)** — Skim the code of conduct and the emergency flowchart. Know it exists and roughly what's in it.
+- [ ] **[Student handbook repo](https://github.com/lizTheDeveloper/multiverse-admin-handbook)** — Skim the [code of conduct](part4/multiverse-code-of-conduct.md) and the [emergency flowchart](quick-reference/emergency-flowchart.md). Know it exists and roughly what's in it.
 - [ ] **[Terms page](https://themultiverse.school/terms) & [/forms/scholarship](https://themultiverse.school/forms/scholarship)** — Read what we have actually promised students, in the words they read.
 - [ ] **[OWNERSHIP_AREAS.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/OWNERSHIP_AREAS.md)** — Who to hand a thing to.
 - [ ] **[GDPR_DATA_RETENTION.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/GDPR_DATA_RETENTION.md)** — What deletion deletes and what it keeps.
@@ -79,7 +79,7 @@ Two mailboxes are monitored. That is the whole list.
 - **Stripe is the source of truth for enrollment.** Never fix an enrollment by editing a table directly — the batch job will overwrite it.
 - **Three enrollment paths exist**, and a batch job sweeps every ~10 minutes as a safety net. So "I paid and nothing happened" is often ten minutes old and about to resolve itself.
 - **Curriculum access comes from enrollment**, not from a per-student grant. A student can see a curriculum if they're enrolled in any class whose `curriculum_slug` matches.
-- **Community chat is Matrix**, self-hosted. Students use the Element app. Homeserver: `matrix.themultiverse.school`. User IDs read `@name:themultiverse.school`.
+- **Community chat is Matrix**, self-hosted. Students use the Element app. Homeserver: [`matrix.themultiverse.school`](https://matrix.themultiverse.school). User IDs read `@name:themultiverse.school`.
 - **The durable classroom link** is `/classroom/<class_id>` — permanent, always safe to send. Never paste a raw Google Meet URL.
 
 ### How to Look Things Up
@@ -187,7 +187,7 @@ Full runbook: [MATRIX_STUDENT_SUPPORT.md](https://github.com/lizTheDeveloper/the
 
 - **"I can't get verified"** almost always means Element's encryption prompt, not us checking their enrollment.
 - **Class rooms are unencrypted; DMs are encrypted.** A student who can't read DMs can still use class chat — and can't be helped by DM either.
-- The homeserver is `matrix.themultiverse.school`; user IDs read `@name:themultiverse.school`. Typing the wrong one is a common login failure.
+- The homeserver is [`matrix.themultiverse.school`](https://matrix.themultiverse.school); user IDs read `@name:themultiverse.school`. Typing the wrong one is a common login failure.
 
 "I need an invite to the room" is usually enrollment, not Matrix.
 
@@ -250,7 +250,7 @@ Say so, and say when you'll come back. **"I want to get this right — let me ch
 
 Scholarship and unmet-needs submissions describe food and housing instability. Treat them with care and discretion. Don't share details in chat — describe the shape of the problem, not the person.
 
-If a student tells you they're in crisis: ask "are you safe right now?", share crisis resources (988 Suicide & Crisis Lifeline, Crisis Text Line: text HOME to 741741), and escalate to Liz. **You are not expected to handle this alone.**
+If a student tells you they're in crisis: ask "are you safe right now?", share crisis resources ([988 Suicide & Crisis Lifeline](https://988lifeline.org), [Crisis Text Line](https://www.crisistextline.org): text HOME to [741741](sms:741741)), and escalate to Liz. **You are not expected to handle this alone.**
 
 ---
 
@@ -271,8 +271,8 @@ Areas are assigned, not issues. When something needs to go to someone else, send
 
 | Address | Role |
 |---|---|
-| `liz@themultiverse.school` | The inbox. Student mail, refunds, escalations, weekly schedule. |
-| `aethrix@themultiverse.school` | Automated student mail. Receipts, enrollment, magic links, digests. |
+| [`liz@themultiverse.school`](mailto:liz@themultiverse.school) | The inbox. Student mail, refunds, escalations, weekly schedule. |
+| [`aethrix@themultiverse.school`](mailto:aethrix@themultiverse.school) | Automated student mail. Receipts, enrollment, magic links, digests. |
 | `care@themultiverse.school` | Send-only. Mutual-aid replies. |
 | `matching@themultiverse.school` | Send-only. CRM drafts. |
 

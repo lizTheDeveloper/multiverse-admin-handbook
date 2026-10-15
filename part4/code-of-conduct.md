@@ -348,7 +348,7 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 
 **Example:**
 
-**Student A:** Sends late-night crisis messages because they're in active mental health crisis and don't know about 988
+**Student A:** Sends late-night crisis messages because they're in active mental health crisis and don't know about [988](tel:988)
 **Student B:** Sends late-night crisis messages as a pattern to get attention/connection with specific teacher
 
 **The WHAT is the same:** Repeated late-night messages outside boundaries
@@ -468,7 +468,7 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 >
 > You can contact me at [email] if you have questions. This decision is final for the duration stated, but we're open to discussing return once conditions are met."
 
-*(See removal-reentry.md for detailed templates)*
+*(See [removal-reentry.md](removal-reentry.md) for detailed templates)*
 
 ---
 
@@ -484,7 +484,7 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 >
 > [If applicable: We are also publicly disaffiliating, meaning we'll clarify to our community that you are not affiliated with us.]"
 
-*(See removal-reentry.md for detailed templates)*
+*(See [removal-reentry.md](removal-reentry.md) for detailed templates)*
 
 ---
 

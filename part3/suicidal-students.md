@@ -30,7 +30,7 @@
 2. **Stay calm** — Your calm helps them feel safer
 3. **Listen without judgment** — Don't minimize or dismiss
 4. **Assess immediacy** — Are they in danger right now?
-5. **Connect to crisis support** — 988 Lifeline, Crisis Text Line
+5. **Connect to crisis support** — [988 Lifeline](https://988lifeline.org), [Crisis Text Line](https://www.crisistextline.org)
 6. **Document** — What they said, what you did
 7. **Inform co-facilitators** — If you have them, inform them same day
 
@@ -54,7 +54,7 @@
 > "I'm really glad you told me that. Those thoughts can be really scary and painful. Have you talked to a therapist or counselor about this?"
 
 **Action:**
-- Provide crisis resources (988, Crisis Text Line)
+- Provide crisis resources ([988](tel:988), [Crisis Text Line](https://www.crisistextline.org))
 - Encourage connection to therapy
 - Document and document thoroughly
 - Check in regularly
@@ -140,7 +140,7 @@
 1. Screenshot/document the message
 2. Inform co-facilitators immediately if you have them
 3. If you have emergency contact info for student, consider using it
-4. Call 988 yourself to report and ask for guidance
+4. Call [988](tel:988) yourself to report and ask for guidance
 5. Do NOT promise confidentiality
 6. Do NOT carry this alone—call 988 for professional guidance
 
@@ -186,7 +186,7 @@
 
 ❌ **Don't promise confidentiality:**
 - "This stays between us" (You may need to break this)
-- "I won't tell anyone" (You will tell admin and may call 988)
+- "I won't tell anyone" (You will tell admin and may call [988](tel:988))
 
 ❌ **Don't debate:**
 - "Suicide isn't the answer"
@@ -258,35 +258,35 @@
 
 ## Crisis Resources to Provide
 
-### 988 Suicide & Crisis Lifeline
-- **Call or text:** 988
-- **Chat:** 988lifeline.org
+### [988 Suicide & Crisis Lifeline](https://988lifeline.org)
+- **Call or text:** [988](tel:988)
+- **Chat:** [988lifeline.org](https://988lifeline.org)
 - **24/7, free, confidential**
 - Trained crisis counselors
 - Available for anyone in suicidal crisis or emotional distress
 
-### Crisis Text Line
-- **Text HOME to 741741**
+### [Crisis Text Line](https://www.crisistextline.org)
+- **Text HOME to [741741](sms:741741)**
 - 24/7, free, confidential
 - For those who prefer texting
 
-### Trevor Project (LGBTQ+ Youth)
-- **Call:** 1-866-488-7386
-- **Text START to 678-678**
-- **Chat:** thetrevorproject.org
+### [Trevor Project](https://www.thetrevorproject.org) (LGBTQ+ Youth)
+- **Call:** [1-866-488-7386](tel:18664887386)
+- **Text START to [678-678](sms:678678)**
+- **Chat:** [thetrevorproject.org](https://www.thetrevorproject.org)
 
-### Trans Lifeline
-- **US:** 877-565-8860
-- **Canada:** 877-330-6366
+### [Trans Lifeline](https://translifeline.org)
+- **US:** [877-565-8860](tel:18775658860)
+- **Canada:** [877-330-6366](tel:18773306366)
 - Trans-led, by and for trans people
 
-### Veterans Crisis Line
-- **Call:** 988, then press 1
-- **Text:** 838255
-- **Chat:** veteranscrisisline.net
+### [Veterans Crisis Line](https://www.veteranscrisisline.net)
+- **Call:** [988](tel:988), then press 1
+- **Text:** [838255](sms:838255)
+- **Chat:** [veteranscrisisline.net](https://www.veteranscrisisline.net)
 
-### SAMHSA National Helpline
-- **Call:** 1-800-662-4357
+### [SAMHSA National Helpline](https://www.samhsa.gov/find-help/helplines/national-helpline)
+- **Call:** [1-800-662-4357](tel:18006624357)
 - Substance abuse and mental health services
 - Referrals to local treatment
 
@@ -322,7 +322,7 @@ You are **probably NOT a mandatory reporter** if:
 3. **Documentation** — Protects you if something happens
 4. **Referral to resources** — You can help without overstepping
 
-**Best practice:** Treat suicidal ideation seriously, refer to 988, document, and document thoroughly—not because you're legally required, but because it's the right thing to do and it protects everyone.
+**Best practice:** Treat suicidal ideation seriously, refer to [988](tel:988), document, and document thoroughly—not because you're legally required, but because it's the right thing to do and it protects everyone.
 
 ### What "No Mandatory Reporting" Means
 
@@ -397,7 +397,7 @@ You are **probably NOT a mandatory reporter** if:
 
 3. **Set boundaries**
    - You're a teacher, not a crisis counselor
-   - It's okay to refer to 988 and step back
+   - It's okay to refer to [988](tel:988) and step back
    - You can care AND maintain boundaries
 
 4. **Seek your own support**
@@ -457,7 +457,7 @@ You are **probably NOT a mandatory reporter** if:
 ## Key Principles
 
 1. **Take all mentions seriously** — Even jokes or "casual" references
-2. **Your role is to refer, not treat** — Connect to 988, don't be the crisis counselor
+2. **Your role is to refer, not treat** — Connect to [988](tel:988), don't be the crisis counselor
 3. **You cannot keep someone alive alone** — This requires professional help
 4. **Boundaries are essential** — For your wellbeing and theirs
 5. **Document everything** — Protects everyone
@@ -473,7 +473,7 @@ You are **probably NOT a mandatory reporter** if:
 
 **Assess risk:**
 - **Passive thoughts** → Provide resources, document, document thoroughly, check in
-- **Active ideation** → 988 referral, stay with them, document thoroughly immediately
+- **Active ideation** → [988](tel:988) referral, stay with them, document thoroughly immediately
 - **Imminent plan** → 988 or 911, do not leave them alone, document thoroughly
 
 **After crisis:**
@@ -483,11 +483,11 @@ You are **probably NOT a mandatory reporter** if:
 
 ## Resources for Teachers
 
-- **988 Lifeline for Educators:** Guidance on responding to student suicidal ideation
-- **AFSP (American Foundation for Suicide Prevention):** afsp.org — Training and resources
-- **SAVE (Suicide Awareness Voices of Education):** save.org
-- **JED Foundation:** jedfoundation.org — Mental health resources for young adults
-- **SPRC (Suicide Prevention Resource Center):** sprc.org
+- **[988 Lifeline](https://988lifeline.org) for Educators:** Guidance on responding to student suicidal ideation
+- **AFSP (American Foundation for Suicide Prevention):** [afsp.org](https://afsp.org) — Training and resources
+- **SAVE (Suicide Awareness Voices of Education):** [save.org](https://save.org)
+- **JED Foundation:** [jedfoundation.org](https://jedfoundation.org) — Mental health resources for young adults
+- **SPRC (Suicide Prevention Resource Center):** [sprc.org](https://sprc.org)
 
 ---
 

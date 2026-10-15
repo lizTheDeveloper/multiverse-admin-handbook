@@ -269,7 +269,7 @@ From 2024 research on ADHD educators and burnout:
 
 #### 5. Reduce Emotional Labor
 - Not every student crisis is yours to solve
-- Refer to appropriate resources (988, therapists, crisis services)
+- Refer to appropriate resources ([988](tel:988), therapists, crisis services)
 - Detach with compassion: "I care AND I'm not responsible for this"
 
 ---
@@ -414,9 +414,9 @@ From 2024 research on ADHD educators and burnout:
 - **Therapist Neurodiversity Collective:** Neurodivergent-affirming therapists
 
 ### For Teacher Burnout
-- **NAMI (National Alliance on Mental Illness):** Support and resources
+- **[NAMI (National Alliance on Mental Illness)](https://www.nami.org):** Support and resources
 - **Teacher Support Network:** Peer support
-- **988 Lifeline:** If you're in crisis
+- **[988 Lifeline](https://988lifeline.org):** If you're in crisis
 - **Your local Employee Assistance Program (EAP)**
 
 ### Recommended Reading

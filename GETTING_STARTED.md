@@ -30,19 +30,19 @@ Before anything else, make sure your accounts are set up:
 
 ### New Teachers
 **Week 1:**
-- Read all of Part I (Understanding Our Students)
+- Read all of [Part I (Understanding Our Students)](part1/student-profile.md)
 - Review [Boundaries for Educators](part5/teacher-boundaries.md)
 - Study [De-escalation Scripts](part3/de-escalation-scripts.md)
 
 **Week 2:**
-- Read Part II (Recognition & Early Intervention)
+- Read [Part II (Recognition & Early Intervention)](mod_guide_unstable_students.md)
 - Review [Documentation Best Practices](part3/documentation.md)
 - Read at least one [Case Study](part6/case-aspiring-guru.md)
 
 **Ongoing:**
-- Review crisis protocols quarterly
+- Review [crisis protocols](teacher_escalation_protocol.md) quarterly
 - Debrief with other teachers after difficult situations
-- Revisit boundaries section when you feel overwhelmed
+- Revisit [boundaries section](part5/teacher-boundaries.md) when you feel overwhelmed
 
 ### Moderators
 **Priority Reading:**
@@ -56,9 +56,9 @@ Before anything else, make sure your accounts are set up:
 **Strategic Sections:**
 1. All moderator readings (above)
 2. [Research Sources](part7/research-sources.md) - Evidence base
-3. Case studies for pattern recognition
-4. Legal considerations (when available)
-5. Removal & re-entry guidelines (when available)
+3. [Case studies](part6/case-aspiring-guru.md) for pattern recognition
+4. [Legal considerations](part7/legal-considerations.md) (when available)
+5. [Removal & re-entry guidelines](part4/removal-reentry.md) (when available)
 
 **System Operations:** (see the full **[Operations Guide](OPERATIONS_GUIDE.md)** for step-by-step instructions on each tool)
 
@@ -72,8 +72,8 @@ The admin dashboard is at [`/admin/dashboard`](https://themultiverse.school/admi
   - Granting a scholarship also awards a pathway-scoped track pass when a pathway can be resolved
 - **Good Faith Bench** ([`/tools/good-faith-bench`](https://themultiverse.school/tools/good-faith-bench)) — Use this for the triage work described in the case studies. It operationalizes the escalation protocols with structured assessment. The full decision framework is in `docs/BAD_FAITH_TRIAGE.md`.
 - **Removal** — When removal is the right decision (see [Student Removal & Re-entry](part4/removal-reentry.md)), the system field is `is_expelled` on the student record. This is the mechanism behind the process described in Facilitator Commitment #7.
-- **Class setup** — Before publishing a new class, walk through `docs/TEACHER_CLASS_SETUP_CHECKLIST.md`.
-- **Job monitoring** ([`/admin/jobs`](https://themultiverse.school/admin/jobs)) — Watch background jobs (enrollment pipeline, email sends, calendar syncs). The enrollment system has three paths and is fragile — see `docs/ENROLLMENT_ARCHITECTURE.md` before touching anything.
+- **Class setup** — Before publishing a new class, walk through [`docs/TEACHER_CLASS_SETUP_CHECKLIST.md`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/TEACHER_CLASS_SETUP_CHECKLIST.md).
+- **Job monitoring** ([`/admin/jobs`](https://themultiverse.school/admin/jobs)) — Watch background jobs (enrollment pipeline, email sends, calendar syncs). The enrollment system has three paths and is fragile — see [`docs/ENROLLMENT_ARCHITECTURE.md`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/ENROLLMENT_ARCHITECTURE.md) before touching anything.
 
 ---
 
@@ -110,14 +110,14 @@ The admin dashboard is at [`/admin/dashboard`](https://themultiverse.school/admi
 ## How to Use This Book
 
 ### As a Reference (Most Common)
-- Use the quick reference section for in-the-moment decisions
+- Use the [quick reference section](quick-reference/emergency-flowchart.md) for in-the-moment decisions
 - Search for specific scenarios
 - Bookmark crisis resources and scripts
 
 ### As Training Material
 - Assign sections for new teacher onboarding
 - Discuss case studies in team meetings
-- Role-play scenarios from the scenario library
+- Role-play scenarios from the [scenario library](part6/scenario-library.md)
 - Review protocols quarterly
 
 ### As a Living Document
@@ -130,35 +130,35 @@ The admin dashboard is at [`/admin/dashboard`](https://themultiverse.school/admi
 
 ## Quick Access: Most-Used Pages
 
-1. **Crisis Resources** - For emergencies
-2. **De-escalation Scripts** - For difficult conversations
-3. **Boundary Violations** - For repeated issues
-4. **Documentation Template** - For recording incidents
-5. **Emergency Flowchart** - For quick decisions
+1. **[Crisis Resources](crisis_resource_appendix.md)** - For emergencies
+2. **[De-escalation Scripts](part3/de-escalation-scripts.md)** - For difficult conversations
+3. **[Boundary Violations](part2/boundary-violations.md)** - For repeated issues
+4. **[Documentation Template](part3/documentation.md)** - For recording incidents
+5. **[Emergency Flowchart](quick-reference/emergency-flowchart.md)** - For quick decisions
 
 ---
 
 ## Understanding the Structure
 
-### Part I: Understanding Our Students
+### [Part I: Understanding Our Students](part1/student-profile.md)
 Who they are, why they're here, what they need
 
-### Part II: Recognition & Early Intervention
+### [Part II: Recognition & Early Intervention](mod_guide_unstable_students.md)
 Spotting warning signs before they become crises
 
-### Part III: Protocols & Response
+### [Part III: Protocols & Response](teacher_escalation_protocol.md)
 What to do when issues arise
 
-### Part IV: Programs & Policies
+### [Part IV: Programs & Policies](so_you_want_to_build_a_school.md)
 Structured approaches to common challenges
 
-### Part V: Teacher Self-Care & Ethics
+### [Part V: Teacher Self-Care & Ethics](part5/teacher-boundaries.md)
 Taking care of yourself while serving others
 
-### Part VI: Case Studies & Scenarios
+### [Part VI: Case Studies & Scenarios](part6/case-aspiring-guru.md)
 Real examples to learn from
 
-### Part VII: Appendices
+### [Part VII: Appendices](LIBERATORY_FRAMEWORK.md)
 Research, resources, and reference materials
 
 ---
@@ -166,7 +166,7 @@ Research, resources, and reference materials
 ## Getting Help
 
 ### Who to Contact
-- **Immediate crisis:** 988 Lifeline, Crisis Text Line
+- **Immediate crisis:** [988 Lifeline](https://988lifeline.org), [Crisis Text Line](https://www.crisistextline.org)
 - **Student safety concern:** [liz@themultiverse.school](mailto:liz@themultiverse.school)
 - **Policy questions:** [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school)
 - **Peer support:** Matrix ([matrix.themultiverse.school](https://matrix.themultiverse.school))

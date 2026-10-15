@@ -82,7 +82,7 @@ The `students` table is the users table — everyone who logs in has a row, whet
 
 - **`admin`** — Grants admin dashboard access
 - **`researcher`** — Grants research-level curriculum access (all materials)
-- **`scholarship`** — Marks scholarship recipients. These students have attendance gates: they must maintain participation in Go to Market standup (or Make and Do Hour) to keep access. See the scholarship section in GETTING_STARTED.md for details.
+- **`scholarship`** — Marks scholarship recipients. These students have attendance gates: they must maintain participation in Go to Market standup (or Make and Do Hour) to keep access. See the scholarship section in [GETTING_STARTED.md](GETTING_STARTED.md) for details.
 - **`is_expelled`** — Removal from the platform. This is the system mechanism for the removal decisions described in [Student Removal & Re-entry](part4/removal-reentry.md) and Commitment #7 in [Facilitator Commitments](FACILITATOR_COMMITMENTS.md).
 - **`membership_level`** / **`support_tier`** — Subscription status. Support tiers (supporter/sustainer/patron) grant curriculum access at different levels.
 
@@ -90,7 +90,7 @@ The `students` table is the users table — everyone who logs in has a row, whet
 
 The [Good Faith Bench](/tools/good-faith-bench) is the operational tool for the triage and escalation work described throughout this handbook's case studies. It helps facilitators distinguish between genuine difficulty and bad-faith behavior using structured assessment rather than vibes.
 
-Full decision framework: `docs/BAD_FAITH_TRIAGE.md` in the school repo.
+Full decision framework: [`docs/BAD_FAITH_TRIAGE.md`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/BAD_FAITH_TRIAGE.md) in the school repo.
 
 ### Enrollment Architecture
 
@@ -98,7 +98,7 @@ Enrollment has three coexisting paths — a real-time Stripe webhook, a connecte
 
 **Do NOT manually edit enrollment tables** (`student_classes`, `purchases`). Stripe is the source of truth — manual changes will be overwritten.
 
-Full documentation: `docs/ENROLLMENT_ARCHITECTURE.md` in the school repo.
+Full documentation: [`docs/ENROLLMENT_ARCHITECTURE.md`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/ENROLLMENT_ARCHITECTURE.md) in the school repo.
 
 ### Communication Channels
 
@@ -108,14 +108,14 @@ Full documentation: `docs/ENROLLMENT_ARCHITECTURE.md` in the school repo.
 
 ### Class Setup
 
-Before publishing a new class, use the teacher-facing checklist: `docs/TEACHER_CLASS_SETUP_CHECKLIST.md` in the school repo.
+Before publishing a new class, use the teacher-facing checklist: [`docs/TEACHER_CLASS_SETUP_CHECKLIST.md`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/TEACHER_CLASS_SETUP_CHECKLIST.md) in the school repo.
 
 ### Paths, Tracks & Programs
 
 The school organizes learning into:
 - **Tracks** — Thematic groupings of classes (e.g., Defender, Independence). $250/month per track.
 - **Paths** — Student-facing learning journeys with dashboards at [`/paths`](https://themultiverse.school/paths).
-- **Programs** — Data-driven pages at `/programs/<slug>` with curriculum summaries and schedules. See the [student handbook](https://themultiverse.school/handbook) for how students experience them.
+- **Programs** — Data-driven pages at [`/programs/<slug>`](https://themultiverse.school/programs) with curriculum summaries and schedules. See the [student handbook](https://themultiverse.school/handbook) for how students experience them.
 - **Support tiers** — $60 (interest), $250 (learning), $500 (full access) monthly subscriptions.
 
 ### Campus (the Spatial World)

@@ -132,7 +132,7 @@ the email address it was sent to.
 ![Confirmation — check your email](images/login-step3-confirmation.png)
 
 **Step 4.** Check the inbox for that email address (and the spam/junk
-folder). Look for an email from **aethrix@themultiverse.school**. Click
+folder). Look for an email from **[aethrix@themultiverse.school](mailto:aethrix@themultiverse.school)**. Click
 the link in the email — it logs you in and creates the account if it does
 not already exist.
 
@@ -185,7 +185,7 @@ curl -X PUT \
 2. Send them the username (`@firstname:themultiverse.school`) and temporary
    password over a secure channel.
 3. Have them sign in via [Element](https://element.io) or another Matrix
-   client, using the homeserver `matrix.themultiverse.school`.
+   client, using the homeserver [`matrix.themultiverse.school`](https://matrix.themultiverse.school).
 4. Invite them to the staff room(s) and at least one class room.
 
 **Verify:** They are in the staff room and can send a message.
@@ -243,7 +243,7 @@ SET admin = true
 WHERE email = 'firstname@themultiverse.school';
 ```
 
-**Verify:** They can load `/admin/dashboard`.
+**Verify:** They can load [`/admin/dashboard`](https://themultiverse.school/admin/dashboard).
 
 ---
 
@@ -251,7 +251,7 @@ WHERE email = 'firstname@themultiverse.school';
 
 **Roles:** Inbox
 
-`aethrix@themultiverse.school` is the primary school inbox. Nearly all
+[`aethrix@themultiverse.school`](mailto:aethrix@themultiverse.school) is the primary school inbox. Nearly all
 student email sends from and arrives at this address.
 
 1. Sign in to [Google Admin Console](https://admin.google.com).
@@ -265,7 +265,7 @@ Alternatively, from the `aethrix@` Gmail directly:
 2. Add their address.
 
 **Verify:** They can open Gmail, switch to the `aethrix@` inbox, and read
-messages. They can compose a message *as* `aethrix@themultiverse.school`.
+messages. They can compose a message *as* [`aethrix@themultiverse.school`](mailto:aethrix@themultiverse.school).
 
 ---
 
@@ -304,7 +304,7 @@ Needed for diagnosing "the email never arrived" support requests.
 All production secrets are stored in the self-hosted Vaultwarden (Bitwarden-
 compatible) instance. Never distribute credentials outside the vault.
 
-1. Go to the Vaultwarden admin panel at `https://37.27.36.108:8443/admin`.
+1. Go to the Vaultwarden admin panel at [`https://37.27.36.108:8443/admin`](https://37.27.36.108:8443/admin).
 2. Invite the new staff member by their `@themultiverse.school` email.
 3. They accept the invite, create their vault account, and install the
    Bitwarden CLI (`bw`).
@@ -312,7 +312,7 @@ compatible) instance. Never distribute credentials outside the vault.
 **Verify:** They can run `bw login` and `bw unlock`, then retrieve a test
 item.
 
-**Important:** New staff should read the rules in `CLAUDE.md` under "Secrets
+**Important:** New staff should read the rules in [`CLAUDE.md`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/CLAUDE.md) under "Secrets
 Management" — never commit secrets, never print them in full, never modify
 vault items unless you are certain about what you are doing.
 
@@ -391,7 +391,7 @@ address first shows up in a PR.
 Production database access is available via a personal API token. The `admin`
 flag (step 8) must be set first.
 
-1. Have them visit `/admin/db-api-tokens` on the school site while logged in.
+1. Have them visit [`/admin/db-api-tokens`](https://themultiverse.school/admin/db-api-tokens) on the school site while logged in.
 2. They click to mint a new token (90-day expiry, revocable).
 3. They configure the token in their local MCP setup per
    `docs/MCP_PROD_DB_QUERY.md`.
@@ -428,7 +428,7 @@ access first.
 | 2 | Revoke `aethrix@` delegation | Remove them from the delegate list. |
 | 3 | Revoke Vaultwarden access | Delete or disable their vault account. |
 | 4 | Rotate shared credentials | If they had access to secrets in Vaultwarden that are shared (API keys, webhook secrets), rotate those credentials. |
-| 5 | Revoke production DB tokens | Go to `/admin/db-api-tokens` and revoke any tokens they minted. |
+| 5 | Revoke production DB tokens | Go to [`/admin/db-api-tokens`](https://themultiverse.school/admin/db-api-tokens) and revoke any tokens they minted. |
 | 6 | Remove from GitHub org | Remove from the org or downgrade to no access. |
 | 7 | Remove from Stripe dashboard | Settings > Team > remove. |
 | 8 | Remove from SendGrid | Settings > Teammates > remove. |

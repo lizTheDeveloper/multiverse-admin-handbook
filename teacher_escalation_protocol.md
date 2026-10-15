@@ -32,7 +32,7 @@ In a private log (create one if you don't have one):
 - Your assessment of the situation
 
 **3. Provide Crisis Resources**
-- Direct the person to 988 (Suicide & Crisis Lifeline) or Crisis Text Line (741741)
+- Direct the person to [988](tel:988) ([Suicide & Crisis Lifeline](https://988lifeline.org)) or [Crisis Text Line](https://www.crisistextline.org) ([741741](sms:741741))
 - Do not attempt to "talk down" or provide therapy
 - Use grounding phrases: *"I'm going to connect you with people who can help you right now."*
 - Redirect to the [Crisis Resource Appendix](crisis_resource_appendix.md)

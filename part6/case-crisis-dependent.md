@@ -472,7 +472,7 @@ If Jamie had:
 - One crisis ≠ crisis dependency; weekly crises = pattern
 
 ### 2. Boundaries Help Students Build Independence
-- Referring to 988 isn't abandonment—it's appropriate care
+- Referring to [988](https://988lifeline.org) isn't abandonment—it's appropriate care
 - Holding boundaries teaches: "You can handle this with right support"
 - Flexibility within structure (not removal of all structure)
 

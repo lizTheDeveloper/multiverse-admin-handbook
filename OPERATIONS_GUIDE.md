@@ -205,8 +205,8 @@ These three terms refer to different layers of the same structure:
 | Term | What it is | Where students see it |
 |---|---|---|
 | **Track** | The admin/data model. A group of related classes with a monthly subscription price. Lives in the `tracks` table. | Students don't see the word "track" much. |
-| **Path** | The student-facing presentation of a track. Shows progress, upcoming classes, and what's next. | `/paths` — the main student navigation for their learning journey. |
-| **Program** | A marketing/landing page for a track. Curriculum summaries, schedules, Bazaar stats. | `/programs/<slug>` — discovery and sales pages. |
+| **Path** | The student-facing presentation of a track. Shows progress, upcoming classes, and what's next. | [`/paths`](https://themultiverse.school/paths) — the main student navigation for their learning journey. |
+| **Program** | A marketing/landing page for a track. Curriculum summaries, schedules, Bazaar stats. | [`/programs/<slug>`](https://themultiverse.school/programs) — discovery and sales pages. |
 
 **Path and track are the same thing viewed from different angles.** Tracks are how you manage it; paths are how students experience it.
 

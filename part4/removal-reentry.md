@@ -277,7 +277,7 @@ Student emails admin requesting re-entry:
 **If removed for trying to recruit/start projects without completing 90-Day Track:**
 
 **Requirements:**
-- Completion of full 90-Day Visionary Incubation Track
+- Completion of full [90-Day Visionary Incubation Track](../90_day_grounded_visionary_path.md)
 - Demonstrated follow-through (submitted work, attended check-ins)
 - No recruitment during the 90 days
 - Final meeting with mentor/admin

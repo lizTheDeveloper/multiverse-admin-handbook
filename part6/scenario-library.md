@@ -57,7 +57,7 @@ You've set clear boundaries about your availability (9am-6pm weekdays), which yo
 **If you chose D (BEST OPTION):**
 - **Why this is best:**
   - Acknowledges their distress without taking responsibility for it
-  - Provides appropriate resource (988 trained for this)
+  - Provides appropriate resource ([988](https://988lifeline.org) trained for this)
   - Holds your boundary
   - Shows you care while maintaining professional role
   - Clear about next steps (check in tomorrow during hours)
