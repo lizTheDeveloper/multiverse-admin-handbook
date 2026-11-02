@@ -62,7 +62,7 @@ Before anything else, make sure your accounts are set up:
 
 **System Operations:** (see the full **[Operations Guide](OPERATIONS_GUIDE.md)** for step-by-step instructions on each tool)
 
-The admin dashboard is at [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) on [themultiverse.school](https://themultiverse.school). You need the `admin` flag on your student record to access it. Key pages:
+Start at **Admin Home**, [`/admin/home`](https://themultiverse.school/admin/home) ([guide](ADMIN_HOME.md)). The Teaching tab gets you ready for class, the Publishing tab shows what's waiting for approval, and the Program tab shows the school's numbers and what needs doing. The older dashboard is still at [`/admin/dashboard`](https://themultiverse.school/admin/dashboard). You need the `admin` flag on your student record for both. Teachers can open the Teaching tab for their own classes without it. Key pages:
 
 - **Student records** — Search and manage students from the dashboard. The `students` table is the users table for everyone, not just enrolled students.
 - **Scholarships** ([`/admin/scholarships`](https://themultiverse.school/admin/scholarships)) — Review applications, grant awards. Scholarship students have attendance gates:
