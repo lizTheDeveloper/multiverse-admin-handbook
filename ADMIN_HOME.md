@@ -128,7 +128,30 @@ To change either list, ask the dev team. They live in the `program_class_lists` 
 
 **Find a student**: type 2 or more letters of a name, email or Matrix id. Results open that student's CRM page.
 
-**Every screen**: buttons to every admin page, grouped by Money, Programs & schedule, Students, Reports and Ops.
+**Upcoming classes**: every class that's still running, soonest first. It's the same list the old dashboard had. Each class has these buttons:
+- **Edit**: the class settings.
+- **Hub**: the class hub.
+- **Live**: the live view during a session.
+- **Roster**: the student list for that class.
+- **Curriculum**: edit the class's curriculum.
+- **Exercises**: the class's exercises.
+- **Prep**: opens the Teaching tab as that class's teacher.
+
+**Create a class** is at the bottom.
+
+**Every screen**: a button for every admin page, in these groups:
+- Money
+- Programs & schedule
+- Classes & curriculum
+- Students
+- Founding Federation (FF admin home, progress, funnels and the member home)
+- Mutual aid
+- Community
+- Reports & experiments
+- Ops
+- Help & reference (this handbook, the old dashboard, docs)
+
+If a page you used to reach from the old dashboard isn't here, tell the dev team. A check fails whenever an admin page has no button here, so it's a bug.
 
 ---
 
@@ -146,4 +169,7 @@ To change either list, ask the dev team. They live in the `program_class_lists` 
 | See who's cancelling or at risk | Program tab → What needs doing → [`/admin/churn`](https://themultiverse.school/admin/churn) |
 | Check whether a core class is scheduled | Program tab → Core classes with no date |
 | Look up a student | Program tab → Find a student |
+| Edit a class, open its roster, hub or curriculum | Program tab → Upcoming classes |
+| Create a class | Program tab → Upcoming classes → Create a class |
+| Get to FF admin | Program tab → Every screen → Founding Federation |
 | Get to any other admin page | Program tab → Every screen |
