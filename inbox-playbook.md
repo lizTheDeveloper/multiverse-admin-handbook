@@ -282,7 +282,12 @@ If the purchase says **(no receipt available)**, post in Operations.
 
 Changing the price is a money decision. **Megs or Liz decide.** Send the holding reply, then post in Operations: who, which class, what they asked for.
 
-Once it's approved, for **scholarship students**: open the [Scholarship Queue](https://themultiverse.school/admin/scholarships), find them, click **Send Payment Link**, fill in **For** and **Amount ($)**, click **Send**.
+Once it's approved, for **scholarship students**: open the [Scholarship Queue](https://themultiverse.school/admin/scholarships) and find them. Then:
+
+- **One payment**: click **Send Payment Link**, fill in **For** and **Amount ($)**, click **Send**. If **For** is a path, also fill in **Months of path access this covers**.
+- **Paying in parts** (weekly or monthly): click **Send Payment Plan**, fill in **For**, **Amount per payment ($)**, **Frequency**, and **Number of payments**, click **Send**. Use the number of payments that was approved. The plan stops by itself after the last one. **0** means it keeps charging until they cancel it.
+
+Paths are at the top of the **For** list. Each link works only once, so if they lost it, send a new one. Full details: [Putting someone on a path for less](OPERATIONS_GUIDE.md#putting-someone-on-a-path-for-less-payment-links-and-plans).
 
 For everyone else, there is no working button yet. (The **Custom Tuition Links** box on the student page does not send anything.) Megs or Liz will send it.
 
