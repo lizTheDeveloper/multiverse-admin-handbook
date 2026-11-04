@@ -48,13 +48,16 @@ The philosophical framework above guides *how* we work. This section covers *whe
 
 ### Admin Dashboard
 
+**Start at [Admin Home](ADMIN_HOME.md)** ([`/admin/home`](https://themultiverse.school/admin/home)). It has Teaching, Publishing and Program tabs that show what needs doing and link to every admin page.
+
 All admin pages live at `/admin/*` in the main app ([themultiverse.school](https://themultiverse.school)). Log in with your admin account and navigate to any of these:
 
 ![Dashboard overview — stats and tab navigation](screenshots/dashboard-overview.jpg)
 
 | Page | What it's for |
 |---|---|
-| [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) | Main overview — students, classes, enrollment status |
+| [`/admin/home`](https://themultiverse.school/admin/home) | Admin Home: Teaching, Publishing and Program tabs. See [Admin Home](ADMIN_HOME.md) |
+| [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) | The older overview: students, classes, enrollment status |
 | [`/admin/scholarships`](https://themultiverse.school/admin/scholarships) | Review scholarship applications, grant awards, track attendance gates |
 | [`/admin/community/submissions`](https://themultiverse.school/admin/community/submissions) | Moderate community resource submissions |
 | [`/admin/jobs`](https://themultiverse.school/admin/jobs) | Background job monitoring — enrollment pipeline, email sends, calendar syncs |

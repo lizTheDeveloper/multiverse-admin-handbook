@@ -4,6 +4,8 @@ This is the hands-on companion to the rest of the handbook. It covers what each 
 
 **You don't need to read this top to bottom.** Jump to the section you need.
 
+**Not sure where something is?** Start at [Admin Home](ADMIN_HOME.md) ([`/admin/home`](https://themultiverse.school/admin/home)). Its Program tab has a button for every admin screen.
+
 ---
 
 ## Student List
