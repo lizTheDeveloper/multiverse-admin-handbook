@@ -1,6 +1,8 @@
 # Admin Home: Where to Find Things
 
-**Where**: [`/admin/home`](https://themultiverse.school/admin/home). The old [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) still works and has a card linking here.
+**Where**: [`/admin/home`](https://themultiverse.school/admin/home). The old [`/admin/dashboard`](https://themultiverse.school/admin/dashboard) still works.
+
+**Switching views:** every Admin Home tab has **Switch to old view**, and the old dashboard has **Switch to new view** at the top. [`/admin`](https://themultiverse.school/admin) opens whichever one you switched to last, in that browser.
 
 Admin Home splits the admin side by job. Each tab opens with what needs a decision, and every row has a button that takes you to the screen where you act on it.
 
@@ -173,3 +175,4 @@ If a page you used to reach from the old dashboard isn't here, tell the dev team
 | Create a class | Program tab → Upcoming classes → Create a class |
 | Get to FF admin | Program tab → Every screen → Founding Federation |
 | Get to any other admin page | Program tab → Every screen |
+| Go back to the old dashboard | Switch to old view, on any tab |
