@@ -32,7 +32,7 @@ Read in this order — each one assumes the last. The point is the takeaway, not
 - [ ] **[Terms page](https://themultiverse.school/terms) & [/forms/scholarship](https://themultiverse.school/forms/scholarship)** — Read what we have actually promised students, in the words they read.
 - [ ] **[OWNERSHIP_AREAS.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/OWNERSHIP_AREAS.md)** — Who to hand a thing to.
 - [ ] **[GDPR_DATA_RETENTION.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/GDPR_DATA_RETENTION.md)** — What deletion deletes and what it keeps.
-- [ ] **A tour of [/admin/*](https://themultiverse.school/admin/dashboard)** — Open every page in the handbook's lookup table once, so you've seen them before you need one in a hurry.
+- [ ] **A tour of [Admin Home](ADMIN_HOME.md) and [/admin/*](https://themultiverse.school/admin/dashboard)** — Open every page in the handbook's lookup table once, so you've seen them before you need one in a hurry.
 
 ---
 
@@ -102,6 +102,7 @@ Two mailboxes are monitored. That is the whole list.
 | Two accounts for one human | [Merge Duplicates](https://themultiverse.school/admin/students/merge) — preview only; Liz merges. [How](inbox-playbook.md#two-emails-two-accounts) |
 | Deletion request | Liz handles it. [How](inbox-playbook.md#delete-an-account) |
 | Mutual aid queue | [Unmet Needs](https://themultiverse.school/admin/unmet-needs) |
+| What needs doing, numbers, every admin screen | [Admin Home](https://themultiverse.school/admin/home). [How](ADMIN_HOME.md) |
 | Class and schedule admin | [Admin Dashboard](https://themultiverse.school/admin/dashboard) |
 
 > **The admin dashboard has a database assistant tool.** If you need to look something up that isn't on one of the admin pages above, you can ask it a question in plain language and it will query the database for you.
