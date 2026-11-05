@@ -344,4 +344,4 @@ That's the standard.
 - [Teacher Boundaries](part5/teacher-boundaries.md) - How we hold boundaries with care
 - [Liberatory Framework](LIBERATORY_FRAMEWORK.md) - The pedagogy that guides all of this
 - [Good Faith Bench](https://themultiverse.school/tools/good-faith-bench) - Structured triage tool for distinguishing genuine difficulty from bad-faith behavior
-- [Bad Faith Triage Framework](../docs/BAD_FAITH_TRIAGE.md) - Full decision framework behind the Good Faith Bench
+- [Bad Faith Triage Framework](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/BAD_FAITH_TRIAGE.md) - Full decision framework behind the Good Faith Bench

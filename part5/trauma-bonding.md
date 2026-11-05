@@ -336,9 +336,9 @@ Don't manage this alone. Get support and perspective.
 
 ### For Students (to refer)
 - **Therapy referrals** (local mental health services)
-- **988 Lifeline** (crisis support)
-- **NAMI** (support groups)
-- **Trauma-specific resources** (RAINN for sexual assault, domestic violence hotlines, etc.)
+- **[988 Lifeline](https://988lifeline.org)** (crisis support)
+- **[NAMI](https://www.nami.org)** (support groups)
+- **Trauma-specific resources** ([RAINN](https://rainn.org) for sexual assault, [domestic violence hotlines](https://www.thehotline.org), etc.)
 
 ### For Supervision
 - **Professional therapy/supervision** for teachers

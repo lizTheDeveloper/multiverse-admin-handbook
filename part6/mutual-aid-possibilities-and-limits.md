@@ -113,7 +113,7 @@ As a facilitator, you need to understand:
 - Addiction treatment
 
 **Tool for accessing state resources:**
-- **findhelp.org** - Search by ZIP code for available resources
+- **[findhelp.org](https://www.findhelp.org)** - Search by ZIP code for available resources
 - Free, nationwide database
 - Direct students here to access what still exists
 
@@ -342,7 +342,7 @@ Not everyone is a good fit for what this space offers. That doesn't mean they're
 
 **Key resource to share:**
 
-**🔍 findhelp.org**
+**🔍 [findhelp.org](https://www.findhelp.org)**
 - Search by ZIP code for free resources
 - Food banks, housing assistance, mental health services, healthcare
 - Fastest way to find local support
@@ -473,7 +473,7 @@ Not everyone is a good fit for what this space offers. That doesn't mean they're
 **Your response:**
 - Set hard boundaries
 - Refuse indefinite support
-- Connect to crisis resources (988, mental health services)
+- Connect to crisis resources ([988](https://988lifeline.org), mental health services)
 - Say explicitly: "You need professional help we cannot provide"
 - Stop engaging if boundaries violated
 - Protect community resources for others
@@ -507,6 +507,6 @@ Not everyone is a good fit for what this space offers. That doesn't mean they're
 **See Also:**
 - [Vision vs. Delusion](../part2/vision-vs-delusion.md) - Recognizing when someone isn't a good fit
 - [Decolonizing Entitled Learners](decolonizing-entitled-learners.md) - Boundary violations
-- [When to Disengage](when-to-disengage.md) - Knowing when to step back
+- [Boundaries for Educators](../part5/teacher-boundaries.md) - Knowing when to step back
 - [Burnout Prevention](../part5/burnout-prevention.md) - Protecting yourself
-- Student handbook: [Recognizing Dependency](../../multiverse_student_handbook/part2/recognizing-dependency.md)
+- [Student handbook](https://themultiverse.school/handbook) - What students are told about dependency

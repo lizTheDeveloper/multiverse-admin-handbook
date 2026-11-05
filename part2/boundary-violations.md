@@ -226,7 +226,7 @@ Who was informed: [co-facilitators if applicable, or note if you consulted with 
 
 - **Autistic Women & Nonbinary Network:** Transformative Justice Guidelines
 - **AASPIRE Healthcare Toolkit:** Communication strategies
-- **Crisis Text Line:** 741741 (for students in distress)
+- **[Crisis Text Line](https://www.crisistextline.org):** [741741](sms:741741) (for students in distress)
 
 ---
 

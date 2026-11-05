@@ -366,7 +366,7 @@ Teaching students with DPD can feel like **carrying someone else's life** on you
 ### For Students
 - **Therapy:** CBT, assertiveness training, family-focused therapy
 - **Self-help workbooks** on building autonomy and self-esteem
-- **Peer support groups** (NAMI, mental health communities)
+- **Peer support groups** ([NAMI](https://www.nami.org), mental health communities)
 
 ### For Teachers
 - **Indiana Center for Recovery:** Dependent Personality Disorder resources

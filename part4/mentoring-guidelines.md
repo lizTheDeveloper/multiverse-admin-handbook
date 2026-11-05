@@ -212,7 +212,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 > "Thank you for trusting me with that. That's really hard. I'm not trained to support trauma processing—that's something a therapist can help with. Let me connect you to resources."
 
 **Then:**
-- Provide crisis resources if needed (988, therapy referrals)
+- Provide crisis resources if needed ([988](tel:988), therapy referrals)
 - Alert Liz
 - Don't try to process the trauma with them
 - Redirect future sessions to mentoring scope
@@ -355,10 +355,10 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 **For mentors:**
 - Liz (program coordinator) for questions/concerns
 - "Being Mentored Rules" (what mentees agree to)
-- Code of Conduct (overall community standards)
+- [Code of Conduct](multiverse-code-of-conduct.md) (overall community standards)
 
 **For mentees (to refer them to):**
-- 988 Lifeline (crisis support)
+- [988 Lifeline](https://988lifeline.org) (crisis support)
 - Therapy referrals (through school or local resources)
 - Career services (job search, resume help)
 - Technical communities (for peer learning)

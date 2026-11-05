@@ -278,7 +278,7 @@ When someone's sense of self has been destabilized by trauma, invalidation, or c
 - Stalking, harassment, or boundary violations that continue after clear communication
 - Behaviors that make others feel unsafe
 
-**Action:** Provide crisis resources (988), document thoroughly, inform co-facilitators if you have them. Community pause may be needed to protect everyone's safety—you have the authority to make this call.
+**Action:** Provide crisis resources ([988](https://988lifeline.org)), document thoroughly, inform co-facilitators if you have them. Community pause may be needed to protect everyone's safety—you have the authority to make this call.
 
 ### Consult with Peer Advisors
 **Patterns to discuss with peers, therapist, or advisors:**
@@ -357,11 +357,11 @@ Teaching students with BPD can be **emotionally exhausting**, even when you're d
 
 ### For Students
 - **DBT Skills:** Many online resources and workbooks
-- **NAMI (National Alliance on Mental Illness):** BPD support groups
+- **[NAMI (National Alliance on Mental Illness)](https://www.nami.org):** BPD support groups
 - **Therapy referrals:** DBT-trained therapists
 
 ### For Teachers
-- **Therapist Neurodiversity Collective:** Neurodivergent-affirming approaches
+- **[Therapist Neurodiversity Collective](https://therapistndc.org/):** Neurodivergent-affirming approaches
 - **Research:** "Comorbidity and Overlaps between Autism Spectrum and Borderline Personality Disorder" (2023)
 - **Disability justice lens:** Scholar Commons research on BPD and disability justice
 

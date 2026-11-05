@@ -14,7 +14,7 @@ Think of it as the **live experience** layer on top of the school. The school ha
 
 | | School | Campus |
 |---|---|---|
-| **URL** | themultiverse.school | campus.themultiverse.school |
+| **URL** | [themultiverse.school](https://themultiverse.school) | [campus.themultiverse.school](https://campus.themultiverse.school) |
 | **Built with** | Python/Flask | Node.js/React |
 | **Login** | Magic link → sets session cookie | Reads the same session cookie (SSO) |
 | **What it does** | Enrollment, payments, curriculum, admin dashboard | Spatial world, video chat, AI agents, quests, classes |
@@ -98,7 +98,7 @@ When you're logged in as an admin, you see an Admin menu with:
 
 ### Map Editor
 
-Full visual editor at `/editor` (admin only). Tile-by-tile editing of the campus map and building interiors.
+Full visual editor at [`/editor`](https://campus.themultiverse.school/editor) (admin only). Tile-by-tile editing of the campus map and building interiors.
 
 ### Moderation
 
@@ -178,7 +178,7 @@ Campus has a **16-chapter manual** in its repo (`docs/manual/`) covering every f
 - **Production** deploys via Coolify on Hetzner (same server as the school)
 - **Staging** auto-deploys from the `main` branch
 - Both share the school's PostgreSQL and Redis — **migrations must be additive only** (no dropping columns)
-- Deploy process: see the `deploy-campus` skill
+- Deploy process: see the [`deploy-campus`](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/.claude/skills/deploy-campus/SKILL.md) skill
 
 ---
 

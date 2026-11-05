@@ -89,7 +89,7 @@ This pattern can emerge when someone:
 
 ### How to Respond
 - Offer compassionate witnessing: *"I see you're going through a lot. Here are crisis resources."*
-- Connect to appropriate support (988, mutual aid networks, case management) rather than solving problems yourself
+- Connect to appropriate support ([988](tel:988), mutual aid networks, case management) rather than solving problems yourself
 - Maintain consistent expectations for learning engagement
 - Document frequency and impact on learning community
 - Set clear boundaries: *"I care about your wellbeing. The support you need right now is beyond what I can provide as a facilitator. Here are resources designed for crisis support."*
@@ -207,7 +207,7 @@ This pattern can emerge when someone:
 ### How to Respond
 - Don't argue with their experience or try to convince them otherwise
 - Use grounding, supportive language: *"That sounds really frightening. Are you safe right now? Do you have support?"*
-- Offer crisis resources (988, local crisis teams)
+- Offer crisis resources ([988](tel:988), local crisis teams)
 - Assess whether community participation is safe for them right now
 - Document and consider removal immediately
 - Document everything thoroughly
