@@ -149,8 +149,26 @@ When you approve and grant a scholarship:
 
 - **Send payment link** — for reduced-rate scholarships (student pays something)
 - **Send coupon** — one-time discount code
-- **Send payment plan** — weekly payment plan via Stripe
+- **Send payment plan** — weekly or monthly payments via Stripe
 - **Enroll without scholarship** — direct enrollment, no scholarship flag
+
+### Putting someone on a path for less (payment links and plans)
+
+Paths are listed first in the **For** dropdown, under **Paths**, on both **Send Payment Link** and **Send Payment Plan**. Each path appears twice: **Recordings** and **Live Classes**. Whatever amount you enter, paying it gives them the same path access as paying full price.
+
+**One payment, for one or more months**: **Send Payment Link** → pick the path → **Months of path access this covers** (1–12) → **Amount ($)** → **Send**. Example: $90 for 3 months of Recordings. The months box only shows up when a path is picked.
+
+**Weekly or monthly payments**: **Send Payment Plan** → pick the path → **Amount per payment ($)** → **Frequency** (Weekly or Monthly) → **Number of payments**.
+- A number (for example, 8) makes the plan **stop by itself** after that many payments. The summary line under the form shows the total before you send.
+- **0** means ongoing: it keeps charging until the student cancels it themselves.
+- Their path access lasts until one month after their most recent payment. If a weekly plan finishes, they keep access for a month past the last payment.
+
+Things to know:
+- **Each link works once.** If the student needs a new one, send another.
+- The email address on the checkout page is filled in with the applicant's email. If they change it, the payment is filed under the new email, and their access goes to that account.
+- Access starts within about 15 minutes of payment, not instantly.
+- **Send Payment Link** on the **All Students** tab has no months box, so it always covers one month. For more than one month, use the button on their application.
+- Every link and plan you send is added to the application's admin notes.
 
 ### Attendance gates
 

@@ -32,13 +32,13 @@ New to the inbox? Read [Inbox Onboarding](inbox-onboarding.md) first. It explain
 1. **Look the student up first.** Almost every answer is on their student page. See [Find a student](#find-a-student).
 2. **Write a note when you change something.** Their student page has an **Admin Notes** box. One line is enough: what they asked, what you did.
 3. **Reply from the same place they wrote from.** Email gets email. Matrix gets Matrix.
-4. **If you need Liz or Megs, the student still gets a reply today.** They are in Pacific time, so they are often asleep while you work. Send the holding reply below, then post in the **Multiverse Operations** channel in Element.
+4. **If you need someone else, the student still gets a reply today.** Liz is in Pacific time and often asleep while you work. Send the holding reply below, then post in the **Teachers room** (teachers-h1-2026 in Element).
 
 **Holding reply** (use this any time you are waiting on someone):
 
 > Hi [name], thank you for writing. I've looked into this and I'm checking one thing with the team so I get it right. You'll hear back from me within one working day. See you in the Multiverse~
 
-**When you post in the Operations channel**, include: the student's ID number, what they asked, what you found, and what you think should happen. Do not paste their personal details (address, health, money troubles). The ID number is enough.
+**When you post in the Teachers room**, include: the student's ID number, what they asked, what you found, and what you think should happen. Do not paste their personal details (address, health, money troubles). The ID number is enough.
 
 ---
 
@@ -87,7 +87,7 @@ You'll do this for almost every email.
 | You see | Do this |
 |---|---|
 | Payment ✓, class ✓, welcome email sent ✓ | It's in their spam folder, or they're looking at a different inbox. Send **Reply A**. |
-| Payment ✓, class ✓, no welcome email | Send **Reply A** with the class link (see [Class link](#class-link)) so they are not blocked. Then post in Operations: the welcome email needs to be re-sent, and there's no button for that yet. |
+| Payment ✓, class ✓, no welcome email | Send **Reply A** with the class link (see [Class link](#class-link)) so they are not blocked. Then post in the Teachers room: the welcome email needs to be re-sent, and there's no button for that yet. |
 | Payment ✓, class ✗, paid in the last 15 minutes | The system adds people every 10 minutes. Wait 15 minutes and check again. |
 | Payment ✓, class ✗, paid more than 15 minutes ago | Check the enrollment status page (steps below). |
 
@@ -100,7 +100,7 @@ You'll do this for almost every email.
 3. You'll see a table of steps for their purchase. Each step says **Success**, **Failed**, **Skipped** or **Pending**.
 4. If any step says **Failed**, click **Retry All Failed**.
 5. Retry does **not** happen right away. The system tries again on its next run, within about 10 minutes. Come back and check. There is no "success" message.
-6. If it fails again, post in Operations with the student ID and the words in the **Error** column.
+6. If it fails again, post in the Teachers room with the student ID and the words in the **Error** column.
 
 **Reply A:**
 
@@ -117,14 +117,14 @@ This is the most common email we get. Checkout filled in a different email than 
 **Check:**
 
 1. [Search](#find-a-student) for **both** emails. Write down both ID numbers.
-2. Make sure it really is the same person (same name, and they wrote from one of the two addresses). **If you are not sure, stop and ask in Operations.** Someone asking to move an account to a new email is also what an account theft looks like.
+2. Make sure it really is the same person (same name, and they wrote from one of the two addresses). **If you are not sure, stop and ask in the Teachers room.** Someone asking to move an account to a new email is also what an account theft looks like.
 
 **What you see → what to do:**
 
 | You see | Do this |
 |---|---|
 | Only **one** account exists, and they want to log in with another email too | Add the second email to their account (steps below). Send **Reply B**. |
-| **Two** accounts exist | These need to be merged. **Liz does merges.** Prepare the preview (steps below), then post in Operations. Send the holding reply. |
+| **Two** accounts exist | These need to be merged. **Liz does merges.** Prepare the preview (steps below), then post in the Teachers room. Send the holding reply. |
 
 **Add a second email to one account:**
 
@@ -140,7 +140,7 @@ This is the most common email we get. Checkout filled in a different email than 
 1. Go to [Merge Duplicates](https://themultiverse.school/admin/students/merge).
 2. Enter the two ID numbers and click **Preview the merge →**. Nothing changes yet.
 3. Read the preview. The account with the **lower** ID number is kept.
-4. **Do not click Merge.** Post in Operations: "Merge needed: [ID] and [ID], same person, wrote from [which address]. Preview looks clean / shows a warning: [warning]."
+4. **Do not click Merge.** Post in the Teachers room: "Merge needed: [ID] and [ID], same person, wrote from [which address]. Preview looks clean / shows a warning: [warning]."
 
 **Reply B:**
 
@@ -201,7 +201,7 @@ It looks like: `https://themultiverse.school/classroom/204`. The number is the c
 |---|---|---|
 | "You're not in [class] yet" | They are logged in with a different email than they enrolled with, or they are not enrolled | Check [Paid but no class](#paid-but-no-class) and [Two emails](#two-emails-two-accounts) |
 | A login page | They are not logged in | Send [Reply C](#cant-log-in) |
-| Nowhere to go / no meeting | The class has no meeting link set. **Our problem.** | Post in Operations right away, especially if class is today |
+| Nowhere to go / no meeting | The class has no meeting link set. **Our problem.** | Post in the Teachers room right away, especially if class is today |
 
 Testing the link yourself won't tell you much: admins always get through.
 
@@ -220,7 +220,7 @@ Testing the link yourself won't tell you much: admins always get through.
 3. Click **Send Receipt**, then confirm.
 4. You should see **"Receipt sent to [email]"**. A note is added for you automatically.
 
-If the purchase says **(no receipt available)**, post in Operations.
+If the purchase says **(no receipt available)**, post in the Teachers room.
 
 **Reply E:**
 
@@ -262,7 +262,7 @@ If the purchase says **(no receipt available)**, post in Operations.
 |---|---|
 | How do I apply? | Send them to [themultiverse.school/forms/scholarship](https://themultiverse.school/forms/scholarship). Nobody is turned away for lack of money. |
 | I got standups, not a class | That's normal. Standups are the usual first award. Say so warmly so it doesn't feel like a mistake. |
-| "No scholarship seats available" | They did the right thing by writing in. Post in Operations. |
+| "No scholarship seats available" | They did the right thing by writing in. Post in the Teachers room. |
 | What happened to my application? | Look it up (below) and tell them its status. |
 
 **Looking up an application:**
@@ -270,7 +270,7 @@ If the purchase says **(no receipt available)**, post in Operations.
 1. Open the [Scholarship Queue](https://themultiverse.school/admin/scholarships).
 2. Search their name or email. The buttons at the top filter by **Pending**, **Approved**, **Declined**.
 
-**Granting and declining:** **Liz decides scholarships.** Don't click **Grant** or **Decline**. Note that **Decline** sends no email and asks no "are you sure?". Post in Operations with the applicant's ID and status.
+**Granting and declining:** **Liz decides scholarships.** Don't click **Grant** or **Decline**. Note that **Decline** sends no email and asks no "are you sure?". Post in the Teachers room with the applicant's ID and status.
 
 **This page is very private.** It shows people's housing, food, money and personal details. Don't copy any of it into chat or screenshots.
 
@@ -280,11 +280,16 @@ If the purchase says **(no receipt available)**, post in Operations.
 
 *"Can I pay a different amount?" "Can I pay in parts?" "Send me a link to pay."*
 
-Changing the price is a money decision. **Megs or Liz decide.** Send the holding reply, then post in Operations: who, which class, what they asked for.
+Changing the price is a money decision. **Liz decides.** Send the holding reply, then post in the Teachers room: who, which class, what they asked for.
 
-Once it's approved, for **scholarship students**: open the [Scholarship Queue](https://themultiverse.school/admin/scholarships), find them, click **Send Payment Link**, fill in **For** and **Amount ($)**, click **Send**.
+Once it's approved, for **scholarship students**: open the [Scholarship Queue](https://themultiverse.school/admin/scholarships) and find them. Then:
 
-For everyone else, there is no working button yet. (The **Custom Tuition Links** box on the student page does not send anything.) Megs or Liz will send it.
+- **One payment**: click **Send Payment Link**, fill in **For** and **Amount ($)**, click **Send**. If **For** is a path, also fill in **Months of path access this covers**.
+- **Paying in parts** (weekly or monthly): click **Send Payment Plan**, fill in **For**, **Amount per payment ($)**, **Frequency**, and **Number of payments**, click **Send**. Use the number of payments that was approved. The plan stops by itself after the last one. **0** means it keeps charging until they cancel it.
+
+Paths are at the top of the **For** list. Each link works only once, so if they lost it, send a new one. Full details: [Putting someone on a path for less](OPERATIONS_GUIDE.md#putting-someone-on-a-path-for-less-payment-links-and-plans).
+
+For everyone else, there is no working button yet. (The **Custom Tuition Links** box on the student page does not send anything.) Post in the Teachers room and Liz will send it.
 
 ---
 
@@ -292,7 +297,7 @@ For everyone else, there is no working button yet. (The **Custom Tuition Links**
 
 *"I want a refund." "Can I cancel?"*
 
-**You never grant refunds.** Liz processes them. Your job is to collect the facts so she can decide fast.
+**You never grant refunds.** Liz processes them. Your job is to collect the facts so Liz can decide fast.
 
 1. [Find the student](#find-a-student). Note: what they paid for, when, and whether the class has started.
 2. Check the rule (from the [terms](https://themultiverse.school/terms)):
@@ -300,7 +305,7 @@ For everyone else, there is no working button yet. (The **Custom Tuition Links**
    - **Never got access or links:** full refund.
    - **After the class has started:** no refund. They can move to a future group of the same class for free, if they ask before it starts.
 3. Send the holding reply.
-4. Post in Operations: "Refund request: [ID], [class], paid [date], class starts/started [date], their reason: [one line]."
+4. Post in the Teachers room: "Refund request: [ID], [class], paid [date], class starts/started [date], their reason: [one line]."
 
 **Never mention cancelling to someone who hasn't asked about it.**
 
@@ -315,7 +320,7 @@ For everyone else, there is no working button yet. (The **Custom Tuition Links**
 1. Make sure the email came **from the account's own email address.** If not, ask them to write from that address.
 2. [Find the student](#find-a-student) and note their ID.
 3. Send the holding reply.
-4. Post in Operations: "Deletion request from [ID], sent from their account email."
+4. Post in the Teachers room: "Deletion request from [ID], sent from their account email."
 
 ---
 
@@ -341,7 +346,7 @@ If the list says **"No unresolved form submissions"**, their form saved fine. Lo
 1. Recordings are inside the class's materials. To find them: [Admin Dashboard](https://themultiverse.school/admin/dashboard) → **Teachers** tab → **Upcoming Classes** → click **🎛️ Hub** next to the class → **View as student**. Copy that page's address to send to the student.
 2. **Open it and check before you promise.** Not every class has videos.
 3. Do **not** send people to `/recordings`. That page is empty.
-4. If the recording is missing, post in Operations with the class name and date.
+4. If the recording is missing, post in the Teachers room with the class name and date.
 
 **Reply F:**
 
@@ -369,7 +374,7 @@ More detail: [Crisis Resource Appendix](crisis_resource_appendix.md) · [Emergen
 
 ## Things that need an engineer
 
-You'll hit these. They're not your fault, and there's no button for them yet. Post in Operations with the student ID.
+You'll hit these. They're not your fault, and there's no button for them yet. Post in the Teachers room with the student ID.
 
 - Re-sending a welcome email
 - A payment link for a regular (non-scholarship) student
@@ -378,4 +383,4 @@ You'll hit these. They're not your fault, and there's no button for them yet. Po
 - A merge that says **Cannot merge**
 - A receipt that says **(no receipt available)**
 
-If you find something that should be on this list, say so in Operations. That is how this page gets better.
+If you find something that should be on this list, say so in the Teachers room. That is how this page gets better.
