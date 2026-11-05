@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [Introduction](README.md)
+* [Admin Home: Where to Find Things](ADMIN_HOME.md)
 * [Operations Guide](OPERATIONS_GUIDE.md)
 * [Campus Guide](CAMPUS_GUIDE.md)
 * [Inbox Playbook: Answering Student Email](inbox-playbook.md)
