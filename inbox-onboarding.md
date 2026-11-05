@@ -47,7 +47,7 @@ These aren't tests. They're things to try so you've seen them before a student a
 - [ ] **Send yourself a durable classroom link and click it** — See what the student sees — the airlock page, the destination options. This is the link you'll send people constantly.
 - [ ] **Find a class recording the way a student would** — Open a class's curriculum page and watch a video from it. Then open one that has *no* videos, so you know both shapes before someone describes one to you.
 - [ ] **Draft a reply to a current email and run it by someone** — Pick one that looks interesting — a prospective student question, an access problem, whatever catches your eye. Share your draft in the operations channel before sending.
-- [ ] **Read through the escalation paths in the [handbook](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md)** — Refunds go to Megs or Liz (Liz processes them). Campus issues go to Neek. Partnerships, enterprise requests, or custom classes go to Spencer. Crisis disclosures have a specific procedure (section 4). You don't need to memorize this — it's all in the Quick Ref and Triage sections here.
+- [ ] **Read through the escalation paths in the [handbook](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md)** — Refunds go to Liz, through the Teachers room. Campus issues go to Neek. Partnerships, enterprise requests, or custom classes go to Spencer. Crisis disclosures have a specific procedure (section 4). You don't need to memorize this — it's all in the Quick Ref and Triage sections here.
 
 ### Settling in
 
@@ -94,8 +94,8 @@ Two mailboxes are monitored. That is the whole list.
 | Their notes | Their student page → **Admin Notes** |
 | Did enrollment complete | [Enrollment Status](https://themultiverse.school/admin/enrollment-status). [How](inbox-playbook.md#paid-but-no-class) |
 | Resend a receipt | Their student page → **Purchases** → **Resend Receipt**. [How](inbox-playbook.md#resend-a-receipt) |
-| Send a payment link | Scholarship students only, from the [Scholarship Queue](https://themultiverse.school/admin/scholarships). Everyone else: ask Megs or Liz. [How](inbox-playbook.md#payment-links) |
-| Re-send the welcome email | No button yet. Send them the class link, then ask in Operations. [How](inbox-playbook.md#paid-but-no-class) |
+| Send a payment link | Scholarship students only, from the [Scholarship Queue](https://themultiverse.school/admin/scholarships). Everyone else: ask in the Teachers room. [How](inbox-playbook.md#payment-links) |
+| Re-send the welcome email | No button yet. Send them the class link, then ask in the Teachers room. [How](inbox-playbook.md#paid-but-no-class) |
 | Enroll or unenroll by hand | [Manual Enrollment](https://themultiverse.school/admin/enroll_student) / student page → **Unenroll**. [How](inbox-playbook.md#add-someone-to-a-class) |
 | Scholarships | [Scholarship Queue](https://themultiverse.school/admin/scholarships). [How](inbox-playbook.md#scholarships) |
 | Form submissions that failed to save | [Form submission recovery](https://themultiverse.school/admin/form-fallback) (not on the dashboard — bookmark it). [How](inbox-playbook.md#a-form-didnt-go-through) |
@@ -138,7 +138,7 @@ Ordered by how much mail each actually generates.
 
 Sometimes this is the email mismatch above. Sometimes it's the batch job, which sweeps every ~10 minutes.
 
-**Check [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) before doing anything.** If a step failed, click **Retry All Failed**. There's no button to re-send the welcome email yet, so send them the class link yourself and ask in Operations. Full steps: [Paid but no class](inbox-playbook.md#paid-but-no-class).
+**Check [`/admin/enrollment-status`](https://themultiverse.school/admin/enrollment-status) before doing anything.** If a step failed, click **Retry All Failed**. There's no button to re-send the welcome email yet, so send them the class link yourself and ask in the Teachers room. Full steps: [Paid but no class](inbox-playbook.md#paid-but-no-class).
 
 Enrollment mail lands in spam often enough that "check your junk folder" is a real first question, not a brush-off.
 
@@ -169,12 +169,12 @@ Largest label by volume, and mostly replies to automated mail, not applications.
 - **"How do I join?"** → the scholarship form at [`/forms/scholarship`](https://themultiverse.school/forms/scholarship). Nobody is turned away for lack of funds.
 - **"No scholarship seats available"** is deliberate friction. A student writing in about it has done the intended thing, not hit a wall. See section 8 of the [handbook](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/INBOX_HANDBOOK.md).
 - **"I applied but was given standups"** — standups are the default scholarship award. Say so plainly; it reads as a mistake otherwise.
-- **Payment plans** — flexibility: shift the date, or waive it. **Waivers and refunds go to Megs or Liz; Liz processes them.**
+- **Payment plans** — flexibility: shift the date, or waive it. **Waivers and refunds are Liz's call; post them in the Teachers room.**
 - **The contract's likeness clause** frightens people. Answer it warmly and quickly — students have sat blocked on this for weeks.
 
 ### Refunds, cancellations, transfers
 
-**Refund questions go to Megs or Liz.** Liz is the one who processes them. You gather the facts and say what you see; you do not grant them.
+**Refund questions go to Liz**, through the Teachers room. Liz processes them. You gather the facts and say what you see; you do not grant them.
 
 - Full refund **before the class starts** — no questions asked.
 - Full refund if class links or access never arrived.
@@ -227,7 +227,10 @@ When something comes in, help the student, then mention it in the **Multiverse O
 
 Walking students through login, sending them a classroom link, looking up their enrollment status, answering questions about classes and scheduling, and anything where the answer is already in the FAQ section above.
 
-### Escalate to Megs or Liz
+### Escalate in the Teachers room
+
+Post in the **Teachers room** (teachers-h1-2026 in Element). Liz and the teachers are there.
+
 
 - Anything involving **money or scholarships** (eligibility, refunds, scholarship records) — Liz processes refunds
 - **Merging or deleting** student records or Matrix accounts
@@ -242,7 +245,7 @@ Walking students through login, sending them a classroom link, looking up their 
 |---|---|---|
 | **Quick answer** | Is this for me? Are classes remote? Which class do I start with? | Use the FAQ section. Send without agonising. |
 | **Lookup first** | They paid and got nothing, can't see materials, wrong email | Check the admin pages before you answer. Most of these have a specific cause and a specific fix. |
-| **Hand off** | Refunds, anything irreversible, anything you're unsure about | Share what you found in the operations channel and escalate to Megs or Liz. |
+| **Hand off** | Refunds, anything irreversible, anything you're unsure about | Share what you found in the Teachers room. |
 
 ### When You Don't Know
 
@@ -262,12 +265,12 @@ Areas are assigned, not issues. When something needs to go to someone else, send
 
 | Person | Areas |
 |---|---|
-| **Megs** | Money & enrollment. Community, mutual aid & comms. The enrollment pipeline, purchases, scholarship slots, receipts, the funnel. Contributor flows, outbound comms. |
+| **Angela & Ivy** | Operations. The inbox, student questions, enrollment lookups and retries, the Scholarship Queue's payment links and plans once Liz approves them. |
 | **Neek** | Auth, sessions & security. Jobs, infra & monitoring. Campus & game. The world, calls, agents, quests, deploys. |
 | **Liz** | Curriculum & content. Site front end. Processes refunds, scholarship eligibility, merges, deletions, anything irreversible. |
 | **Spencer** | New revenue, partnerships & enterprise. Custom class requests, enterprise inquiries, anything that opens a new money path rather than fixing an existing one. |
 
-> **The short version:** Money → Megs or Liz (Liz processes refunds). Campus broken → Neek. Content → Liz. Partnerships, enterprise, or custom classes → Spencer. Everything else → Megs first, who'll redirect if needed.
+> **The short version:** Day-to-day ops → Angela & Ivy. Money decisions → Liz (Liz processes refunds). Campus broken → Neek. Content → Liz. Partnerships, enterprise, or custom classes → Spencer. Not sure → the Teachers room, and someone will redirect.
 
 ### Key Addresses
 
