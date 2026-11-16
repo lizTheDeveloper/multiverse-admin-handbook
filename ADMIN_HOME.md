@@ -11,7 +11,7 @@ Admin Home splits the admin side by job. Each tab opens with what needs a decisi
 | [Teaching](https://themultiverse.school/admin/home/teaching) | Whoever teaches the next session, plus admins | Am I ready for class, and where are all the links? |
 | [Publishing](https://themultiverse.school/admin/home/publishing) | Admins | What's waiting for someone to approve, and where do I publish things? |
 | [Program](https://themultiverse.school/admin/home/program) | Admins | How is the school doing, and what needs doing this week? |
-| Ops | Admins | For now, a link back to the old dashboard. Its cards move here later. |
+| [Ops](https://themultiverse.school/admin/home/ops) | Admins | Did that email go out? For now it holds **Sent emails** and a link to the old dashboard. More ops cards move here later. |
 
 Numbers on these tabs come from the same place as the screen each button opens, so a count of 11 on Admin Home means 11 on the screen behind it. If one section can't load, that card says "Couldn't load …" and the rest of the page still works. Reload, and if it persists, tell the dev team.
 
@@ -146,6 +146,7 @@ To change either list, ask the dev team. They live in the `program_class_lists` 
 - Programs & schedule
 - Classes & curriculum
 - Students
+- **Email**: Sent emails, Inbox review queue, Email CRM, Newsletter
 - Founding Federation (FF admin home, progress, funnels and the member home)
 - Mutual aid
 - Community
@@ -154,6 +155,33 @@ To change either list, ask the dev team. They live in the `program_class_lists` 
 - Help & reference (this handbook, the old dashboard, docs)
 
 If a page you used to reach from the old dashboard isn't here, tell the dev team. A check fails whenever an admin page has no button here, so it's a bug.
+
+---
+
+## Ops tab
+
+The full Ops tab comes later. For now it has two buttons:
+- **Sent emails**: see below.
+- **Open the old dashboard**: the other ops screens, until they move here.
+
+### Sent emails
+
+![Sent emails](screenshots/admin-sent-emails.png)
+
+**Where**: [`/admin/sent-emails`](https://themultiverse.school/admin/sent-emails), from the Ops tab or **Every screen → Email**.
+
+Every email the site and its jobs send is recorded, back to March 19, 2026. This page shows that record. It only reads. Nothing on it sends an email or changes anything.
+
+- **The list**: one row per mailing. Emails with the same type and subject are counted together, so a one-off send like "Return of the Lost Recordings" is a single row (376 sent, 333 people). Choose 7, 30, 90 or 365 days, and narrow it by type. Times are Pacific.
+- **Click a subject** to see who got it, newest first. A name links to that student's Email CRM page. "Not a student account" means the address has no account, like a newsletter-only reader.
+- **Everything we sent one address**: type an address to see every email the site has sent it, ever.
+- **View** opens one email exactly as it was sent. Sign-in, password-reset and verification emails show only when they went and to whom, never what they said, because they contain a working sign-in link.
+
+**When a student says "I never got the email"**, look up their address here first:
+- **There's a row**: we sent it, and SendGrid accepted it. Ask them to check spam, and check the address for a typo.
+- **No row**: we never sent it. That's a system problem. Fix it for the student, then tell the dev team.
+
+What's *not* here: emails sent before March 19, 2026, and anything someone sent by hand from Gmail or SendGrid.
 
 ---
 
@@ -173,6 +201,8 @@ If a page you used to reach from the old dashboard isn't here, tell the dev team
 | Look up a student | Program tab → Find a student |
 | Edit a class, open its roster, hub or curriculum | Program tab → Upcoming classes |
 | Create a class | Program tab → Upcoming classes → Create a class |
+| Check whether an email went out, and who got it | Ops tab → Sent emails |
+| See everything we sent one student | Ops tab → Sent emails → type their address |
 | Get to FF admin | Program tab → Every screen → Founding Federation |
 | Get to any other admin page | Program tab → Every screen |
 | Go back to the old dashboard | Switch to old view, on any tab |

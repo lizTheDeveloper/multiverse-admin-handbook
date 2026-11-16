@@ -95,6 +95,7 @@ Two mailboxes are monitored. That is the whole list.
 | Did enrollment complete | [Enrollment Status](https://themultiverse.school/admin/enrollment-status). [How](inbox-playbook.md#paid-but-no-class) |
 | Resend a receipt | Their student page → **Purchases** → **Resend Receipt**. [How](inbox-playbook.md#resend-a-receipt) |
 | Send a payment link | Scholarship students only, from the [Scholarship Queue](https://themultiverse.school/admin/scholarships). Everyone else: ask in the Teachers room. [How](inbox-playbook.md#payment-links) |
+| "I never got the email": did it go out? | [Sent emails](https://themultiverse.school/admin/sent-emails): type their address. Row = we sent it (check spam/typo); no row = we didn't. [How](ADMIN_HOME.md#sent-emails) |
 | Re-send the welcome email | No button yet. Send them the class link, then ask in the Teachers room. [How](inbox-playbook.md#paid-but-no-class) |
 | Enroll or unenroll by hand | [Manual Enrollment](https://themultiverse.school/admin/enroll_student) / student page → **Unenroll**. [How](inbox-playbook.md#add-someone-to-a-class) |
 | Scholarships | [Scholarship Queue](https://themultiverse.school/admin/scholarships). [How](inbox-playbook.md#scholarships) |
