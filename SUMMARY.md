@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Admin Home: Where to Find Things](ADMIN_HOME.md)
+* [The Email Inbox](EMAIL_INBOX.md)
 * [Operations Guide](OPERATIONS_GUIDE.md)
 * [Campus Guide](CAMPUS_GUIDE.md)
 * [Inbox Playbook: Answering Student Email](inbox-playbook.md)
