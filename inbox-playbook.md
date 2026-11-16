@@ -81,6 +81,7 @@ You'll do this for almost every email.
    - **No payment** → they probably paid with a different email. Go to [Two emails, two accounts](#two-emails-two-accounts).
 3. Look at **Classes Taken**. Is the class there?
 4. Look at **Emails**. Was a welcome email sent? To which address?
+   Or type the address they wrote from into [Sent emails](https://themultiverse.school/admin/sent-emails). It lists every email the site sent that address, even when it isn't the address on their account.
 
 **What you see → what to do:**
 
