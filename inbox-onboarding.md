@@ -32,6 +32,7 @@ Read in this order — each one assumes the last. The point is the takeaway, not
 - [ ] **[Terms page](https://themultiverse.school/terms) & [/forms/scholarship](https://themultiverse.school/forms/scholarship)** — Read what we have actually promised students, in the words they read.
 - [ ] **[OWNERSHIP_AREAS.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/OWNERSHIP_AREAS.md)** — Who to hand a thing to.
 - [ ] **[GDPR_DATA_RETENTION.md](https://github.com/lizTheDeveloper/themultiverse.school/blob/production/docs/GDPR_DATA_RETENTION.md)** — What deletion deletes and what it keeps.
+- [ ] **[The Email Inbox](EMAIL_INBOX.md)** — The page you'll answer mail from, [`/admin/email`](https://themultiverse.school/admin/email): the tabs, claiming an email, Waiting on them, and what the Journey's answers mean.
 - [ ] **A tour of [Admin Home](ADMIN_HOME.md) and [/admin/*](https://themultiverse.school/admin/dashboard)** — Open every page in the handbook's lookup table once, so you've seen them before you need one in a hurry.
 
 ---
@@ -90,6 +91,7 @@ Two mailboxes are monitored. That is the whole list.
 
 | What you need | Where |
 |---|---|
+| Answer the mail | [Email inbox](https://themultiverse.school/admin/email). [How](EMAIL_INBOX.md) |
 | Everything about one student | [Student List](https://themultiverse.school/student_list) → search → **CRM** link. [How](inbox-playbook.md#find-a-student) |
 | Their notes | Their student page → **Admin Notes** |
 | Did enrollment complete | [Enrollment Status](https://themultiverse.school/admin/enrollment-status). [How](inbox-playbook.md#paid-but-no-class) |

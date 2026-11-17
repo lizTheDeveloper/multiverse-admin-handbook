@@ -11,7 +11,7 @@ Admin Home splits the admin side by job. Each tab opens with what needs a decisi
 | [Teaching](https://themultiverse.school/admin/home/teaching) | Whoever teaches the next session, plus admins | Am I ready for class, and where are all the links? |
 | [Publishing](https://themultiverse.school/admin/home/publishing) | Admins | What's waiting for someone to approve, and where do I publish things? |
 | [Program](https://themultiverse.school/admin/home/program) | Admins | How is the school doing, and what needs doing this week? |
-| [Ops](https://themultiverse.school/admin/home/ops) | Admins | Did that email go out? For now it holds **Sent emails** and a link to the old dashboard. More ops cards move here later. |
+| [Ops](https://themultiverse.school/admin/home/ops) | Admins | Answering the mail, and did that email go out? For now it holds the **Email inbox**, **Sent emails** and a link to the old dashboard. More ops cards move here later. |
 
 Numbers on these tabs come from the same place as the screen each button opens, so a count of 11 on Admin Home means 11 on the screen behind it. If one section can't load, that card says "Couldn't load …" and the rest of the page still works. Reload, and if it persists, tell the dev team.
 
@@ -146,7 +146,7 @@ To change either list, ask the dev team. They live in the `program_class_lists` 
 - Programs & schedule
 - Classes & curriculum
 - Students
-- **Email**: Sent emails, Inbox review queue, Email CRM, Newsletter
+- **Email**: Email inbox, Sent emails, Inbox review queue, Email CRM, Newsletter
 - Founding Federation (FF admin home, progress, funnels and the member home)
 - Mutual aid
 - Community
@@ -160,7 +160,8 @@ If a page you used to reach from the old dashboard isn't here, tell the dev team
 
 ## Ops tab
 
-The full Ops tab comes later. For now it has two buttons:
+The full Ops tab comes later. For now it has three buttons:
+- **Email inbox**: answer the mail to liz@ and aethrix@, and see a student's whole email history. Its own guide: [The Email Inbox](EMAIL_INBOX.md).
 - **Sent emails**: see below.
 - **Open the old dashboard**: the other ops screens, until they move here.
 
@@ -201,6 +202,7 @@ What's *not* here: emails sent before March 19, 2026, and anything someone sent 
 | Look up a student | Program tab → Find a student |
 | Edit a class, open its roster, hub or curriculum | Program tab → Upcoming classes |
 | Create a class | Program tab → Upcoming classes → Create a class |
+| Answer the mail | Ops tab → Email inbox. [How](EMAIL_INBOX.md) |
 | Check whether an email went out, and who got it | Ops tab → Sent emails |
 | See everything we sent one student | Ops tab → Sent emails → type their address |
 | Get to FF admin | Program tab → Every screen → Founding Federation |
